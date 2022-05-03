@@ -936,3 +936,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.03-11.59.23:055][299]LogEditorActor: Deleted Actor: VolumetricLightmapDensityVolume
 [2022.05.03-11.59.23:064][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2022.05.03-11.59.23:065][299]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.05.03-12.06.06:115][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.03-12.06.06:370][714]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Level_Auto15447B31C45FB491D81ABEEB2AD84C311.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/Scenes/Level_Auto1.umap'
+[2022.05.03-12.06.06:384][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Level' took 0.277
+[2022.05.03-12.06.06:384][714]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.277
