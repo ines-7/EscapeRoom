@@ -1091,3 +1091,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.17-09.33.10:314][217]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_MainMenu2C3CBBD741ECB1B62A6F15A991D32028.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_MainMenu.uasset'
 [2022.05.17-09.33.10:341][217]AssetCheck: New page: Asset Save: WB_MainMenu
 [2022.05.17-09.33.10:341][217]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu
+[2022.05.17-09.35.30:050][204]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.05.17-09.35.30:061][204]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.05.17-09.35.50:020][402]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Settings
+[2022.05.17-09.35.50:022][402]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.05.17-09.36.44:538][671]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBlueprint/WB_Settings.WB_Settings
+[2022.05.17-09.36.47:092][801]LogSlate: Window 'WB_Settings' being destroyed
+[2022.05.17-09.37.13:199][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.05.17-09.37.16:658][362]LogSlate: Window 'Save Content' being destroyed
+[2022.05.17-09.37.16:686][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_Settings" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Settings.uasset" SILENT=true
+[2022.05.17-09.37.16:688][362]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Settings7541AA624B66C374B8424C8687E03138.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Settings.uasset'
+[2022.05.17-09.37.16:726][362]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/MainMenu.MainMenu
+[2022.05.17-09.37.16:726][362]Cmd: MAP LOAD FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/Scenes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.17-09.37.16:726][362]LightingResults: New page: Lighting Build
+[2022.05.17-09.37.16:726][362]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.05.17-09.37.16:727][362]LogWorld: UWorld::CleanupWorld for LevelPrototyp, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-09.37.16:728][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-09.37.16:728][362]MapCheck: New page: Map Check
+[2022.05.17-09.37.16:728][362]LightingResults: New page: Lighting Build
+[2022.05.17-09.37.16:758][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.17-09.37.16:762][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.05.17-09.37.16:789][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.05.17-09.37.16:816][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.05.17-09.37.16:816][362]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.05.17-09.37.16:817][362]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.17-09.37.16:817][362]LogAIModule: Creating AISystem for world MainMenu
+[2022.05.17-09.37.16:844][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.05.17-09.37.16:849][362]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.17-09.37.16:850][362]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,05ms to complete.
+[2022.05.17-09.37.16:850][362]LogFileHelpers: Loading map 'MainMenu' took 0.124
+[2022.05.17-09.37.16:869][362]AssetCheck: New page: Asset Save: WB_Settings
+[2022.05.17-09.37.16:869][362]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Settings.WB_Settings
