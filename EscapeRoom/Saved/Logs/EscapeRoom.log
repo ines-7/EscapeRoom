@@ -1122,3 +1122,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.17-09.37.16:850][362]LogFileHelpers: Loading map 'MainMenu' took 0.124
 [2022.05.17-09.37.16:869][362]AssetCheck: New page: Asset Save: WB_Settings
 [2022.05.17-09.37.16:869][362]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Settings.WB_Settings
+[2022.05.17-09.40.18:877][372]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBlueprint/WB_Inventory.WB_Inventory
+[2022.05.17-09.40.27:378][852]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBlueprint/WB_IngameMenu.WB_IngameMenu
+[2022.05.17-09.40.57:387][615]LogSlate: Took 0.010017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.05.17-09.42.15:358][262]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.17-09.42.38:282][630]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.17-09.42.48:898][262]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.17-09.43.22:581][241]BlueprintLog: New page: Compile WB_Settings
+[2022.05.17-09.43.22:631][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.05.17-09.43.23:215][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_Settings" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Settings.uasset" SILENT=true
+[2022.05.17-09.43.23:219][273]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Settings3FC9AB99461F6381D8EB97A8EECBD4C5.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Settings.uasset'
+[2022.05.17-09.43.23:233][273]AssetCheck: New page: Asset Save: WB_Settings
+[2022.05.17-09.43.23:233][273]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Settings.WB_Settings
+[2022.05.17-09.55.04:510][844]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.05.17-09.55.04:528][844]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.05.17-09.55.13:467][381]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Audio_Settings
+[2022.05.17-09.55.13:468][381]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.05.17-09.55.25:476][100]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBlueprint/WB_Audio_Settings.WB_Audio_Settings
+[2022.05.17-09.55.29:169][303]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Audio_Settings0C340A944DD638C9962CA38EE6997E74.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Audio_Settings.uasset'
+[2022.05.17-09.55.29:180][303]AssetCheck: New page: Asset Save: WB_Audio_Settings
+[2022.05.17-09.55.29:180][303]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Audio_Settings.WB_Audio_Settings
+[2022.05.17-09.55.58:547][ 63]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.05.17-09.55.58:558][ 63]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.05.17-09.56.07:279][587]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Audio_Slider
+[2022.05.17-09.56.07:280][587]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.05.17-09.56.09:126][697]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBlueprint/WB_Audio_Slider.WB_Audio_Slider
+[2022.05.17-10.04.11:653][ 73]LogEditorTransaction: Undo Edit X
+[2022.05.17-10.05.22:060][185]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.17-10.05.40:086][262]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.17-10.06.52:023][570]LogEditorTransaction: Undo Set Vector Property
+[2022.05.17-10.12.41:938][  7]BlueprintLog: New page: Compile WB_Audio_Slider
+[2022.05.17-10.12.41:986][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.05.17-10.12.42:616][ 41]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Audio_SliderEDE5260C4EBC23AD2C4D3BA714C12A8C.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Audio_Slider.uasset'
+[2022.05.17-10.12.42:631][ 41]AssetCheck: New page: Asset Save: WB_Audio_Slider
+[2022.05.17-10.12.42:631][ 41]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Audio_Slider.WB_Audio_Slider
