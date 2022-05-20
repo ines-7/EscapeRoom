@@ -1648,3 +1648,510 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.20-09.01.19:655][173]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
 [2022.05.20-09.55.20:601][274]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
 [2022.05.20-09.57.36:927][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.05.20-10.29.57:122][101]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.05.20-10.29.58:888][243]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.20-10.30.00:266][368]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.20-10.30.03:816][749]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.20-10.30.04:029][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-10.30.04:029][749]PIE: New page: PIE session: Level (20.05.2022, 14:30:04)
+[2022.05.20-10.30.04:054][749]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2022.05.20-10.30.04:101][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046413s)
+[2022.05.20-10.30.04:121][749]LogAIModule: Creating AISystem for world Level
+[2022.05.20-10.30.04:122][749]LogPlayLevel: PIE: World Init took: (0.021078s)
+[2022.05.20-10.30.04:122][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.067967s)
+[2022.05.20-10.30.04:199][749]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2022.05.20-10.30.04:233][749]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.20-10.30.04:233][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-10.30.04:233][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-10.30.04:233][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-10.30.04:233][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-10.30.04:233][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.20-10.30.04:233][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.20-10.30.04:233][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.20-10.30.04:233][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-10.30.04:236][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-10.30.04:236][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-10.30.04:236][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-10.30.04:236][749]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.20-10.30.04:280][749]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.20-10.30.04:280][749]LogAudioMixer: Display: 1: FrontRight
+[2022.05.20-10.30.04:344][749]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.05.20-10.30.04:351][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-10.30.04:352][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-10.30.04:352][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-10.30.04:355][749]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.20-10.30.04:355][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.20-10.30.04:355][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.20-10.30.04:357][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.20-10.30.04:357][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.20-10.30.04:357][749]LogInit: FAudioDevice initialized.
+[2022.05.20-10.30.04:357][749]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level'.
+[2022.05.20-10.30.04:378][749]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.05.20-10.30.04:383][749]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.05.20-12.30.04
+[2022.05.20-10.30.04:383][749]LogWorld: Bringing up level for play took: 0.002863
+[2022.05.20-10.30.04:384][749]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.05.20-10.30.04:389][749]PIE: Server logged in
+[2022.05.20-10.30.04:390][749]PIE: Play in editor total start time 0,363 seconds.
+[2022.05.20-10.30.20:185][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-10.30.20:185][614]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Level
+[2022.05.20-10.30.20:185][614]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.30.20:185][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-10.30.20:197][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-10.30.20:211][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-10.30.20:262][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-10.30.20:263][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.20-10.30.20:265][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.20-10.30.20:272][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.05.20-10.30.20:337][615]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.20-10.30.23:880][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.05.20-10.30.28:161][105]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.05.20-10.33.56:520][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.05.20-10.33.56:543][875]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Level_Auto2B90124004E84B737F30CD5904CB09122.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/Scenes/Level_Auto2.umap'
+[2022.05.20-10.33.56:545][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Level' took 0.053
+[2022.05.20-10.33.56:545][875]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2022.05.20-10.47.07:344][618]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-10.47.07:845][619]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-10.47.09:252][623]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-10.47.11:600][630]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-10.47.12:601][633]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-10.47.13:103][634]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-10.47.13:739][635]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.05.20-11.00.24:216][990]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-11.00.24:718][991]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-11.08.09:643][533]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\SM_Unreal\SM_Chair.fbx)
+[2022.05.20-11.08.10:015][533]LogFbx: Loading FBX Scene from C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\SM_Unreal\SM_Chair.fbx
+[2022.05.20-11.08.10:072][533]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.20-11.08.15:080][533]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.20-11.08.15:593][533]LogFbx: Display: Triangulating static mesh SM_Chair
+[2022.05.20-11.08.16:029][533]LogStaticMesh: Building static mesh SM_Chair...
+[2022.05.20-11.08.16:708][533]LogStaticMesh: Built static mesh [0.73s] /Game/Assets/SM_Chair.SM_Chair
+[2022.05.20-11.08.16:990][533]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_9CE2B6FB46754B699726C4AA1515F12E_228332BAE0224DD294E232B87D83948FQu__789BC71FD5B6B4E3A7211B213F7AEBB9E3CB2517.
+[2022.05.20-11.08.16:990][533]LogDerivedDataCache: Display: Failed to write STATICMESH_9CE2B6FB46754B699726C4AA1515F12E_228332BAE0224DD294E232B87D83948FQu__789BC71FD5B6B4E3A7211B213F7AEBB9E3CB2517 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.08.17:205][533]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_8DE1CEE04986321A853CD68C06C7BBF__A7D77CB8D114C287CF5B3DC769A0880E88900ABF.
+[2022.05.20-11.08.17:205][533]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_8DE1CEE04986321A853CD68C06C7BBF__A7D77CB8D114C287CF5B3DC769A0880E88900ABF to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.08.17:222][533]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_8DE1CEE04986321A8__3C5979C93CF978D8019DCE71B56AA9838BBCBAEC.
+[2022.05.20-11.08.17:222][533]LogDerivedDataCache: Display: Failed to write NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_8DE1CEE04986321A8__3C5979C93CF978D8019DCE71B56AA9838BBCBAEC to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.08.17:698][533]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_CDDDFE884ACAED7B87564BB08BE24BE__34CC167879C5A1C7388452F52A96B7B8CD1282D7.
+[2022.05.20-11.08.17:698][533]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_CDDDFE884ACAED7B87564BB08BE24BE__34CC167879C5A1C7388452F52A96B7B8CD1282D7 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.08.17:698][533]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_DD28246B4FDB0CCE1535F6BEF595606__CC63848A13C05ABF3484BEA8B64AEF0FADF58D2F.
+[2022.05.20-11.08.17:698][533]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_DD28246B4FDB0CCE1535F6BEF595606__CC63848A13C05ABF3484BEA8B64AEF0FADF58D2F to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.08.20:701][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Chair" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Assets/SM_Chair.uasset" SILENT=true
+[2022.05.20-11.08.20:921][636]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/SM_Chair2973B5FC4886D5845BF2AABC0707DB8F.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Assets/SM_Chair.uasset'
+[2022.05.20-11.08.20:987][636]AssetCheck: New page: Asset Save: SM_Chair
+[2022.05.20-11.08.20:988][636]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_Chair.SM_Chair
+[2022.05.20-11.08.26:316][873]LogContentBrowser: Deferred new asset file creation: M_Master_Inst
+[2022.05.20-11.08.26:425][873]LogContentBrowser: Creating deferred item: M_Master_Inst
+[2022.05.20-11.08.32:517][160]LogContentBrowser: Attempting asset rename: M_Master_Inst -> MI_Chair
+[2022.05.20-11.08.32:534][160]LogContentBrowser: End creating deferred item M_Master_Inst
+[2022.05.20-11.08.38:938][508]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.20-11.08.38:962][508]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.20-11.08.41:365][694]LogContentBrowser: Attempting asset rename: NewFolder -> Chair
+[2022.05.20-11.08.41:367][694]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.20-11.09.12:768][939]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\Substance\Chair\T_Chair_N.png)
+[2022.05.20-11.09.13:082][939]LogTexture: Display: Building textures: T_Chair_N (OODLE_BC5, 512X512)
+[2022.05.20-11.09.13:265][939]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\Substance\Chair\T_Chair_ORM.png)
+[2022.05.20-11.09.13:906][939]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_061D189B431AD0A09A23D28E__B7264C9751ED70D5ED1C4BAD8A3457992E4489FA.
+[2022.05.20-11.09.13:906][939]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_061D189B431AD0A09A23D28E__B7264C9751ED70D5ED1C4BAD8A3457992E4489FA to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.13:906][939]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_061D189B431AD0A09A23D28E__1311D8E449BDE731866CDE6AA62E6B1654FA7751.
+[2022.05.20-11.09.13:906][939]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_061D189B431AD0A09A23D28E__1311D8E449BDE731866CDE6AA62E6B1654FA7751 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.13:906][939]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_061D189B431AD0A09A23D28E__CEBA905E21AE410F0C5B4DE09F9D49BAF2DA3B35.
+[2022.05.20-11.09.13:906][939]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_061D189B431AD0A09A23D28E__CEBA905E21AE410F0C5B4DE09F9D49BAF2DA3B35 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.13:906][939]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_061D189B431AD0A09A23D28E__272CD388007A28D3842027C1D3F7C329E9AC5102.
+[2022.05.20-11.09.13:907][939]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_061D189B431AD0A09A23D28E__272CD388007A28D3842027C1D3F7C329E9AC5102 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.13:907][939]LogTexture: Display: Building textures: T_Chair_ORM (OODLE_AutoDXT, 512X512)
+[2022.05.20-11.09.14:174][939]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\Substance\Chair\T_Chair_BC.png)
+[2022.05.20-11.09.14:195][939]LogTexture: Display: Building textures: T_Chair_BC (OODLE_AutoDXT, 512X512)
+[2022.05.20-11.09.14:377][951]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__8F9F533274A52A86BAE7D5DD11CB48EC0CED156C.
+[2022.05.20-11.09.14:377][951]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__8F9F533274A52A86BAE7D5DD11CB48EC0CED156C to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.14:377][951]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__AE79BF78931A8BD84009FE81095818520C1FD2F4.
+[2022.05.20-11.09.14:377][951]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__AE79BF78931A8BD84009FE81095818520C1FD2F4 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.14:378][951]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__715E0F6B9AB77ECF89891CADAD8668194A34AB38.
+[2022.05.20-11.09.14:378][951]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__715E0F6B9AB77ECF89891CADAD8668194A34AB38 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.14:577][966]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__E0147A39B34F2E5F145BEEF3E87CA1321EF3EA26.
+[2022.05.20-11.09.14:577][966]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__E0147A39B34F2E5F145BEEF3E87CA1321EF3EA26 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.14:614][969]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_1A3ACE9F4D72110D8CC5__63CCFEBD3339FAA484E83396A6E1142F3D55A34E.
+[2022.05.20-11.09.14:614][969]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_1A3ACE9F4D72110D8CC5__63CCFEBD3339FAA484E83396A6E1142F3D55A34E to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.14:627][970]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_1A3ACE9F4D72110D8CC5__8B11983065BCE85DE3E7BF8A0FCA4EBCEDD3D71F.
+[2022.05.20-11.09.14:627][970]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_1A3ACE9F4D72110D8CC5__8B11983065BCE85DE3E7BF8A0FCA4EBCEDD3D71F to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.14:793][979]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_1A3ACE9F4D72110D8CC5__9509A7B9D2AD2396ACA302E44B4142E69C6DBDAC.
+[2022.05.20-11.09.14:793][979]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_1A3ACE9F4D72110D8CC5__9509A7B9D2AD2396ACA302E44B4142E69C6DBDAC to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.14:819][982]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_1A3ACE9F4D72110D8CC5__6A988DE9DD053939401A7C8913979AA89BBBF2A4.
+[2022.05.20-11.09.14:820][982]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_1A3ACE9F4D72110D8CC5__6A988DE9DD053939401A7C8913979AA89BBBF2A4 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.16:847][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.20-11.09.17:015][132]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2022.05.20-11.09.17:142][132]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Level447AE52349303563810E68903BD6C935.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.05.20-11.09.17:205][132]AssetCheck: New page: Asset Save: Level
+[2022.05.20-11.09.17:205][132]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.05.20-11.09.18:535][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Chair/T_Chair_BC" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Chair/T_Chair_BC.uasset" SILENT=true
+[2022.05.20-11.09.18:577][231]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/T_Chair_BC440E626949CBB9A7ED898B9FDE8607AC.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Chair/T_Chair_BC.uasset'
+[2022.05.20-11.09.18:583][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Chair/T_Chair_ORM" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Chair/T_Chair_ORM.uasset" SILENT=true
+[2022.05.20-11.09.18:690][231]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/T_Chair_ORMC148E11348975979EBDB349D5B954512.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Chair/T_Chair_ORM.uasset'
+[2022.05.20-11.09.18:699][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Chair/T_Chair_N" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Chair/T_Chair_N.uasset" SILENT=true
+[2022.05.20-11.09.18:754][231]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/T_Chair_NE34219E543E643C8C16ED19E19FA7DFA.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Chair/T_Chair_N.uasset'
+[2022.05.20-11.09.18:906][231]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.20-11.09.18:907][231]LogContentValidation: Display: Validating Texture2D /Game/Textures/Chair/T_Chair_BC.T_Chair_BC
+[2022.05.20-11.09.18:907][231]LogContentValidation: Display: Validating Texture2D /Game/Textures/Chair/T_Chair_ORM.T_Chair_ORM
+[2022.05.20-11.09.18:907][231]LogContentValidation: Display: Validating Texture2D /Game/Textures/Chair/T_Chair_N.T_Chair_N
+[2022.05.20-11.09.24:780][630]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_Chair.MI_Chair
+[2022.05.20-11.09.25:291][630]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.05.20-11.09.25:879][630]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.20-11.09.26:466][630]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_5BD6418BF4E1F8862F3B9CEB4E44D561.
+[2022.05.20-11.09.26:466][630]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_5BD6418BF4E1F8862F3B9CEB4E44D561 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.27:039][630]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_F45191E5A205549565D72F7715140D42.
+[2022.05.20-11.09.27:039][630]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_F45191E5A205549565D72F7715140D42 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.09.28:588][630]LogRenderer: Reallocating scene render targets to support 1620x920 Format 10 NumSamples 1 (Frame:1).
+[2022.05.20-11.09.44:915][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_Chair" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Materials/MI_Chair.uasset" SILENT=true
+[2022.05.20-11.09.44:990][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.05.20-11.09.45:391][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.05.20-11.09.45:399][318]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/MI_ChairF92F207D44B4B55D713573B84263284C.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Materials/MI_Chair.uasset'
+[2022.05.20-11.09.45:413][318]AssetCheck: New page: Asset Save: MI_Chair
+[2022.05.20-11.09.45:414][318]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_Chair.MI_Chair
+[2022.05.20-11.09.45:848][363]LogSlate: Window 'MI_Chair' being destroyed
+[2022.05.20-11.09.45:940][363]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-11.09.45:940][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-11.09.49:913][534]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/SM_Chair.SM_Chair
+[2022.05.20-11.10.06:066][681]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_2FCDA8FE45390E0932DEC39ECC3BCA9__9988F94255E824E9D3B0274B17331E4EB0858B9A.
+[2022.05.20-11.10.06:066][681]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_2FCDA8FE45390E0932DEC39ECC3BCA9__9988F94255E824E9D3B0274B17331E4EB0858B9A to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.10.19:542][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Chair" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Assets/SM_Chair.uasset" SILENT=true
+[2022.05.20-11.10.19:554][411]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/SM_Chair9DDD7CDA4138CF65BD9F80ACCBFCF52C.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Assets/SM_Chair.uasset'
+[2022.05.20-11.10.19:569][411]AssetCheck: New page: Asset Save: SM_Chair
+[2022.05.20-11.10.19:569][411]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_Chair.SM_Chair
+[2022.05.20-11.10.21:151][470]LogSlate: Window 'SM_Chair' being destroyed
+[2022.05.20-11.10.21:163][470]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-11.10.21:163][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-11.10.26:862][695]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.10.28:328][829]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.10.41:657][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.05.20-11.10.43:509][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2022.05.20-11.10.48:238][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_sessel)
+[2022.05.20-11.10.49:211][ 98]Cmd: DELETE
+[2022.05.20-11.10.49:222][ 98]Cmd: ACTOR DELETE
+[2022.05.20-11.10.49:673][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-11.10.49:970][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.05.20-11.10.49:975][ 98]LogEditorActor: Deleted 1 Actors (0.370 secs)
+[2022.05.20-11.10.50:820][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2022.05.20-11.10.58:670][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_sessel1)
+[2022.05.20-11.10.59:973][148]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.11.00:785][224]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.11.01:249][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_sessel1)
+[2022.05.20-11.11.02:242][387]Cmd: DELETE
+[2022.05.20-11.11.02:243][387]Cmd: ACTOR DELETE
+[2022.05.20-11.11.02:244][387]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-11.11.02:510][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.05.20-11.11.02:514][387]LogEditorActor: Deleted 1 Actors (0.271 secs)
+[2022.05.20-11.11.04:560][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2022.05.20-11.11.17:821][ 59]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.05.20-11.11.26:270][991]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.20-11.11.26:278][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-11.11.26:278][991]PIE: New page: PIE session: Level (20.05.2022, 15:11:26)
+[2022.05.20-11.11.26:310][991]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2022.05.20-11.11.26:321][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010891s)
+[2022.05.20-11.11.26:322][991]LogAIModule: Creating AISystem for world Level
+[2022.05.20-11.11.26:322][991]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2022.05.20-11.11.26:322][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.012621s)
+[2022.05.20-11.11.26:343][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.05.20-11.11.26:366][991]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.20-11.11.26:366][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-11.11.26:366][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-11.11.26:366][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-11.11.26:366][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-11.11.26:366][991]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.20-11.11.26:366][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.20-11.11.26:366][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.20-11.11.26:366][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-11.11.26:367][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-11.11.26:367][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-11.11.26:367][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-11.11.26:367][991]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.20-11.11.26:403][991]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.20-11.11.26:403][991]LogAudioMixer: Display: 1: FrontRight
+[2022.05.20-11.11.26:434][991]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.05.20-11.11.26:437][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-11.11.26:437][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-11.11.26:437][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-11.11.26:438][991]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.20-11.11.26:438][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.20-11.11.26:438][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.20-11.11.26:440][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.20-11.11.26:440][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.20-11.11.26:440][991]LogInit: FAudioDevice initialized.
+[2022.05.20-11.11.26:440][991]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level'.
+[2022.05.20-11.11.26:456][991]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.05.20-11.11.26:460][991]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.05.20-13.11.26
+[2022.05.20-11.11.26:460][991]LogWorld: Bringing up level for play took: 0.001587
+[2022.05.20-11.11.26:460][991]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.05.20-11.11.26:495][991]PIE: Server logged in
+[2022.05.20-11.11.26:496][991]PIE: Play in editor total start time 0,219 seconds.
+[2022.05.20-11.11.29:270][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-11.11.29:270][311]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Level
+[2022.05.20-11.11.29:271][311]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-11.11.29:271][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-11.11.29:284][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-11.11.29:300][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-11.11.29:319][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-11.11.29:319][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.20-11.11.29:320][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.20-11.11.29:328][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.20-11.11.29:365][312]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.05.20-11.11.30:202][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2022.05.20-11.11.31:093][401]Cmd: DELETE
+[2022.05.20-11.11.31:093][401]Cmd: ACTOR DELETE
+[2022.05.20-11.11.31:095][401]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-11.11.31:126][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.05.20-11.11.31:128][401]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.05.20-11.11.32:575][467]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.11.33:323][506]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.11.35:693][654]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.20-11.11.35:701][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-11.11.35:701][654]PIE: New page: PIE session: Level (20.05.2022, 15:11:35)
+[2022.05.20-11.11.35:739][654]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Level
+[2022.05.20-11.11.35:742][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002899s)
+[2022.05.20-11.11.35:743][654]LogAIModule: Creating AISystem for world Level
+[2022.05.20-11.11.35:743][654]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2022.05.20-11.11.35:743][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Level.Level to /Game/Scenes/UEDPIE_0_Level.Level (0.004071s)
+[2022.05.20-11.11.35:762][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.05.20-11.11.35:764][654]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.05.20-11.11.35:764][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-11.11.35:764][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-11.11.35:764][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-11.11.35:764][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-11.11.35:764][654]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.20-11.11.35:764][654]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.20-11.11.35:764][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.20-11.11.35:764][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-11.11.35:764][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-11.11.35:764][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-11.11.35:764][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-11.11.35:765][654]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.20-11.11.35:772][654]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.20-11.11.35:772][654]LogAudioMixer: Display: 1: FrontRight
+[2022.05.20-11.11.35:785][654]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.05.20-11.11.35:785][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-11.11.35:785][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-11.11.35:785][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-11.11.35:786][654]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.20-11.11.35:786][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.20-11.11.35:786][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.20-11.11.35:787][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.20-11.11.35:787][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.20-11.11.35:787][654]LogInit: FAudioDevice initialized.
+[2022.05.20-11.11.35:787][654]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level'.
+[2022.05.20-11.11.35:798][654]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.05.20-11.11.35:800][654]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.05.20-13.11.35
+[2022.05.20-11.11.35:800][654]LogWorld: Bringing up level for play took: 0.001122
+[2022.05.20-11.11.35:800][654]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.05.20-11.11.35:804][654]PIE: Server logged in
+[2022.05.20-11.11.35:805][654]PIE: Play in editor total start time 0,106 seconds.
+[2022.05.20-11.11.42:700][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-11.11.42:700][422]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Level
+[2022.05.20-11.11.42:701][422]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-11.11.42:701][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-11.11.42:709][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-11.11.42:730][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-11.11.42:749][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-11.11.42:749][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.20-11.11.42:750][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.20-11.11.42:756][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.05.20-11.11.42:813][423]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.05.20-11.19.27:196][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.05.20-11.19.27:212][773]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Level_Auto33C500DE04E1F8FE45847259C118391AF.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/Scenes/Level_Auto3.umap'
+[2022.05.20-11.19.27:214][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Level' took 0.040
+[2022.05.20-11.19.27:214][773]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2022.05.20-11.19.51:710][533]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.19.54:272][740]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.19.55:019][769]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.19.55:888][837]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.20-11.19.56:858][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_stuhl2)
+[2022.05.20-11.19.57:275][947]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_onemesh_stuhl3)
+[2022.05.20-11.19.58:636][ 58]Cmd: DELETE
+[2022.05.20-11.19.58:636][ 58]Cmd: ACTOR DELETE
+[2022.05.20-11.19.58:638][ 58]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-11.19.58:638][ 58]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-11.19.58:662][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.05.20-11.19.58:665][ 58]LogEditorActor: Deleted 2 Actors (0.028 secs)
+[2022.05.20-11.19.59:710][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair3)
+[2022.05.20-11.20.04:937][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair4)
+[2022.05.20-11.20.14:792][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.05.20-11.20.15:346][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair3)
+[2022.05.20-11.20.18:552][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_schreibtisch)
+[2022.05.20-11.20.21:133][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_SchachChiffre)
+[2022.05.20-11.20.26:799][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_schreibtisch)
+[2022.05.20-11.20.32:002][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_SchachChiffre)
+[2022.05.20-11.29.28:877][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.05.20-11.29.28:897][669]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Level_Auto4DBFD8B7A48C76341E7AB518F6128707E.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/Scenes/Level_Auto4.umap'
+[2022.05.20-11.29.28:899][669]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Level' took 0.049
+[2022.05.20-11.29.28:899][669]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.05.20-11.33.45:558][547]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\SM_Unreal\SM_Table.fbx)
+[2022.05.20-11.33.45:683][547]LogFbx: Loading FBX Scene from C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\SM_Unreal\SM_Table.fbx
+[2022.05.20-11.33.45:750][547]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.20-11.33.47:849][547]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.20-11.33.47:868][547]LogFbx: Display: Triangulating static mesh SM_Table
+[2022.05.20-11.33.48:176][547]LogStaticMesh: Building static mesh SM_Table...
+[2022.05.20-11.33.48:308][547]LogStaticMesh: Built static mesh [0.13s] /Game/Assets/SM_Table.SM_Table
+[2022.05.20-11.33.48:514][547]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_9CE2B6FB46754B699726C4AA1515F12E_228332BAE0224DD294E232B87D83948FQu__11F3DDF042F7A88537F3255F7C3D7933FA8AEC43.
+[2022.05.20-11.33.48:514][547]LogDerivedDataCache: Display: Failed to write STATICMESH_9CE2B6FB46754B699726C4AA1515F12E_228332BAE0224DD294E232B87D83948FQu__11F3DDF042F7A88537F3255F7C3D7933FA8AEC43 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.33.48:615][547]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_FDE7DB064D81654DA3257184F2B07A1__1CDFA743DA50E8F08EC8925AE3D5619B9C8C50E4.
+[2022.05.20-11.33.48:615][547]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_FDE7DB064D81654DA3257184F2B07A1__1CDFA743DA50E8F08EC8925AE3D5619B9C8C50E4 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.33.48:710][550]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_FDE7DB064D81654DA__9DC1685ED297758FC7605AC921B1339E6C1BA0BA.
+[2022.05.20-11.33.48:710][550]LogDerivedDataCache: Display: Failed to write NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_FDE7DB064D81654DA__9DC1685ED297758FC7605AC921B1339E6C1BA0BA to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.33.48:746][550]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_C3D0777047DA3441ACDF37B92D38224__A729FB3DFFA734E8F83DECAF90E6D3299D1A940A.
+[2022.05.20-11.33.48:746][550]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_C3D0777047DA3441ACDF37B92D38224__A729FB3DFFA734E8F83DECAF90E6D3299D1A940A to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.33.48:808][554]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_402C9874433AE454AA1C51A62AEAA84__F5349963DB89BD6DC38C2142ED2937B336CC6A37.
+[2022.05.20-11.33.48:808][554]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_402C9874433AE454AA1C51A62AEAA84__F5349963DB89BD6DC38C2142ED2937B336CC6A37 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.00:118][  7]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.20-11.34.00:152][  7]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.20-11.34.01:641][ 97]LogContentBrowser: Attempting asset rename: NewFolder -> Table
+[2022.05.20-11.34.01:642][ 97]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.20-11.34.12:104][248]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\Substance\Table\Table_lp_01 - Default_Normal.png)
+[2022.05.20-11.34.12:165][248]LogTexture: Display: Building textures: Table_lp_01_-_Default_Normal (OODLE_BC5, 512X512)
+[2022.05.20-11.34.12:230][248]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\Substance\Table\Table_lp_01 - Default_OcclusionRoughnessMetallic.png)
+[2022.05.20-11.34.12:345][248]LogTexture: Display: Building textures: Table_lp_01_-_Default_OcclusionRoughnessMetallic (OODLE_AutoDXT, 512X512)
+[2022.05.20-11.34.12:425][248]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Kaio-Sama\Desktop\EscapeRoom_Creation\Blockout\Substance\Table\Table_lp_01 - Default_BaseColor.png)
+[2022.05.20-11.34.12:488][248]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FDBF2B614331878857E24EA1__3EEB2B78EA843693A783466F9434E60ABD331B71.
+[2022.05.20-11.34.12:488][248]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FDBF2B614331878857E24EA1__3EEB2B78EA843693A783466F9434E60ABD331B71 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.12:488][248]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FDBF2B614331878857E24EA1__F339834C06E74938B9B26861FF45D916B792AA82.
+[2022.05.20-11.34.12:488][248]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FDBF2B614331878857E24EA1__F339834C06E74938B9B26861FF45D916B792AA82 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.12:488][248]LogTexture: Display: Building textures: Table_lp_01_-_Default_BaseColor (OODLE_AutoDXT, 512X512)
+[2022.05.20-11.34.12:554][248]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FDBF2B614331878857E24EA1__5761B9594AB0EBB309EFB81DC0BEECCE66F2B3AA.
+[2022.05.20-11.34.12:554][248]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FDBF2B614331878857E24EA1__5761B9594AB0EBB309EFB81DC0BEECCE66F2B3AA to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.13:008][251]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FDBF2B614331878857E24EA1__52973C780F78736B228385FD9ABA93AAD09C2D59.
+[2022.05.20-11.34.13:008][251]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_BC5_11_FDBF2B614331878857E24EA1__52973C780F78736B228385FD9ABA93AAD09C2D59 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.13:008][251]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__07C6B1FB27FCBD8114D097E24B1222073E78362D.
+[2022.05.20-11.34.13:008][251]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__07C6B1FB27FCBD8114D097E24B1222073E78362D to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.13:008][251]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__2F16BA916E35892E72B25A0FB3F15EFE10361474.
+[2022.05.20-11.34.13:009][251]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__2F16BA916E35892E72B25A0FB3F15EFE10361474 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.13:009][251]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__EDBD961D74BE2CB935583070A92BEA7D15DA5108.
+[2022.05.20-11.34.13:009][251]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__EDBD961D74BE2CB935583070A92BEA7D15DA5108 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.13:009][251]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__07D73254DED279EBF8E1F03A93E3B939D7A2105F.
+[2022.05.20-11.34.13:009][251]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__07D73254DED279EBF8E1F03A93E3B939D7A2105F to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.13:009][251]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A5F287C64F44FA08AF8A__0BCD5BCEF82FBE26F725BFA369F5FC9A4A727514.
+[2022.05.20-11.34.13:009][251]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A5F287C64F44FA08AF8A__0BCD5BCEF82FBE26F725BFA369F5FC9A4A727514 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.13:345][252]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A5F287C64F44FA08AF8A__4A0F2838FB04583A85534AD51670C9725ABE0FEF.
+[2022.05.20-11.34.13:345][252]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A5F287C64F44FA08AF8A__4A0F2838FB04583A85534AD51670C9725ABE0FEF to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.13:346][252]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A5F287C64F44FA08AF8A__354469E2E6C418C7D929FB29178B32189E98F052.
+[2022.05.20-11.34.13:346][252]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A5F287C64F44FA08AF8A__354469E2E6C418C7D929FB29178B32189E98F052 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.13:346][252]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A5F287C64F44FA08AF8A__9505D03875463157629FA20065C2ECB2BCD75643.
+[2022.05.20-11.34.13:346][252]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A5F287C64F44FA08AF8A__9505D03875463157629FA20065C2ECB2BCD75643 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.28:370][483]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Table/Table_lp_01_-_Default_OcclusionRoughnessMetallic.Table_lp_01_-_Default_OcclusionRoughnessMetallic
+[2022.05.20-11.34.29:407][483]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.1860 seconds. Added 1 classes and 2 folders.
+[2022.05.20-11.34.37:396][843]LogTexture: Display: Building textures: Table_lp_01_-_Default_OcclusionRoughnessMetallic (OODLE_AutoDXT, 512X512)
+[2022.05.20-11.34.37:879][843]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__9C5B58F76438F5D644405E11CE2D4CBC803BD843.
+[2022.05.20-11.34.37:879][843]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__315E417CA8BB49B889733D570B110F36672247CC.
+[2022.05.20-11.34.37:879][843]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__9C5B58F76438F5D644405E11CE2D4CBC803BD843 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.37:879][843]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__315E417CA8BB49B889733D570B110F36672247CC to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.37:902][843]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__1108D3632E2EA16455BF42162C8ECECAE10AC069.
+[2022.05.20-11.34.37:902][843]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__1108D3632E2EA16455BF42162C8ECECAE10AC069 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.38:081][843]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__880817F9861026F5355E94FD9ADFC4B711303356.
+[2022.05.20-11.34.38:081][843]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A21F38174A491DC50C6F__880817F9861026F5355E94FD9ADFC4B711303356 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.39:613][894]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Table_lp_01_-_Default_OcclusionRA1A99B1F4AF77868953C038DD040A3E2.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Table/Table_lp_01_-_Default_OcclusionRoughnessMetallic.uasset'
+[2022.05.20-11.34.39:784][894]AssetCheck: New page: Asset Save: Table_lp_01_-_Default_OcclusionRoughnessMetallic
+[2022.05.20-11.34.39:784][894]LogContentValidation: Display: Validating Texture2D /Game/Textures/Table/Table_lp_01_-_Default_OcclusionRoughnessMetallic.Table_lp_01_-_Default_OcclusionRoughnessMetallic
+[2022.05.20-11.34.40:200][913]LogSlate: Window 'Table_lp_01_-_Default_OcclusionRoughnessMetallic' being destroyed
+[2022.05.20-11.34.47:170][345]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Chair/T_Chair_ORM.T_Chair_ORM
+[2022.05.20-11.34.50:878][570]LogTexture: Display: Building textures: T_Chair_ORM (OODLE_AutoDXT, 512X512)
+[2022.05.20-11.34.51:249][570]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__36E8BA4F4748C7BC56594F0CDA1E44E07912CECC.
+[2022.05.20-11.34.51:249][570]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__36E8BA4F4748C7BC56594F0CDA1E44E07912CECC to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.51:249][570]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__41BFD645EFE32FD3AA1CB981967F7EBB55BFD09E.
+[2022.05.20-11.34.51:249][570]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__41BFD645EFE32FD3AA1CB981967F7EBB55BFD09E to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.51:249][570]LogMaterial: Display: Missing cached shadermap for M_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 6B7BAF93954217D2B99A9BDF1B53BA2ADB593145), compiling. 
+[2022.05.20-11.34.51:612][570]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__A42D22F69C8BA11F3CE54AE347BB97C868CA6A99.
+[2022.05.20-11.34.51:612][570]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__A42D22F69C8BA11F3CE54AE347BB97C868CA6A99 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.51:612][570]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__078810ED577055C2429F179F099B9A7A57D9FDC0.
+[2022.05.20-11.34.51:612][570]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_397AB66D4C7EC2EA9732__078810ED577055C2429F179F099B9A7A57D9FDC0 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.34.51:991][570]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.05.20-11.34.52:031][570]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.05.20-11.34.52:031][570]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.05.20-11.34.52:031][570]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.20-11.34.52:282][570]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.05.20-11.34.52:786][595]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2022.05.20-11.34.52:786][595]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.05.20-11.34.53:749][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Chair/T_Chair_ORM" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Chair/T_Chair_ORM.uasset" SILENT=true
+[2022.05.20-11.34.53:759][602]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/T_Chair_ORM5514DB504BC6F3EFF810AEBD59AA4E79.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Chair/T_Chair_ORM.uasset'
+[2022.05.20-11.34.53:776][602]AssetCheck: New page: Asset Save: T_Chair_ORM
+[2022.05.20-11.34.53:776][602]LogContentValidation: Display: Validating Texture2D /Game/Textures/Chair/T_Chair_ORM.T_Chair_ORM
+[2022.05.20-11.34.56:354][746]LogSlate: Window 'T_Chair_ORM' being destroyed
+[2022.05.20-11.35.03:744][245]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.05.20-11.35.03:744][245]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.05.20-11.35.04:202][245]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.05.20-11.35.04:202][245]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.20-11.35.04:202][245]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.20-11.35.04:202][245]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.05.20-11.35.04:202][245]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.05.20-11.35.04:300][245]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.20-11.35.04:300][245]LogShaderCompilers: Display: ================================================
+[2022.05.20-11.35.07:122][429]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.05.20-11.35.07:122][429]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.05.20-11.35.08:079][494]LogContentBrowser: Attempting asset rename: Table_lp_01_-_Default_OcclusionRoughnessMetallic -> T_Table_ORM
+[2022.05.20-11.35.08:600][494]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.05.20-11.35.08:600][494]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.05.20-11.35.08:665][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Table/T_Table_ORM" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Table/T_Table_ORM.uasset" SILENT=true
+[2022.05.20-11.35.08:674][494]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/T_Table_ORMCCFA2F6E4CB87AC1C0DF0BBAEE19A811.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Table/T_Table_ORM.uasset'
+[2022.05.20-11.35.10:999][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.05.20-11.35.11:768][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.05.20-11.35.11:897][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.05.20-11.35.14:285][494]AssetCheck: New page: Asset Save: T_Table_ORM
+[2022.05.20-11.35.14:285][494]LogContentValidation: Display: Validating Texture2D /Game/Textures/Table/T_Table_ORM.T_Table_ORM
+[2022.05.20-11.35.14:980][507]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___D428C2846BFDDCFAABAD93854E506905406D3EE6.
+[2022.05.20-11.35.14:981][507]LogDerivedDataCache: Display: Failed to write MATSM_0BA69734E4FD45E082FA4560DBE25454_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___D428C2846BFDDCFAABAD93854E506905406D3EE6 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.35.22:743][ 45]LogContentBrowser: Attempting asset rename: Table_lp_01_-_Default_BaseColor -> T_Table_BC
+[2022.05.20-11.35.22:860][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Table/T_Table_BC" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Table/T_Table_BC.uasset" SILENT=true
+[2022.05.20-11.35.22:918][ 45]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/T_Table_BC71E23FEC4BEA2F8D4734B79C174C3413.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Table/T_Table_BC.uasset'
+[2022.05.20-11.35.23:016][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.20-11.35.23:068][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.05.20-11.35.23:086][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.20-11.35.23:137][ 45]AssetCheck: New page: Asset Save: T_Table_BC
+[2022.05.20-11.35.23:137][ 45]LogContentValidation: Display: Validating Texture2D /Game/Textures/Table/T_Table_BC.T_Table_BC
+[2022.05.20-11.35.30:000][525]LogContentBrowser: Attempting asset rename: Table_lp_01_-_Default_Normal -> T_Table_N
+[2022.05.20-11.35.30:056][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Table/T_Table_N" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Table/T_Table_N.uasset" SILENT=true
+[2022.05.20-11.35.30:125][525]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/T_Table_N97FEE2574885D13C69EA23A19E486E27.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/Table/T_Table_N.uasset'
+[2022.05.20-11.35.30:200][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.20-11.35.30:227][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.05.20-11.35.30:265][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.20-11.35.30:319][525]AssetCheck: New page: Asset Save: T_Table_N
+[2022.05.20-11.35.30:320][525]LogContentValidation: Display: Validating Texture2D /Game/Textures/Table/T_Table_N.T_Table_N
+[2022.05.20-11.35.35:919][875]LogContentBrowser: Deferred new asset file creation: M_Master_Inst
+[2022.05.20-11.35.38:224][875]LogContentBrowser: Creating deferred item: M_Master_Inst
+[2022.05.20-11.35.44:981][255]LogContentBrowser: Attempting asset rename: M_Master_Inst -> MI_Table
+[2022.05.20-11.35.44:982][255]LogContentBrowser: End creating deferred item M_Master_Inst
+[2022.05.20-11.35.45:369][280]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_Table.MI_Table
+[2022.05.20-11.36.00:504][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_Table" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Materials/MI_Table.uasset" SILENT=true
+[2022.05.20-11.36.00:523][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.20-11.36.00:546][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.20-11.36.00:553][873]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/MI_TableF1C916844C4B0DED7CF381B4F7CE5591.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Materials/MI_Table.uasset'
+[2022.05.20-11.36.00:573][873]AssetCheck: New page: Asset Save: MI_Table
+[2022.05.20-11.36.00:573][873]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_Table.MI_Table
+[2022.05.20-11.36.01:575][926]LogSlate: Window 'MI_Table' being destroyed
+[2022.05.20-11.36.01:612][926]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-11.36.01:612][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-11.36.04:853][ 60]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/SM_Table.SM_Table
+[2022.05.20-11.36.09:175][135]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_FEA0D9F34698C64A36C69793728B7F1__8E7201A654D041C3DD25A071C959427D92F5ED6F.
+[2022.05.20-11.36.09:175][135]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_FEA0D9F34698C64A36C69793728B7F1__8E7201A654D041C3DD25A071C959427D92F5ED6F to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.05.20-11.36.10:125][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Table" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Assets/SM_Table.uasset" SILENT=true
+[2022.05.20-11.36.10:143][171]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/SM_TableD37D563E4838117D511DAFBE27270059.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Assets/SM_Table.uasset'
+[2022.05.20-11.36.10:161][171]AssetCheck: New page: Asset Save: SM_Table
+[2022.05.20-11.36.10:161][171]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_Table.SM_Table
+[2022.05.20-11.36.10:828][201]LogSlate: Window 'SM_Table' being destroyed
+[2022.05.20-11.36.10:897][201]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-11.36.10:897][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-11.36.11:968][245]LogActorFactory: Actor Factory created SM_Table
+[2022.05.20-11.36.14:068][380]LogActorFactory: Actor Factory created SM_Table
+[2022.05.20-11.36.16:040][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_schreibtisch)
+[2022.05.20-11.36.17:150][560]Cmd: DELETE
+[2022.05.20-11.36.17:150][560]Cmd: ACTOR DELETE
+[2022.05.20-11.36.17:152][560]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-11.36.17:188][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.05.20-11.36.17:256][560]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2022.05.20-11.36.18:102][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table)
+[2022.05.20-11.36.33:040][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.05.20-11.36.33:541][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table)
+[2022.05.20-11.36.48:937][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_SchachChiffre)
+[2022.05.20-11.36.58:923][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.05.20-11.36.58:954][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.20-11.36.58:974][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.20-11.36.58:988][ 45]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Level5A877E214A4AADA562154D94D593C39A.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.05.20-11.36.58:997][ 45]LogFileHelpers: Saving map 'Level' took 0.043
+[2022.05.20-11.36.59:010][ 45]AssetCheck: New page: Asset Save: Level
+[2022.05.20-11.36.59:010][ 45]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.05.20-11.37.14:434][284]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-11.40.06:257][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.05.20-11.40.11:831][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_globus-bereich2)
