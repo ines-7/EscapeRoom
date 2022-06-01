@@ -5215,3 +5215,402 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.01-12.01.13:912][346]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/PlayerController_BuiltData.PlayerController_BuiltData
 [2022.06.01-12.01.13:912][346]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
 [2022.06.01-12.01.15:928][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.06.01-12.14.15:106][871]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.01-12.14.15:117][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.01-12.14.15:117][871]PIE: New page: PIE session: PlayerController (01.06.2022, 16:14:15)
+[2022.06.01-12.14.15:146][871]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_PlayerController
+[2022.06.01-12.14.15:149][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003351s)
+[2022.06.01-12.14.15:150][871]LogAIModule: Creating AISystem for world PlayerController
+[2022.06.01-12.14.15:151][871]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2022.06.01-12.14.15:151][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/PlayerController.PlayerController to /Game/Scenes/UEDPIE_0_PlayerController.PlayerController (0.004961s)
+[2022.06.01-12.14.15:168][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.06.01-12.14.15:180][871]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.06.01-12.14.15:180][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.01-12.14.15:180][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.01-12.14.15:180][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.01-12.14.15:180][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.01-12.14.15:180][871]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.01-12.14.15:180][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.01-12.14.15:180][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.01-12.14.15:180][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.01-12.14.15:181][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.01-12.14.15:181][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.01-12.14.15:181][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.01-12.14.15:181][871]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.01-12.14.15:188][871]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.01-12.14.15:188][871]LogAudioMixer: Display: 1: FrontRight
+[2022.06.01-12.14.15:222][871]LogAudioMixer: Display: Using Audio Device Lautsprecher (2- Razer Nari Essential)
+[2022.06.01-12.14.15:222][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.01-12.14.15:223][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.01-12.14.15:223][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.01-12.14.15:224][871]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.01-12.14.15:224][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.01-12.14.15:224][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.01-12.14.15:225][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.01-12.14.15:225][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.01-12.14.15:225][871]LogInit: FAudioDevice initialized.
+[2022.06.01-12.14.15:225][871]LogAudio: Display: Audio Device (ID: 25) registered with world 'PlayerController'.
+[2022.06.01-12.14.15:234][871]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.01-12.14.15:236][871]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_PlayerController.PlayerController up for play (max tick rate 0) at 2022.06.01-14.14.15
+[2022.06.01-12.14.15:236][871]LogWorld: Bringing up level for play took: 0.001153
+[2022.06.01-12.14.15:236][871]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.06.01-12.14.15:239][871]PIE: Server logged in
+[2022.06.01-12.14.15:239][871]PIE: Play in editor total start time 0,127 seconds.
+[2022.06.01-12.14.33:702][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-12.14.33:702][872]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_PlayerController
+[2022.06.01-12.14.33:702][872]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.14.33:703][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.14.33:710][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.01-12.14.33:724][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.14.33:738][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.01-12.14.33:738][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.14.33:739][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.14.33:741][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-12.14.33:744][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.06.01-12.14.33:792][873]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.06.01-12.14.50:143][700]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.01-12.14.50:154][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.01-12.14.50:154][700]PIE: New page: PIE session: PlayerController (01.06.2022, 16:14:50)
+[2022.06.01-12.14.50:176][700]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_PlayerController
+[2022.06.01-12.14.50:179][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002922s)
+[2022.06.01-12.14.50:180][700]LogAIModule: Creating AISystem for world PlayerController
+[2022.06.01-12.14.50:180][700]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2022.06.01-12.14.50:180][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/PlayerController.PlayerController to /Game/Scenes/UEDPIE_0_PlayerController.PlayerController (0.004334s)
+[2022.06.01-12.14.50:197][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.06.01-12.14.50:202][700]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.06.01-12.14.50:202][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.01-12.14.50:202][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.01-12.14.50:202][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.01-12.14.50:202][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.01-12.14.50:202][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.01-12.14.50:202][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.01-12.14.50:202][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.01-12.14.50:202][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.01-12.14.50:202][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.01-12.14.50:202][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.01-12.14.50:202][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.01-12.14.50:202][700]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.01-12.14.50:209][700]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.01-12.14.50:209][700]LogAudioMixer: Display: 1: FrontRight
+[2022.06.01-12.14.50:242][700]LogAudioMixer: Display: Using Audio Device Lautsprecher (2- Razer Nari Essential)
+[2022.06.01-12.14.50:242][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.01-12.14.50:242][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.01-12.14.50:242][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.01-12.14.50:243][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.01-12.14.50:243][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.01-12.14.50:243][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.01-12.14.50:244][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.01-12.14.50:244][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.01-12.14.50:244][700]LogInit: FAudioDevice initialized.
+[2022.06.01-12.14.50:244][700]LogAudio: Display: Audio Device (ID: 26) registered with world 'PlayerController'.
+[2022.06.01-12.14.50:255][700]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.01-12.14.50:257][700]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_PlayerController.PlayerController up for play (max tick rate 0) at 2022.06.01-14.14.50
+[2022.06.01-12.14.50:257][700]LogWorld: Bringing up level for play took: 0.001071
+[2022.06.01-12.14.50:257][700]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.06.01-12.14.50:259][700]PIE: Server logged in
+[2022.06.01-12.14.50:260][700]PIE: Play in editor total start time 0,111 seconds.
+[2022.06.01-12.14.51:698][852]EditorErrors: New page: Actor attachment
+[2022.06.01-12.16.14:362][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-12.16.14:362][406]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_PlayerController
+[2022.06.01-12.16.14:362][406]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.16.14:362][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.16.14:372][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.01-12.16.14:389][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.16.14:402][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-12.16.14:403][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.16.14:404][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.16.14:411][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.06.01-12.16.14:456][407]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.06.01-12.16.23:211][ 16]LogMaterial: Display: Missing cached shadermap for M_Highlighted in PCD3D_SM5, Default, SM5 (DDC key hash: F99C273215C52E8F6A57A1208D083B564F3CE45A), compiling. 
+[2022.06.01-12.16.23:215][ 16]LogMaterial: Display: Missing cached shadermap for M_Highlighted in PCD3D_SM5, Default, SM5 (DDC key hash: 0D4B1162FD3CCE2E7FCF9AA47082E9506969743D), compiling. 
+[2022.06.01-12.16.23:218][ 16]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-12.16.23:218][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.16.23:218][ 16]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.16.23:233][ 17]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.01-12.16.23:233][ 17]LogShaderCompilers: Display: Total job queries 2823, among them cache hits 2195 (77.75%)
+[2022.06.01-12.16.23:233][ 17]LogShaderCompilers: Display: Tracking 455 distinct input hashes that result in 168 distinct outputs (36.92%)
+[2022.06.01-12.16.23:233][ 17]LogShaderCompilers: Display: RAM used: 1.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2022.06.01-12.16.23:233][ 17]LogShaderCompilers: Display: ================================================
+[2022.06.01-12.16.23:246][ 18]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.01-12.16.23:246][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.16.23:246][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.16.23:268][ 19]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.06.01-12.16.23:268][ 19]MaterialEditorStats: Base pass shader with Surface Lightmap: 179 instructions
+[2022.06.01-12.16.23:268][ 19]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.06.01-12.16.23:268][ 19]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.01-12.16.23:268][ 19]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.01-12.16.23:268][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.16.23:269][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.16.25:360][166]LogMaterial: Display: Missing cached shadermap for M_Highlighted in PCD3D_SM5, Default, SM5 (DDC key hash: 187C2681232CC694E8B0D78F49CF9FB53BD9009B), compiling. 
+[2022.06.01-12.16.25:364][166]LogMaterial: Display: Missing cached shadermap for M_Highlighted in PCD3D_SM5, Default, SM5 (DDC key hash: C6FE004026AAAA2A9EB2EFDF333590C0D2234495), compiling. 
+[2022.06.01-12.16.25:367][166]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-12.16.25:367][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.16.25:367][166]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.16.25:402][168]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.06.01-12.16.25:402][168]MaterialEditorStats: Base pass shader with Surface Lightmap: 179 instructions
+[2022.06.01-12.16.25:402][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.06.01-12.16.25:402][168]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.01-12.16.25:402][168]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.01-12.16.25:402][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.16.25:402][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.16.42:683][139]LogSlate: Window 'Message' being destroyed
+[2022.06.01-12.16.42:692][139]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/M_Highlighted.M_Highlighted
+(Selecting 'No' will cause all changes to be lost!)
+[2022.06.01-12.16.42:693][139]LogSlate: Window 'M_Highlighted' being destroyed
+[2022.06.01-12.16.42:694][139]LogSlate: Window 'M_Highlighted' being destroyed
+[2022.06.01-12.16.42:726][139]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.16.42:726][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.16.45:919][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MysteryBlueprintsAndWidgets/BP_Chessfield.BP_Chessfield
+[2022.06.01-12.16.52:916][792]LogSlate: Window 'BP_Chessfield' being destroyed
+[2022.06.01-12.16.52:927][792]LogSlate: Window 'BP_Chessfield' being destroyed
+[2022.06.01-12.16.52:966][792]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.16.52:966][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.16.55:172][976]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MysteryBlueprintsAndWidgets/BP_Chessfield.BP_Chessfield
+[2022.06.01-12.16.58:453][120]LogSlate: Window 'BP_Chessfield' being destroyed
+[2022.06.01-12.16.58:462][120]LogSlate: Window 'BP_Chessfield' being destroyed
+[2022.06.01-12.16.58:467][120]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.16.58:467][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.17.02:036][444]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerBlueprint/BP_MyPlayerController.BP_MyPlayerController
+[2022.06.01-12.17.11:250][ 17]LogSlate: Window 'BP_MyPlayerController' being destroyed
+[2022.06.01-12.17.11:262][ 17]LogSlate: Window 'BP_MyPlayerController' being destroyed
+[2022.06.01-12.17.11:267][ 17]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.17.11:268][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.17.54:099][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.06.01-12.17.54:111][905]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/PlayerController' took 0.036
+[2022.06.01-12.17.54:112][905]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerBlueprint/BP_MyPlayerController] ([2] browsable assets)...
+[2022.06.01-12.17.54:112][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBlueprint/BP_MyPlayerController]
+[2022.06.01-12.17.54:154][905]LogSavePackage: Moving '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Saved/BP_MyPlayerController_Auto2E1DB8635435A93E34544489475A71105.tmp' to '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/PlayerBlueprint/BP_MyPlayerController_Auto2.uasset'
+[2022.06.01-12.17.54:170][905]LogFileHelpers: Auto-saving content packages took 0.058
+[2022.06.01-12.57.33:202][490]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Highlighted.M_Highlighted
+[2022.06.01-12.57.33:204][490]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: DD87458710F2C16B77598EB28367E11C5F9C2A2B), compiling. 
+[2022.06.01-12.57.33:215][490]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.06.01-12.57.33:369][490]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BF73FF028698544000E05B07B3F475409E98CFE), compiling. 
+[2022.06.01-12.57.33:372][490]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: A32FBF9646DE65A4E46119AB186A11B9CCE4D889), compiling. 
+[2022.06.01-12.57.33:373][490]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A5604CD7901DEFA4714EFCF6AAEBD017DDFA763E), compiling. 
+[2022.06.01-12.57.33:375][490]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 576C561EA8D5A32494507B92BD047C473E663665), compiling. 
+[2022.06.01-12.57.33:376][490]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5 in PCD3D_SM5, Default, SM5 (DDC key hash: DE3DE49162D8FA90FF24F22D67B375BC41E9BC7A), compiling. 
+[2022.06.01-12.57.33:378][490]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DA62FE4E347796751F044A596EC3D6630386E000), compiling. 
+[2022.06.01-12.57.33:380][490]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E36A075F92C91E6BFDDB3789DCF469C4CDE6EA14), compiling. 
+[2022.06.01-12.57.33:395][490]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-12.57.33:395][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.57.33:395][490]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.57.33:477][490]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.01-12.57.33:477][490]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.06.01-12.57.33:477][490]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.06.01-12.57.33:477][490]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.01-12.57.33:477][490]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.06.01-12.57.33:477][490]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.06.01-12.57.33:477][490]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.06.01-12.57.33:477][490]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.06.01-12.57.33:715][498]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.01-12.57.33:715][498]LogShaderCompilers: Display: Total job queries 2867, among them cache hits 2215 (77.26%)
+[2022.06.01-12.57.33:715][498]LogShaderCompilers: Display: Tracking 455 distinct input hashes that result in 168 distinct outputs (36.92%)
+[2022.06.01-12.57.33:715][498]LogShaderCompilers: Display: RAM used: 1.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2022.06.01-12.57.33:715][498]LogShaderCompilers: Display: ================================================
+[2022.06.01-12.57.34:731][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.06.01-12.57.34:731][531]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.01-12.57.35:079][542]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.06.01-12.57.35:079][542]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.01-12.57.35:119][543]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.01-12.57.35:119][543]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.57.35:119][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.57.36:376][582]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.06.01-12.57.36:377][582]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.01-12.57.37:300][616]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.06.01-12.57.37:300][616]MaterialEditorStats: Base pass shader with Surface Lightmap: 179 instructions
+[2022.06.01-12.57.37:300][616]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.06.01-12.57.37:300][616]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.01-12.57.37:300][616]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.01-12.57.37:300][616]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.57.37:300][616]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.01:918][184]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 035C1F0F9E1D47AFDD754D64FBF8671AFDB07C7D), compiling. 
+[2022.06.01-12.58.01:920][184]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-12.58.01:920][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.58.01:920][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.01:979][186]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.06.01-12.58.01:979][186]MaterialEditorStats: Base pass shader with Surface Lightmap: 179 instructions
+[2022.06.01-12.58.01:979][186]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.06.01-12.58.01:979][186]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.01-12.58.01:979][186]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.01-12.58.01:980][186]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.58.01:980][186]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.08:916][645]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 33992D4976AFC11A260B92A1CD97EFF592849122), compiling. 
+[2022.06.01-12.58.08:920][645]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: DB9E9CEEAC2B2DCF80C31B1F0C99788663E18AA1), compiling. 
+[2022.06.01-12.58.08:923][645]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-12.58.08:923][645]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.58.08:923][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.08:973][647]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.06.01-12.58.08:973][647]MaterialEditorStats: Base pass shader with Surface Lightmap: 179 instructions
+[2022.06.01-12.58.08:973][647]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.06.01-12.58.08:973][647]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.01-12.58.08:973][647]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.01-12.58.08:973][647]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.58.08:973][647]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.10:873][779]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 053BCF0D36E1CF9F2F907A610C442FC7B0445722), compiling. 
+[2022.06.01-12.58.10:879][779]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: E604DA4D1359B28034914090FA530DF540920D26), compiling. 
+[2022.06.01-12.58.10:881][779]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-12.58.10:881][779]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.58.10:881][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.10:923][781]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.06.01-12.58.10:923][781]MaterialEditorStats: Base pass shader with Surface Lightmap: 179 instructions
+[2022.06.01-12.58.10:923][781]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.06.01-12.58.10:923][781]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.01-12.58.10:923][781]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.01-12.58.10:923][781]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.58.10:923][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.14:566][ 39]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 7707093833DB4E8077A6E4DBBAB5A017EFB30B29), compiling. 
+[2022.06.01-12.58.14:570][ 39]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: D0DC74062C55F1FAD3C4186D7BBB22333099723B), compiling. 
+[2022.06.01-12.58.14:572][ 39]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.01-12.58.14:572][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.58.14:572][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.14:609][ 41]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.06.01-12.58.14:609][ 41]MaterialEditorStats: Base pass shader with Surface Lightmap: 179 instructions
+[2022.06.01-12.58.14:609][ 41]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.06.01-12.58.14:609][ 41]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.01-12.58.14:609][ 41]MaterialEditorStats: Texture samplers: 5/16
+[2022.06.01-12.58.14:609][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.58.14:609][ 41]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.15:870][123]LogMaterialEditor: Saving and Compiling material M_Highlighted
+[2022.06.01-12.58.16:202][123]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_8 in PCD3D_SM5, Default, SM5 (DDC key hash: F4F02E2209B8E18405CDDA38211E697029E826C9), compiling. 
+[2022.06.01-12.58.16:222][123]LogMaterial: Display: Missing cached shadermap for M_Highlighted in PCD3D_SM5, Default, SM5 (DDC key hash: 3A15C54E1841137359EF4040FC6298014BC564A2), compiling. 
+[2022.06.01-12.58.16:308][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.06.01-12.58.16:457][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.01-12.58.16:504][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Highlighted" FILE="../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/Materials/M_Highlighted.uasset" SILENT=true
+[2022.06.01-12.58.16:512][123]LogSavePackage: Moving '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Saved/M_Highlighted1BCE87B54A41FC6B3B30839835CC9189.tmp' to '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/Materials/M_Highlighted.uasset'
+[2022.06.01-12.58.16:521][123]AssetCheck: New page: Asset Save: M_Highlighted
+[2022.06.01-12.58.16:521][123]LogContentValidation: Display: Validating Material /Game/Materials/M_Highlighted.M_Highlighted
+[2022.06.01-12.58.16:522][123]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.06.01-12.58.16:522][123]MaterialEditorStats: Base pass shader with Surface Lightmap: 179 instructions
+[2022.06.01-12.58.16:522][123]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.06.01-12.58.16:522][123]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.01-12.58.16:522][123]MaterialEditorStats: Texture samplers: 6/16
+[2022.06.01-12.58.16:522][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.06.01-12.58.16:522][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.01-12.58.17:496][183]LogSlate: Window 'M_Highlighted' being destroyed
+[2022.06.01-12.58.17:500][183]LogSlate: Window 'M_Highlighted' being destroyed
+[2022.06.01-12.58.17:510][183]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.17:510][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.58.18:198][253]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.01-12.58.18:213][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.01-12.58.18:213][253]PIE: New page: PIE session: PlayerController (01.06.2022, 16:58:18)
+[2022.06.01-12.58.18:214][253]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_PlayerController
+[2022.06.01-12.58.18:222][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007780s)
+[2022.06.01-12.58.18:223][253]LogAIModule: Creating AISystem for world PlayerController
+[2022.06.01-12.58.18:224][253]LogPlayLevel: PIE: World Init took: (0.001866s)
+[2022.06.01-12.58.18:224][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/PlayerController.PlayerController to /Game/Scenes/UEDPIE_0_PlayerController.PlayerController (0.009874s)
+[2022.06.01-12.58.18:247][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.06.01-12.58.18:248][253]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.06.01-12.58.18:249][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.01-12.58.18:249][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.01-12.58.18:249][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.01-12.58.18:249][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.01-12.58.18:249][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.01-12.58.18:249][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.01-12.58.18:249][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.01-12.58.18:249][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.01-12.58.18:249][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.01-12.58.18:249][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.01-12.58.18:249][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.01-12.58.18:249][253]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.01-12.58.18:256][253]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.01-12.58.18:256][253]LogAudioMixer: Display: 1: FrontRight
+[2022.06.01-12.58.18:293][253]LogAudioMixer: Display: Using Audio Device Lautsprecher (2- Razer Nari Essential)
+[2022.06.01-12.58.18:294][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.01-12.58.18:294][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.01-12.58.18:294][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.01-12.58.18:295][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.01-12.58.18:295][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.01-12.58.18:295][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.01-12.58.18:297][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.01-12.58.18:297][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.01-12.58.18:297][253]LogInit: FAudioDevice initialized.
+[2022.06.01-12.58.18:297][253]LogAudio: Display: Audio Device (ID: 27) registered with world 'PlayerController'.
+[2022.06.01-12.58.18:302][253]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.01-12.58.18:304][253]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_PlayerController.PlayerController up for play (max tick rate 0) at 2022.06.01-14.58.18
+[2022.06.01-12.58.18:304][253]LogWorld: Bringing up level for play took: 0.001098
+[2022.06.01-12.58.18:304][253]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2022.06.01-12.58.18:308][253]PIE: Server logged in
+[2022.06.01-12.58.18:308][253]PIE: Play in editor total start time 0,101 seconds.
+[2022.06.01-12.58.25:110][946]EditorErrors: New page: Actor attachment
+[2022.06.01-12.58.35:982][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-12.58.35:982][159]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_PlayerController
+[2022.06.01-12.58.35:982][159]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.58.35:982][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.58.35:992][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.01-12.58.36:006][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.58.36:021][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.01-12.58.36:021][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.58.36:022][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.58.36:024][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-12.58.36:027][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.06.01-12.58.36:075][160]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.06.01-12.58.37:477][314]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.01-12.58.37:487][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.01-12.58.37:487][314]PIE: New page: PIE session: PlayerController (01.06.2022, 16:58:37)
+[2022.06.01-12.58.37:525][314]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_PlayerController
+[2022.06.01-12.58.37:528][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002942s)
+[2022.06.01-12.58.37:529][314]LogAIModule: Creating AISystem for world PlayerController
+[2022.06.01-12.58.37:529][314]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2022.06.01-12.58.37:529][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/PlayerController.PlayerController to /Game/Scenes/UEDPIE_0_PlayerController.PlayerController (0.004415s)
+[2022.06.01-12.58.37:545][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.06.01-12.58.37:546][314]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.06.01-12.58.37:546][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.01-12.58.37:546][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.01-12.58.37:546][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.01-12.58.37:546][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.01-12.58.37:546][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.01-12.58.37:546][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.01-12.58.37:546][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.01-12.58.37:546][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.01-12.58.37:547][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.01-12.58.37:547][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.01-12.58.37:547][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.01-12.58.37:547][314]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.01-12.58.37:553][314]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.01-12.58.37:553][314]LogAudioMixer: Display: 1: FrontRight
+[2022.06.01-12.58.37:586][314]LogAudioMixer: Display: Using Audio Device Lautsprecher (2- Razer Nari Essential)
+[2022.06.01-12.58.37:586][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.01-12.58.37:586][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.01-12.58.37:586][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.01-12.58.37:587][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.01-12.58.37:587][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.01-12.58.37:587][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.01-12.58.37:588][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.01-12.58.37:588][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.01-12.58.37:588][314]LogInit: FAudioDevice initialized.
+[2022.06.01-12.58.37:588][314]LogAudio: Display: Audio Device (ID: 28) registered with world 'PlayerController'.
+[2022.06.01-12.58.37:598][314]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.01-12.58.37:599][314]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_PlayerController.PlayerController up for play (max tick rate 0) at 2022.06.01-14.58.37
+[2022.06.01-12.58.37:599][314]LogWorld: Bringing up level for play took: 0.000974
+[2022.06.01-12.58.37:600][314]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2022.06.01-12.58.37:602][314]PIE: Server logged in
+[2022.06.01-12.58.37:603][314]PIE: Play in editor total start time 0,12 seconds.
+[2022.06.01-12.59.14:932][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-12.59.14:932][647]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_PlayerController
+[2022.06.01-12.59.14:932][647]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.06.01-12.59.14:932][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.59.14:938][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.01-12.59.14:956][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.01-12.59.14:969][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.01-12.59.14:969][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.59.14:970][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.01-12.59.14:975][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.06.01-12.59.15:020][648]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.06.01-12.59.15:467][698]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_onemesh_Schachtisch)
+[2022.06.01-12.59.20:399][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pawnblockout)
+[2022.06.01-12.59.21:017][300]Cmd: DELETE
+[2022.06.01-12.59.21:017][300]Cmd: ACTOR DELETE
+[2022.06.01-12.59.21:110][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.01-12.59.21:126][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.06.01-12.59.21:129][300]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2022.06.01-12.59.24:059][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.06.01-12.59.24:083][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/PlayerController" FILE="../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.01-12.59.24:099][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.06.01-12.59.24:110][599]LogSavePackage: Moving '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerController6EDA212F42FF3925FC6462998820D6F4.tmp' to '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.06.01-12.59.24:118][599]LogFileHelpers: Saving map 'PlayerController' took 0.035
+[2022.06.01-12.59.24:118][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBlueprint/BP_MyPlayerController" FILE="../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/PlayerBlueprint/BP_MyPlayerController.uasset" SILENT=true
+[2022.06.01-12.59.24:162][599]LogSavePackage: Moving '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Saved/BP_MyPlayerController24106A9C4F1623285484E084E7392BBC.tmp' to '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/PlayerBlueprint/BP_MyPlayerController.uasset'
+[2022.06.01-12.59.24:181][599]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.01-12.59.24:181][599]LogContentValidation: Display: Validating Blueprint /Game/PlayerBlueprint/BP_MyPlayerController.BP_MyPlayerController
+[2022.06.01-12.59.24:181][599]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
