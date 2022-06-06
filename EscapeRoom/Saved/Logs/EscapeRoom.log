@@ -919,3 +919,184 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.06-10.17.45:787][ 14]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_IngameMenu63D1207642E3C7556EE63CB3282DB8BD.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_IngameMenu.uasset'
 [2022.06.06-10.17.45:803][ 14]AssetCheck: New page: Asset Save: WB_IngameMenu
 [2022.06.06-10.17.45:803][ 14]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_IngameMenu.WB_IngameMenu
+[2022.06.06-10.21.13:131][202]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.06-10.21.13:140][202]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.06-10.21.13:140][202]LogAudioMixer: Display: 1: FrontRight
+[2022.06.06-11.57.22:459][206]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.06-11.57.22:479][206]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.06-11.57.22:480][206]LogAudioMixer: Display: 1: FrontRight
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EA251FD-49EF-A38D-F5F9-5DB804D060A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6186e257406f2c07248939947d540911%7C61493400d23445d1ac33b71c489e1710%7C68a66605-355e-4484-9871-c1e89fb0173c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x275b3027eb0 [can pipeline])
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.202.177.242) port 443 (#0))
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.06.06-11.57.25:750][217]LogHttp: Warning: 00000275A2CB7900: libcurl info message cache 7 (Closing connection 0)
+[2022.06.06-11.57.26:080][218]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EA251FD-49EF-A38D-F5F9-5DB804D060A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6186e257406f2c07248939947d540911%7C61493400d23445d1ac33b71c489e1710%7C68a66605-355e-4484-9871-c1e89fb0173c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.06-12.01.15:194][  3]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.06.06-12.01.24:199][521]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu
+[2022.06.06-12.05.02:879][520]LogSlate: Window 'WB_IngameMenu' being destroyed
+[2022.06.06-12.05.54:821][620]BlueprintLog: New page: Compile WB_MainMenu
+[2022.06.06-12.05.54:868][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.06.06-12.05.55:904][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_MainMenu" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_MainMenu.uasset" SILENT=true
+[2022.06.06-12.05.55:913][680]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_MainMenu1C9D142447ADACCB7B5939BF55611B38.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_MainMenu.uasset'
+[2022.06.06-12.05.55:935][680]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.06.06-12.05.55:935][680]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu
+[2022.06.06-12.05.57:318][763]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.06-12.05.57:325][763]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.06-12.05.57:327][763]LogPlayLevel: [PlayLevel] Compiling WB_IngameMenu before play...
+[2022.06.06-12.05.57:400][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.06.06-12.05.57:400][763]LogPlayLevel: PlayLevel: Blueprint regeneration took 74 ms (1 blueprints)
+[2022.06.06-12.05.57:400][763]PIE: New page: PIE session: MainMenu (06.06.2022, 16:05:57)
+[2022.06.06-12.05.57:401][763]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.06.06-12.05.57:402][763]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.06-12.05.57:402][763]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2022.06.06-12.05.57:403][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000857s)
+[2022.06.06-12.05.57:404][763]LogAIModule: Creating AISystem for world MainMenu
+[2022.06.06-12.05.57:404][763]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2022.06.06-12.05.57:404][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001823s)
+[2022.06.06-12.05.57:438][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.06.06-12.05.57:439][763]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.06-12.05.57:439][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.06-12.05.57:439][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.06-12.05.57:439][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.06-12.05.57:439][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.06-12.05.57:439][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.06-12.05.57:439][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.06-12.05.57:439][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.06-12.05.57:439][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.06-12.05.57:439][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.06-12.05.57:439][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.06-12.05.57:439][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.06-12.05.57:439][763]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.06-12.05.57:443][763]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.06-12.05.57:443][763]LogAudioMixer: Display: 1: FrontRight
+[2022.06.06-12.05.57:454][763]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek(R) Audio)
+[2022.06.06-12.05.57:454][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.06-12.05.57:454][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.06-12.05.57:454][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.06-12.05.57:454][763]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.06-12.05.57:454][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.06-12.05.57:454][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.06-12.05.57:455][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.06-12.05.57:455][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.06-12.05.57:455][763]LogInit: FAudioDevice initialized.
+[2022.06.06-12.05.57:455][763]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.06.06-12.05.57:485][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-12.05.57:485][763]LogLoad: Game class is 'GameModeBase'
+[2022.06.06-12.05.57:486][763]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.06.06-14.05.57
+[2022.06.06-12.05.57:486][763]LogWorld: Bringing up level for play took: 0.000426
+[2022.06.06-12.05.57:487][763]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.06.06-12.05.57:489][763]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.06-12.05.57:495][763]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.06.06-12.05.57:496][763]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.06-12.05.57:496][763]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.06-12.05.57:497][763]PIE: Server logged in
+[2022.06.06-12.05.57:497][763]PIE: Play in editor total start time 0,172 seconds.
+[2022.06.06-12.05.57:515][764]LogRenderer: Reallocating scene render targets to support 1912x1000 Format 10 NumSamples 1 (Frame:1).
+[2022.06.06-12.06.03:562][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-12.06.03:562][109]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2022.06.06-12.06.03:562][109]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.06-12.06.03:569][109]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-12.06.03:570][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-12.06.03:579][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.06-12.06.03:586][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-12.06.03:624][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-12.06.03:625][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-12.06.03:649][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.06.06-12.06.03:718][110]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.06.06-12.06.09:286][444]BlueprintLog: New page: Compile WB_MainMenu
+[2022.06.06-12.06.09:333][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.06.06-12.06.10:725][526]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.06-12.06.10:732][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.06-12.06.10:732][526]PIE: New page: PIE session: MainMenu (06.06.2022, 16:06:10)
+[2022.06.06-12.06.10:732][526]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2022.06.06-12.06.10:733][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000775s)
+[2022.06.06-12.06.10:734][526]LogAIModule: Creating AISystem for world MainMenu
+[2022.06.06-12.06.10:734][526]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2022.06.06-12.06.10:734][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001663s)
+[2022.06.06-12.06.10:773][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.06.06-12.06.10:774][526]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.06-12.06.10:775][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.06-12.06.10:775][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.06-12.06.10:775][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.06-12.06.10:775][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.06-12.06.10:775][526]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.06-12.06.10:775][526]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.06-12.06.10:775][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.06-12.06.10:775][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.06-12.06.10:775][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.06-12.06.10:775][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.06-12.06.10:775][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.06-12.06.10:775][526]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.06-12.06.10:777][526]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.06-12.06.10:778][526]LogAudioMixer: Display: 1: FrontRight
+[2022.06.06-12.06.10:788][526]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek(R) Audio)
+[2022.06.06-12.06.10:788][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.06-12.06.10:788][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.06-12.06.10:788][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.06-12.06.10:789][526]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.06-12.06.10:789][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.06-12.06.10:789][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.06-12.06.10:790][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.06-12.06.10:790][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.06-12.06.10:790][526]LogInit: FAudioDevice initialized.
+[2022.06.06-12.06.10:790][526]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2022.06.06-12.06.10:814][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-12.06.10:814][526]LogLoad: Game class is 'GameModeBase'
+[2022.06.06-12.06.10:815][526]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.06.06-14.06.10
+[2022.06.06-12.06.10:816][526]LogWorld: Bringing up level for play took: 0.000388
+[2022.06.06-12.06.10:816][526]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.06.06-12.06.10:818][526]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.06-12.06.10:819][526]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.06-12.06.10:819][526]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.06-12.06.10:820][526]PIE: Server logged in
+[2022.06.06-12.06.10:820][526]PIE: Play in editor total start time 0,089 seconds.
+[2022.06.06-12.06.13:242][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-12.06.13:242][664]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2022.06.06-12.06.13:244][664]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.06-12.06.13:250][664]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-12.06.13:250][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-12.06.13:259][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.06-12.06.13:265][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-12.06.13:300][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.06-12.06.13:300][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-12.06.13:301][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-12.06.13:306][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.06.06-12.06.13:322][665]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.06.06-12.06.44:250][520]BlueprintLog: New page: Compile WB_MainMenu
+[2022.06.06-12.06.44:295][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.06.06-12.06.45:817][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.06.06-12.06.45:833][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_MainMenu" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_MainMenu.uasset" SILENT=true
+[2022.06.06-12.06.45:842][608]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_MainMenuAB0F154948B9BC4EE35255827E0E3729.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_MainMenu.uasset'
+[2022.06.06-12.06.45:843][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_IngameMenu" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_IngameMenu.uasset" SILENT=true
+[2022.06.06-12.06.45:860][608]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_IngameMenu1E86319043290732EBD09793A9F4B106.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_IngameMenu.uasset'
+[2022.06.06-12.06.45:877][608]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.06-12.06.45:877][608]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu
+[2022.06.06-12.06.45:877][608]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_IngameMenu.WB_IngameMenu
+[2022.06.06-12.06.51:588][950]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-12.06.51:588][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-12.06.51:600][950]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-12.06.51:600][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-12.06.54:612][127]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	WB_MainMenu_C /Engine/Transient.World_13:WB_MainMenu_C_8
+	Function /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu_C:ExecuteUbergraph_WB_MainMenu:0030
+[2022.06.06-12.07.11:649][138]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	WB_MainMenu_C /Engine/Transient.World_13:WB_MainMenu_C_9
+	Function /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu_C:ExecuteUbergraph_WB_MainMenu:0030
+[2022.06.06-12.07.49:257][391]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	WB_MainMenu_C /Engine/Transient.World_13:WB_MainMenu_C_10
+	Function /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu_C:ExecuteUbergraph_WB_MainMenu:0030
+[2022.06.06-12.08.27:970][710]BlueprintLog: New page: Compile WB_MainMenu
+[2022.06.06-12.08.28:048][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.06.06-12.08.28:076][710]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	WB_MainMenu_C /Engine/Transient.World_13:WB_MainMenu_C_12
+	Function /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu_C:ExecuteUbergraph_WB_MainMenu:0030
+[2022.06.06-12.08.29:162][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_MainMenu" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_MainMenu.uasset" SILENT=true
+[2022.06.06-12.08.29:172][775]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_MainMenu7F391AE149CD0A84C1DBD18CD5B59A98.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_MainMenu.uasset'
+[2022.06.06-12.08.29:185][775]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.06.06-12.08.29:185][775]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu
+[2022.06.06-12.09.06:567][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
