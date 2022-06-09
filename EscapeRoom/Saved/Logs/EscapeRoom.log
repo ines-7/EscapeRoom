@@ -4458,3 +4458,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.09-10.48.36:297][746]LogSavePackage: Moving '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Saved/BP_Lock91C38C114CCD0A228E4A67A43C82DE60.tmp' to '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/MysteryBlueprintsAndWidgets/BP/BP_Lock.uasset'
 [2022.06.09-10.48.36:306][746]AssetCheck: New page: Asset Save: BP_Lock
 [2022.06.09-10.48.36:307][746]LogContentValidation: Display: Validating Blueprint /Game/MysteryBlueprintsAndWidgets/BP/BP_Lock.BP_Lock
+[2022.06.09-10.49.03:046][739]LogEditorViewport: Clicking on Actor (LMB): BP_Combinationlock_C (BP_Combinationlock)
+[2022.06.09-10.49.03:817][781]Cmd: DELETE
+[2022.06.09-10.49.03:817][781]Cmd: ACTOR DELETE
+[2022.06.09-10.49.03:920][781]LogEditorActor: Deleted Actor: BP_Combinationlock_C
+[2022.06.09-10.49.03:943][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.06.09-10.49.03:945][781]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.06.09-10.49.05:832][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.06.09-10.49.07:828][949]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.09-10.49.07:882][949]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MysteryBlueprintsAndWidgets/BP/BP_Combinationlock.BP_Combinationlock
+[2022.06.09-10.49.09:729][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.06.09-10.49.09:768][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.06.09-10.49.09:783][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.06.09-10.49.09:797][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.09-10.49.11:334][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/PlayerController" FILE="../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.09-10.49.11:351][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.06.09-10.49.11:373][ 96]LogSavePackage: Moving '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerController8B651A014558C2A55C795E846BB973F9.tmp' to '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.06.09-10.49.11:383][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/PlayerController_BuiltData" FILE="../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController_BuiltData.uasset" SILENT=true
+[2022.06.09-10.49.11:399][ 96]LogSavePackage: Moving '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerController_BuiltDataB11665F545299F6B76C6F0BA1FE8A9F8.tmp' to '../../../../../Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController_BuiltData.uasset'
+[2022.06.09-10.49.11:409][ 96]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-10.49.11:409][ 96]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/PlayerController_BuiltData.PlayerController_BuiltData
+[2022.06.09-10.49.11:409][ 96]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
