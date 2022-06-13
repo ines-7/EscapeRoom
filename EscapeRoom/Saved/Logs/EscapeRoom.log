@@ -1107,3 +1107,140 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.13-18.46.18:794][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.06.13-18.46.18:817][237]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
 [2022.06.13-18.46.18:841][238]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.06.13-18.47.59:367][945]BlueprintLog: New page: Compile WB_Chooser
+[2022.06.13-18.47.59:446][945]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.06.13-18.48.00:617][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_Chooser" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Chooser.uasset" SILENT=true
+[2022.06.13-18.48.00:644][ 71]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_ChooserDB2A5A2B48BD61BAAEF8B59708574755.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Chooser.uasset'
+[2022.06.13-18.48.00:662][ 71]AssetCheck: New page: Asset Save: WB_Chooser
+[2022.06.13-18.48.00:662][ 71]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Chooser.WB_Chooser
+[2022.06.13-18.48.03:503][397]BlueprintLog: New page: Compile WB_Graphic_Settings
+[2022.06.13-18.48.03:554][397]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.06.13-18.48.04:650][521]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Graphic_SettingsC680CA1B46D218C8445B468EB3572AF8.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Graphic_Settings.uasset'
+[2022.06.13-18.48.04:670][521]AssetCheck: New page: Asset Save: WB_Graphic_Settings
+[2022.06.13-18.48.04:671][521]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Graphic_Settings.WB_Graphic_Settings
+[2022.06.13-18.48.05:742][645]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.13-18.48.05:751][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.13-18.48.05:752][645]PIE: New page: PIE session: MainMenu (13.06.2022, 22:48:05)
+[2022.06.13-18.48.05:752][645]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2022.06.13-18.48.05:752][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000964s)
+[2022.06.13-18.48.05:753][645]LogAIModule: Creating AISystem for world MainMenu
+[2022.06.13-18.48.05:753][645]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2022.06.13-18.48.05:753][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.002119s)
+[2022.06.13-18.48.05:796][645]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2022.06.13-18.48.05:797][645]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.13-18.48.05:797][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.13-18.48.05:797][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.13-18.48.05:797][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.13-18.48.05:797][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.13-18.48.05:798][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.13-18.48.05:798][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.13-18.48.05:798][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.13-18.48.05:798][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.13-18.48.05:798][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.13-18.48.05:798][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.13-18.48.05:798][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.13-18.48.05:798][645]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.13-18.48.05:802][645]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-18.48.05:802][645]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-18.48.05:814][645]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek(R) Audio)
+[2022.06.13-18.48.05:815][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.13-18.48.05:815][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.13-18.48.05:815][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.13-18.48.05:815][645]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.13-18.48.05:815][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.13-18.48.05:815][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.13-18.48.05:817][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.13-18.48.05:817][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.13-18.48.05:817][645]LogInit: FAudioDevice initialized.
+[2022.06.13-18.48.05:817][645]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2022.06.13-18.48.05:848][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-18.48.05:848][645]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.13-18.48.05:850][645]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.06.13-20.48.05
+[2022.06.13-18.48.05:851][645]LogWorld: Bringing up level for play took: 0.000879
+[2022.06.13-18.48.05:851][645]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.06.13-18.48.05:854][645]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.13-18.48.05:857][645]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.13-18.48.05:857][645]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.13-18.48.05:858][645]PIE: Server logged in
+[2022.06.13-18.48.05:860][645]PIE: Play in editor total start time 0,109 seconds.
+[2022.06.13-18.48.07:339][756]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.13-18.48.07:339][756]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.13-18.48.07:340][756]LogNet: Browse: /Game/Scenes/Level
+[2022.06.13-18.48.07:340][756]LogLoad: LoadMap: /Game/Scenes/Level
+[2022.06.13-18.48.07:340][756]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2022.06.13-18.48.07:340][756]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-18.48.07:340][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-18.48.07:442][756]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.13-18.48.07:452][756]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2022.06.13-18.48.07:458][756]LogLinker: Warning: [AssetLog] D:\Uni\Projekte_Formativ_Summativ\CMN6204\SpecialisedProject\EscapeRoom\Content\Scenes\Level.umap: Failed to load '/Game/Scenes/Level_BuiltData': Can't find file.
+[2022.06.13-18.48.07:458][756]LogLinker: Warning: [AssetLog] D:\Uni\Projekte_Formativ_Summativ\CMN6204\SpecialisedProject\EscapeRoom\Content\Scenes\Level.umap: Failed to load '/Game/Scenes/Level_BuiltData': Can't find file.
+[2022.06.13-18.48.07:459][756]LogLinker: Warning: [AssetLog] D:\Uni\Projekte_Formativ_Summativ\CMN6204\SpecialisedProject\EscapeRoom\Content\Scenes\Level.umap: Failed to load '/Game/Scenes/Level_BuiltData': Can't find file.
+[2022.06.13-18.48.07:460][756]LogLinker: Warning: Failed to load '/Game/Scenes/Level_BuiltData': Can't find file.
+[2022.06.13-18.48.07:460][756]LogLinker: Warning: Failed to load '/Game/Scenes/Level_BuiltData': Can't find file.
+[2022.06.13-18.48.07:470][756]LogLinker: Warning: [AssetLog] D:\Uni\Projekte_Formativ_Summativ\CMN6204\SpecialisedProject\EscapeRoom\Content\Scenes\Level.umap: Failed to load '/Game/Scenes/Level_BuiltData': Can't find file.
+[2022.06.13-18.48.07:486][756]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level'.
+[2022.06.13-18.48.07:487][756]LogAIModule: Creating AISystem for world Level
+[2022.06.13-18.48.07:488][756]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.13-18.48.07:533][756]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.06.13-20.48.07
+[2022.06.13-18.48.07:534][756]LogWorld: Bringing up level for play took: 0.042905
+[2022.06.13-18.48.07:536][756]LogLoad: Took 0.196377 seconds to LoadMap(/Game/Scenes/Level)
+[2022.06.13-18.48.09:798][871]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.13-18.48.09:798][871]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.06.13-18.48.41:196][465]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.13-18.48.41:196][465]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.13-18.48.50:792][929]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.13-18.48.50:792][929]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.06.13-18.49.02:265][466]LogNet: Browse: /Game/Scenes/MainMenu
+[2022.06.13-18.49.02:265][466]LogLoad: LoadMap: /Game/Scenes/MainMenu
+[2022.06.13-18.49.02:265][466]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Level
+[2022.06.13-18.49.02:266][466]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-18.49.02:268][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-18.49.02:360][466]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.13-18.49.02:368][466]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2022.06.13-18.49.02:369][466]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2022.06.13-18.49.02:370][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000967s)
+[2022.06.13-18.49.02:371][466]LogAIModule: Creating AISystem for world MainMenu
+[2022.06.13-18.49.02:376][466]LogPlayLevel: PIE: World Init took: (0.006022s)
+[2022.06.13-18.49.02:376][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.007196s)
+[2022.06.13-18.49.02:376][466]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2022.06.13-18.49.02:376][466]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.13-18.49.02:378][466]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.06.13-20.49.02
+[2022.06.13-18.49.02:379][466]LogWorld: Bringing up level for play took: 0.000430
+[2022.06.13-18.49.02:380][466]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.13-18.49.02:381][466]LogLoad: Took 0.116278 seconds to LoadMap(/Game/Scenes/UEDPIE_0_MainMenu)
+[2022.06.13-18.49.04:419][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.13-18.49.04:420][599]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2022.06.13-18.49.04:421][599]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.13-18.49.04:435][599]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.13-18.49.04:435][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-18.49.04:459][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.13-18.49.04:475][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.13-18.49.04:568][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.13-18.49.04:568][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.13-18.49.04:569][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.13-18.49.04:586][599]LogUObjectHash: Compacting FUObjectHashTables data took  12.08ms
+[2022.06.13-18.49.04:615][600]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.06.13-18.51.51:089][341]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2022.06.13-18.51.51:089][341]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/MainMenu' took 0.050
+[2022.06.13-18.51.51:090][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WidgetBlueprint/WB_Chooser] ([2] browsable assets)...
+[2022.06.13-18.51.51:090][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBlueprint/WB_Chooser]
+[2022.06.13-18.51.51:112][341]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Chooser_Auto30B8BC5D04CC422D5D73FBFA32DC1848E.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Autosaves/Game/WidgetBlueprint/WB_Chooser_Auto3.uasset'
+[2022.06.13-18.51.51:112][341]LogFileHelpers: Auto-saving content packages took 0.022
+[2022.06.13-18.51.52:334][451]BlueprintLog: New page: Compile WB_Chooser
+[2022.06.13-18.51.52:504][451]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2022.06.13-18.51.53:687][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_Chooser" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Chooser.uasset" SILENT=true
+[2022.06.13-18.51.53:722][552]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Chooser778E73B14C434E4C9A1157B2426FF53D.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Chooser.uasset'
+[2022.06.13-18.51.53:745][552]AssetCheck: New page: Asset Save: WB_Chooser
+[2022.06.13-18.51.53:745][552]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Chooser.WB_Chooser
+[2022.06.13-18.53.02:508][420]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-18.53.02:517][420]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-18.53.02:517][420]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-18.54.08:332][510]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.13-18.54.08:352][510]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.13-18.54.08:352][510]LogAudioMixer: Display: 1: FrontRight
+[2022.06.13-18.54.11:862][874]BlueprintLog: New page: Compile WB_Chooser
+[2022.06.13-18.54.11:932][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.06.13-18.54.12:826][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_Chooser" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Chooser.uasset" SILENT=true
+[2022.06.13-18.54.12:841][967]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Chooser8BF4012F4D6485627A22AFA847E8115C.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Chooser.uasset'
+[2022.06.13-18.54.12:862][967]AssetCheck: New page: Asset Save: WB_Chooser
+[2022.06.13-18.54.12:862][967]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Chooser.WB_Chooser
