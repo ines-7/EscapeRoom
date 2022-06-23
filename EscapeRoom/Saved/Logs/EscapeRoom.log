@@ -2167,3 +2167,1009 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.23-10.13.36:853][680]LogFileHelpers: Saving map 'TextelDensity' took 0.341
 [2022.06.23-10.13.36:982][680]AssetCheck: New page: Asset Save: TextelDensity
 [2022.06.23-10.13.36:982][680]LogContentValidation: Display: Validating World /Game/Scenes/TextelDensity.TextelDensity
+[2022.06.23-10.15.12:992][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.06.23-10.15.15:162][690]LogSlate: Window 'Save Content' being destroyed
+[2022.06.23-10.15.15:195][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_checker_BC" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/T_checker_BC.uasset" SILENT=true
+[2022.06.23-10.15.15:284][690]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/T_checker_BC383B5C134EF1257B673DBC9746B00EE8.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Textures/T_checker_BC.uasset'
+[2022.06.23-10.15.16:000][690]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/LevelLighting.LevelLighting
+[2022.06.23-10.15.16:000][690]Cmd: MAP LOAD FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Scenes/LevelLighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.23-10.15.16:000][690]LightingResults: New page: Lighting Build
+[2022.06.23-10.15.16:000][690]LoadErrors: New page: Loading map: LevelLighting.umap
+[2022.06.23-10.15.16:337][690]LogWorld: UWorld::CleanupWorld for TextelDensity, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.15.16:337][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.15.16:337][690]MapCheck: New page: Map Check
+[2022.06.23-10.15.16:337][690]LightingResults: New page: Lighting Build
+[2022.06.23-10.15.16:451][690]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.15.16:571][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.06.23-10.15.16:928][690]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelLighting'.
+[2022.06.23-10.15.17:242][690]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.23-10.15.17:242][690]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.15.17:253][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.06.23-10.15.17:265][690]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.23-10.15.17:265][690]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,182ms to complete.
+[2022.06.23-10.15.17:265][690]LogFileHelpers: Loading map 'LevelLighting' took 1.266
+[2022.06.23-10.15.17:295][690]AssetCheck: New page: Asset Save: T_checker_BC
+[2022.06.23-10.15.17:295][690]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_checker_BC.T_checker_BC
+[2022.06.23-10.15.20:993][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor9)
+[2022.06.23-10.15.21:704][ 70]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_floor6)
+[2022.06.23-10.15.22:896][206]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_floor2)
+[2022.06.23-10.15.23:983][332]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_floor3)
+[2022.06.23-10.15.24:753][415]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_floor5)
+[2022.06.23-10.15.25:374][485]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_floor8)
+[2022.06.23-10.15.26:635][623]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_floor)
+[2022.06.23-10.15.27:116][676]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_floor4)
+[2022.06.23-10.15.29:103][870]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_floor7)
+[2022.06.23-10.15.44:898][601]Cmd: TRANSACTION UNDO
+[2022.06.23-10.15.44:898][601]LogEditorTransaction: Undo Move Actors
+[2022.06.23-10.15.45:455][619]Cmd: TRANSACTION UNDO
+[2022.06.23-10.15.45:455][619]LogEditorTransaction: Undo Move Actors
+[2022.06.23-10.15.45:919][673]Cmd: TRANSACTION UNDO
+[2022.06.23-10.15.45:919][673]LogEditorTransaction: Undo Move Actors
+[2022.06.23-10.15.46:319][720]Cmd: TRANSACTION UNDO
+[2022.06.23-10.15.46:319][720]LogEditorTransaction: Undo Rotate Actors
+[2022.06.23-10.15.49:323][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner)
+[2022.06.23-10.15.50:341][181]Cmd: TRANSACTION UNDO
+[2022.06.23-10.15.50:341][181]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.23-10.16.49:005][244]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2022.06.23-10.16.56:389][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): DirectionalLight (DirectionalLight)
+[2022.06.23-10.16.58:241][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid14)
+[2022.06.23-10.16.58:720][351]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.06.23-10.17.04:750][ 51]Cmd: TRANSACTION UNDO
+[2022.06.23-10.17.04:750][ 51]LogEditorTransaction: Undo Rotate Actors
+[2022.06.23-10.17.08:340][422]LogEditorViewport: Clicking on Actor (LMB): BP_Puzzle_C (BP_Puzzle)
+[2022.06.23-10.17.11:026][704]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.23-10.17.11:755][784]Cmd: DELETE
+[2022.06.23-10.17.11:755][784]Cmd: ACTOR DELETE
+[2022.06.23-10.17.11:790][784]LogEditorActor: Deleted Actor: PointLight
+[2022.06.23-10.17.11:799][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.06.23-10.17.11:856][784]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2022.06.23-10.17.16:045][284]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2022.06.23-10.17.16:905][384]Cmd: DELETE
+[2022.06.23-10.17.16:905][384]Cmd: ACTOR DELETE
+[2022.06.23-10.17.16:909][384]LogEditorActor: Deleted Actor: PointLight
+[2022.06.23-10.17.16:916][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.06.23-10.17.16:917][384]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.06.23-10.17.19:197][641]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.06.23-10.17.29:362][795]Cmd: DELETE
+[2022.06.23-10.17.29:362][795]Cmd: ACTOR DELETE
+[2022.06.23-10.17.29:367][795]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2022.06.23-10.17.29:367][795]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2022.06.23-10.17.29:375][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.23-10.17.29:377][795]LogEditorActor: Deleted 2 Actors (0.014 secs)
+[2022.06.23-10.17.42:763][307]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.17.42:781][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.17.42:782][307]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:17:42)
+[2022.06.23-10.17.42:854][307]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.06.23-10.17.42:872][307]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.23-10.17.42:872][307]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.17.42:880][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008220s)
+[2022.06.23-10.17.42:905][307]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.17.42:905][307]LogPlayLevel: PIE: World Init took: (0.024146s)
+[2022.06.23-10.17.42:905][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.032602s)
+[2022.06.23-10.17.42:913][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.23-10.17.42:914][307]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.23-10.17.42:914][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.17.42:914][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.17.42:914][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.17.42:914][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.17.42:914][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.17.42:914][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.17.42:914][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.17.42:914][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.17.42:915][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.17.42:915][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.17.42:915][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.17.42:915][307]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.17.42:953][307]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.17.42:953][307]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.17.42:968][307]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.17.42:968][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.17.42:968][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.17.42:968][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.17.42:971][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.17.42:971][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.17.42:971][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.17.42:972][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.17.42:972][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.17.42:973][307]LogInit: FAudioDevice initialized.
+[2022.06.23-10.17.42:973][307]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelLighting'.
+[2022.06.23-10.17.43:027][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.17.43:156][307]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.17.43:196][307]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.17.43
+[2022.06.23-10.17.43:197][307]LogWorld: Bringing up level for play took: 0.038108
+[2022.06.23-10.17.43:197][307]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.06.23-10.17.43:393][307]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0294 seconds. Added 20 classes and 0 folders.
+[2022.06.23-10.17.43:455][307]PIE: Server logged in
+[2022.06.23-10.17.43:457][307]PIE: Play in editor total start time 0,677 seconds.
+[2022.06.23-10.17.43:561][308]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2022.06.23-10.17.50:760][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.17.50:760][914]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.17.50:760][914]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.17.50:766][914]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.17.50:767][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.17.50:870][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.17.50:878][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.17.50:886][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.17.50:886][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.17.50:888][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.17.50:894][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.23-10.17.50:923][915]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.23-10.17.52:992][121]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.06.23-10.18.00:666][971]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.18.00:674][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.18.00:674][971]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:18:00)
+[2022.06.23-10.18.00:674][971]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.18.00:683][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008211s)
+[2022.06.23-10.18.00:684][971]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.18.00:684][971]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2022.06.23-10.18.00:684][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.009644s)
+[2022.06.23-10.18.00:692][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.06.23-10.18.00:693][971]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.23-10.18.00:693][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.18.00:693][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.18.00:693][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.18.00:693][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.18.00:693][971]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.18.00:693][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.18.00:693][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.18.00:693][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.18.00:693][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.18.00:693][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.18.00:693][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.18.00:693][971]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.18.00:699][971]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.18.00:699][971]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.18.00:711][971]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.18.00:711][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.18.00:712][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.18.00:712][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.18.00:712][971]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.18.00:712][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.18.00:712][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.18.00:713][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.18.00:713][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.18.00:713][971]LogInit: FAudioDevice initialized.
+[2022.06.23-10.18.00:713][971]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelLighting'.
+[2022.06.23-10.18.00:810][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.18.00:811][971]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.18.00:815][971]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.18.00
+[2022.06.23-10.18.00:816][971]LogWorld: Bringing up level for play took: 0.004415
+[2022.06.23-10.18.00:816][971]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.06.23-10.18.00:822][971]PIE: Server logged in
+[2022.06.23-10.18.00:824][971]PIE: Play in editor total start time 0,15 seconds.
+[2022.06.23-10.18.07:140][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.18.07:140][674]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.18.07:140][674]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.18.07:148][674]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.18.07:148][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.18.07:158][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.18.07:172][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.18.07:181][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.18.07:181][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.18.07:182][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.18.07:186][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.06.23-10.18.07:239][675]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.06.23-10.18.29:048][132]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.18.29:057][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.18.29:058][132]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:18:29)
+[2022.06.23-10.18.29:058][132]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.18.29:066][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008312s)
+[2022.06.23-10.18.29:067][132]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.18.29:067][132]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2022.06.23-10.18.29:067][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.009482s)
+[2022.06.23-10.18.29:076][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.06.23-10.18.29:077][132]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.23-10.18.29:077][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.18.29:077][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.18.29:077][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.18.29:077][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.18.29:077][132]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.18.29:077][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.18.29:077][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.18.29:077][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.18.29:078][132]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.18.29:078][132]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.18.29:078][132]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.18.29:078][132]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.18.29:084][132]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.18.29:084][132]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.18.29:095][132]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.18.29:096][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.18.29:096][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.18.29:096][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.18.29:096][132]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.18.29:096][132]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.18.29:096][132]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.18.29:097][132]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.18.29:097][132]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.18.29:097][132]LogInit: FAudioDevice initialized.
+[2022.06.23-10.18.29:097][132]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelLighting'.
+[2022.06.23-10.18.29:142][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.18.29:143][132]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.18.29:147][132]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.18.29
+[2022.06.23-10.18.29:147][132]LogWorld: Bringing up level for play took: 0.003952
+[2022.06.23-10.18.29:148][132]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.06.23-10.18.29:153][132]PIE: Server logged in
+[2022.06.23-10.18.29:155][132]PIE: Play in editor total start time 0,098 seconds.
+[2022.06.23-10.18.44:650][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.18.44:650][654]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.18.44:651][654]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.18.44:660][654]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.18.44:661][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.18.44:667][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.18.44:678][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.18.44:685][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.18.44:686][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.18.44:687][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.18.44:691][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.06.23-10.18.44:766][655]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.06.23-10.18.46:438][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_pillar4)
+[2022.06.23-10.18.48:354][ 65]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_bc_right)
+[2022.06.23-10.18.50:754][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_pillar_ends8)
+[2022.06.23-10.18.52:120][503]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_pillar4)
+[2022.06.23-10.18.53:548][670]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_pillar_ends6)
+[2022.06.23-10.19.01:780][624]LogSlate: Took 0.026026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.23-10.19.14:247][ 18]Cmd: DELETE
+[2022.06.23-10.19.14:247][ 18]Cmd: ACTOR DELETE
+[2022.06.23-10.19.14:251][ 18]LogEditorActor: Deleted Actor: AtmosphericFog
+[2022.06.23-10.19.14:261][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.06.23-10.19.14:262][ 18]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.06.23-10.19.20:330][681]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.19.20:339][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.19.20:339][681]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:19:20)
+[2022.06.23-10.19.20:339][681]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.19.20:347][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007865s)
+[2022.06.23-10.19.20:348][681]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.19.20:348][681]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2022.06.23-10.19.20:348][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.008966s)
+[2022.06.23-10.19.20:356][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.23-10.19.20:357][681]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.23-10.19.20:357][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.19.20:357][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.19.20:357][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.19.20:357][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.19.20:357][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.19.20:357][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.19.20:357][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.19.20:357][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.19.20:358][681]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.19.20:358][681]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.19.20:358][681]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.19.20:358][681]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.19.20:363][681]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.19.20:364][681]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.19.20:376][681]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.19.20:376][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.19.20:376][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.19.20:376][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.19.20:379][681]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.19.20:379][681]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.19.20:379][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.19.20:380][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.19.20:380][681]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.19.20:380][681]LogInit: FAudioDevice initialized.
+[2022.06.23-10.19.20:380][681]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelLighting'.
+[2022.06.23-10.19.20:426][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.19.20:426][681]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.19.20:430][681]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.19.20
+[2022.06.23-10.19.20:431][681]LogWorld: Bringing up level for play took: 0.004160
+[2022.06.23-10.19.20:431][681]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.06.23-10.19.20:437][681]PIE: Server logged in
+[2022.06.23-10.19.20:438][681]PIE: Play in editor total start time 0,101 seconds.
+[2022.06.23-10.19.40:220][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.19.40:220][710]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.19.40:221][710]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.19.40:229][710]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.19.40:230][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.19.40:241][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.19.40:250][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.19.40:258][710]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.19.40:258][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.19.40:259][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.19.40:263][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.23-10.19.40:310][711]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.06.23-10.21.36:802][700]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.21.36:881][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.21.36:881][700]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:21:36)
+[2022.06.23-10.21.36:881][700]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.21.36:891][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009295s)
+[2022.06.23-10.21.36:892][700]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.21.36:892][700]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2022.06.23-10.21.36:892][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.010527s)
+[2022.06.23-10.21.36:902][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.06.23-10.21.36:904][700]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.06.23-10.21.36:904][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.21.36:904][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.21.36:904][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.21.36:904][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.21.36:904][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.21.36:904][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.21.36:904][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.21.36:904][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.21.36:905][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.21.36:905][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.21.36:905][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.21.36:905][700]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.21.36:910][700]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.21.36:910][700]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.21.36:924][700]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.21.36:924][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.21.36:924][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.21.36:924][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.21.36:925][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.21.36:925][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.21.36:925][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.21.36:926][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.21.36:926][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.21.36:926][700]LogInit: FAudioDevice initialized.
+[2022.06.23-10.21.36:926][700]LogAudio: Display: Audio Device (ID: 6) registered with world 'LevelLighting'.
+[2022.06.23-10.21.36:974][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.21.36:974][700]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.21.36:979][700]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.21.36
+[2022.06.23-10.21.36:979][700]LogWorld: Bringing up level for play took: 0.004165
+[2022.06.23-10.21.36:979][700]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.06.23-10.21.36:985][700]PIE: Server logged in
+[2022.06.23-10.21.36:987][700]PIE: Play in editor total start time 0,107 seconds.
+[2022.06.23-10.21.40:360][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.21.40:360][977]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.21.40:360][977]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.21.40:373][977]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.21.40:374][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.21.40:384][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.21.40:395][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.21.40:404][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.21.40:404][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.21.40:405][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.21.40:409][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.06.23-10.21.40:436][978]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.06.23-10.21.42:053][151]MapCheck: New page: Map Check
+[2022.06.23-10.21.42:069][151]LightingResults: New page: Lighting Build - 23.06.2022, 14:21:42
+[2022.06.23-10.21.42:213][151]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.23-10.21.42:368][151]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.23-10.21.42:382][151]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.23-10.21.44:165][151]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.23-10.21.44:165][151]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15180
+[2022.06.23-10.21.53:130][151]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.06.23-10.21.53:130][151]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.23-10.21.53:130][151]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.23-10.21.53:130][151]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.23-10.21.53:130][151]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.23-10.21.53:130][151]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.23-10.21.53:696][151]LogEditorBuildUtils: Build time 0:11
+[2022.06.23-10.21.53:965][153]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.23-10.21.53:966][153]LogShaderCompilers: Display: Total job queries 70, among them cache hits 8 (11.43%)
+[2022.06.23-10.21.53:966][153]LogShaderCompilers: Display: Tracking 23 distinct input hashes that result in 18 distinct outputs (78.26%)
+[2022.06.23-10.21.53:966][153]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.06.23-10.21.53:966][153]LogShaderCompilers: Display: ================================================
+[2022.06.23-10.21.54:641][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.23-10.22.03:490][446]Job is a success!
+[2022.06.23-10.22.03:679][447]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2022.06.23-10.22.03:679][447]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.06.23-10.22.03:679][447]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.06.23-10.22.03:679][447]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.23-10.22.03:679][447]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2022.06.23-10.22.03:679][447]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2022.06.23-10.22.03:679][447]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2022.06.23-10.22.03:679][447]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.23-10.22.03:679][447]LogVolumetricLightmapImport:          LevelLighting 			 3 bricks 	 100.0% (Persistent Level)
+[2022.06.23-10.22.04:338][447]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.06.23-10.22.04:338][447]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.23-10.22.04:338][447]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.06.23-10.22.04:338][447]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.23-10.22.04:338][447]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.06.23-10.22.04:338][447]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.23-10.22.04:338][447]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2022.06.23-10.22.04:338][447]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.06.23-10.22.04:338][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__427D271E83162C9F7301C40AB6FBF0C4D75C6025.
+[2022.06.23-10.22.04:338][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__427D271E83162C9F7301C40AB6FBF0C4D75C6025 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.04:338][447]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.06.23-10.22.04:338][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__02A77D81F852F29587DFC6E05B920F430EB3FDC3.
+[2022.06.23-10.22.04:338][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__02A77D81F852F29587DFC6E05B920F430EB3FDC3 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.04:338][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__A9835C8E2598FD8E5B008D4F50403E3B8B25915D.
+[2022.06.23-10.22.04:338][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__A9835C8E2598FD8E5B008D4F50403E3B8B25915D to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.04:591][447]Lightmass on DESKTOP-TOD4VR3: 7.91 sec total, 355 ms importing, 69 ms setup, 1.02 sec photons, 6.42 sec processing, 0 ms extra exporting [86/86 mappings]. Threads: 25.6 sec total, 15.6 sec processing.
+[2022.06.23-10.22.04:591][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__FFC9EB6EA1715AE303557DBFA7957CC107F4D3C6.
+[2022.06.23-10.22.04:591][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__FFC9EB6EA1715AE303557DBFA7957CC107F4D3C6 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.04:591][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__9DBF69163C0832453190BE62ECBBC8F542A1ADCB.
+[2022.06.23-10.22.04:591][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_A0D9A7884AC4D0535B51__9DBF69163C0832453190BE62ECBBC8F542A1ADCB to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.04:591][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__1AF35F5D53FCEFBCF7F66AE753FF84728EC72352.
+[2022.06.23-10.22.04:591][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__1AF35F5D53FCEFBCF7F66AE753FF84728EC72352 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.04:594][447]LogStaticLightingSystem: LevelLighting_BuiltData storing lightmap data for 86 meshes in 2 LightmapResourceClusters (43.0 Meshes per cluster).
+[2022.06.23-10.22.04:653][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.23-10.22.04:747][447]LogStaticLightingSystem: Illumination: 22.6 sec (619 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.06.23-10.22.04:747][447]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.06.23-10.22.04:747][447]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.06.23-10.22.11:152][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__A2CE75605EC6A8427ACA52C09F624F4497683EC8.
+[2022.06.23-10.22.11:152][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__A2CE75605EC6A8427ACA52C09F624F4497683EC8 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:152][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__72CAFC1BBCEDF3FD00DF61F359F617BC781932D2.
+[2022.06.23-10.22.11:152][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__72CAFC1BBCEDF3FD00DF61F359F617BC781932D2 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__A6ABED1010F525D7EB9BDD2E0A74CE9D4FC26EE0.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__A6ABED1010F525D7EB9BDD2E0A74CE9D4FC26EE0 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__D8973B16390D214440E54149CA6D5A504920EAC9.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_34CB9942489038B62FA9__D8973B16390D214440E54149CA6D5A504920EAC9 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__AA12C1667AB0F1479153478B64BF113D16092A46.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__AA12C1667AB0F1479153478B64BF113D16092A46 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__094087630584A65DA33644576399B603368A0CA7.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__094087630584A65DA33644576399B603368A0CA7 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__EFB53F3EE8EF375107A67770606C4A98C9A4D78E.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__D6ED0FF1B18AC2F8A6ACC856D82CFC3A095BA594.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__1B7A050D9309C2031F6C46A5FBED4CD1625B04BE.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__1B7A050D9309C2031F6C46A5FBED4CD1625B04BE to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__EFB53F3EE8EF375107A67770606C4A98C9A4D78E to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_B7A6BED944785BC331B3F89__D6ED0FF1B18AC2F8A6ACC856D82CFC3A095BA594 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_0956E23C4612530D2D0D__3D778E54E33B95A6B57B7CA4C50BB752DEEEADDF.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7F104DC449F0CD75744E__7CD017F0FE1A0E3F14E1F6D42C2AF257F6EC40EE.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_50780E8848CE5F7EAC120EA__A45AF7F00AFA65A0B0AEB4F013000DBA89DE85FD.
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_0956E23C4612530D2D0D__3D778E54E33B95A6B57B7CA4C50BB752DEEEADDF to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7F104DC449F0CD75744E__7CD017F0FE1A0E3F14E1F6D42C2AF257F6EC40EE to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_50780E8848CE5F7EAC120EA__A45AF7F00AFA65A0B0AEB4F013000DBA89DE85FD to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.22.11:153][447]DumpUnbuiltLightIteractions
+[2022.06.23-10.22.11:153][447]Lights with unbuilt interactions: 0
+[2022.06.23-10.22.11:153][447]
+[2022.06.23-10.22.11:153][447]Primitives with unbuilt interactions: 0
+[2022.06.23-10.22.11:220][448]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.23-10.22.11:220][448]MapCheck: New page: LevelLighting - 23.06.2022, 14:22:11
+[2022.06.23-10.22.11:221][448]MapCheck: Warning: SM_BookShelf_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.22.11:221][448]MapCheck: Warning: SM_Table_23 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.22.11:221][448]MapCheck: Warning: BP_Chessfield_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.22.11:222][448]MapCheck: Warning: Lock_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.22.11:222][448]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 1,234ms to complete.
+[2022.06.23-10.22.19:172][816]LogSlate: Took 0.044265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.23-10.22.24:710][162]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/de//Shared/Editor/MapErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2022.06.23-10.22.29:247][482]LogSlate: Window 'Message Log' being destroyed
+[2022.06.23-10.22.29:250][482]LogSlate: Window 'Message Log' being destroyed
+[2022.06.23-10.22.56:207][534]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.22.56:216][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.22.56:216][534]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:22:56)
+[2022.06.23-10.22.56:216][534]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.22.56:225][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008728s)
+[2022.06.23-10.22.56:226][534]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.22.56:226][534]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2022.06.23-10.22.56:226][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.010321s)
+[2022.06.23-10.22.56:255][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.23-10.22.56:256][534]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.06.23-10.22.56:257][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.22.56:257][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.22.56:257][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.22.56:257][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.22.56:257][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.22.56:257][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.22.56:257][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.22.56:257][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.22.56:257][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.22.56:257][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.22.56:257][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.22.56:257][534]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.22.56:263][534]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.22.56:263][534]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.22.56:276][534]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.22.56:276][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.22.56:277][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.22.56:277][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.22.56:277][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.22.56:277][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.22.56:277][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.22.56:278][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.22.56:278][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.22.56:278][534]LogInit: FAudioDevice initialized.
+[2022.06.23-10.22.56:278][534]LogAudio: Display: Audio Device (ID: 7) registered with world 'LevelLighting'.
+[2022.06.23-10.22.56:322][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.22.56:323][534]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.22.56:327][534]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.22.56
+[2022.06.23-10.22.56:327][534]LogWorld: Bringing up level for play took: 0.004232
+[2022.06.23-10.22.56:328][534]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.06.23-10.22.56:333][534]PIE: Server logged in
+[2022.06.23-10.22.56:335][534]PIE: Play in editor total start time 0,121 seconds.
+[2022.06.23-10.23.06:690][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.23.06:691][443]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.23.06:691][443]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.23.06:701][443]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.23.06:701][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.23.06:710][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.23.06:729][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.23.06:738][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.23.06:738][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.23.06:739][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.23.06:743][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.23-10.23.06:775][444]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.06.23-10.23.09:477][731]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.06.23-10.23.22:826][286]MapCheck: New page: Map Check
+[2022.06.23-10.23.22:840][286]LightingResults: New page: Lighting Build - 23.06.2022, 14:23:22
+[2022.06.23-10.23.22:847][286]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.23-10.23.22:852][286]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.23-10.23.22:852][286]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.23-10.23.22:853][286]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.23-10.23.22:853][286]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15180
+[2022.06.23-10.23.27:476][286]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.06.23-10.23.27:476][286]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.23-10.23.27:476][286]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.23-10.23.27:476][286]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.23-10.23.27:476][286]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.23-10.23.27:476][286]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.23-10.23.27:685][286]LogEditorBuildUtils: Build time 0:04
+[2022.06.23-10.23.27:754][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.06.23-10.23.34:327][306]Job is a success!
+[2022.06.23-10.23.34:802][307]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2022.06.23-10.23.34:802][307]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.06.23-10.23.34:802][307]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.06.23-10.23.34:802][307]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.23-10.23.34:802][307]LogVolumetricLightmapImport:          0: 6.2% covering 100.0% of volume
+[2022.06.23-10.23.34:802][307]LogVolumetricLightmapImport:          1: 6.2% covering 1.6% of volume
+[2022.06.23-10.23.34:802][307]LogVolumetricLightmapImport:          2: 87.5% covering 0.3% of volume
+[2022.06.23-10.23.34:802][307]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.23-10.23.34:802][307]LogVolumetricLightmapImport:          LevelLighting 			 16 bricks 	 100.0% (Persistent Level)
+[2022.06.23-10.23.35:327][307]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.06.23-10.23.35:327][307]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.06.23-10.23.35:327][307]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.23-10.23.35:327][307]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.23-10.23.35:327][307]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2022.06.23-10.23.35:327][307]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.06.23-10.23.35:327][307]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2022.06.23-10.23.35:327][307]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.23-10.23.35:327][307]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2022.06.23-10.23.35:354][307]LogStaticLightingSystem: LevelLighting_BuiltData storing lightmap data for 86 meshes in 2 LightmapResourceClusters (43.0 Meshes per cluster).
+[2022.06.23-10.23.35:365][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.06.23-10.23.35:369][307]Lightmass on DESKTOP-TOD4VR3: 6.42 sec total, 278 ms importing, 40 ms setup, 867 ms photons, 5.18 sec processing, 0 ms extra exporting [86/86 mappings]. Threads: 20.7 sec total, 11.3 sec processing.
+[2022.06.23-10.23.35:374][307]LogStaticLightingSystem: Illumination: 12.2 sec (492 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.06.23-10.23.35:374][307]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.06.23-10.23.35:374][307]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.06.23-10.23.35:485][307]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__91B0CA16BC9497188D71CED55433477BF6A28802.
+[2022.06.23-10.23.35:485][307]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__91B0CA16BC9497188D71CED55433477BF6A28802 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.35:485][307]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__8801C39D4DE9D28BEADBC4400AC17CC661878BBD.
+[2022.06.23-10.23.35:485][307]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__8801C39D4DE9D28BEADBC4400AC17CC661878BBD to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.35:485][307]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__95D93749C670D29959793B1F6DC50D593EA72365.
+[2022.06.23-10.23.35:485][307]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__95D93749C670D29959793B1F6DC50D593EA72365 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.35:485][307]DumpUnbuiltLightIteractions
+[2022.06.23-10.23.35:485][307]Lights with unbuilt interactions: 0
+[2022.06.23-10.23.35:485][307]
+[2022.06.23-10.23.35:485][307]Primitives with unbuilt interactions: 0
+[2022.06.23-10.23.35:569][308]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.23-10.23.35:569][308]MapCheck: New page: LevelLighting - 23.06.2022, 14:23:35
+[2022.06.23-10.23.35:569][308]MapCheck: Warning: SM_BookShelf_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.23.35:569][308]MapCheck: Warning: SM_Table_23 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.23.35:570][308]MapCheck: Warning: BP_Chessfield_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.23.35:570][308]MapCheck: Warning: Lock_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.23.35:570][308]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 1,232ms to complete.
+[2022.06.23-10.23.35:617][309]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__32C7D0EB095E2ACDB5CC2A0D9C5DB804F7E953DC.
+[2022.06.23-10.23.35:617][309]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__32C7D0EB095E2ACDB5CC2A0D9C5DB804F7E953DC to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.35:617][309]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__F98F94ABDE27C4480CC3FC15170083C205A434EF.
+[2022.06.23-10.23.35:617][309]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_F9FF80B5475D75651880__F98F94ABDE27C4480CC3FC15170083C205A434EF to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.35:617][309]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__6CE891717143D7CC75F05F584EC855B6C7C0CF89.
+[2022.06.23-10.23.35:617][309]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__6CE891717143D7CC75F05F584EC855B6C7C0CF89 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.35:951][309]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__06C9051C41C67A7540FA8E3869827E420004242A.
+[2022.06.23-10.23.35:951][309]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__06C9051C41C67A7540FA8E3869827E420004242A to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.35:951][309]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__37F8EB3DAD70A43E8D58C5B78DF1708689D1AF3A.
+[2022.06.23-10.23.35:951][309]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__37F8EB3DAD70A43E8D58C5B78DF1708689D1AF3A to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.35:951][309]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__C2F03DBF4932596489A6FA0E87BA0B1990201A71.
+[2022.06.23-10.23.35:951][309]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__C2F03DBF4932596489A6FA0E87BA0B1990201A71 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_B2D416C145B1368AE0AB__6C3CAD4D4DE975B3DA627FC3BFEE7CE738271B6D.
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__82983E58DE5700A049AC02F29A05E90A8EF61D29.
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_319DDC3B45241CBBA938__82983E58DE5700A049AC02F29A05E90A8EF61D29 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_B2D416C145B1368AE0AB__6C3CAD4D4DE975B3DA627FC3BFEE7CE738271B6D to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_CD4AFFE744F217AE5D47__1B19BB66EDB4D640C083AFDE1BBFD01580F55B36.
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_CD4AFFE744F217AE5D47__1B19BB66EDB4D640C083AFDE1BBFD01580F55B36 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_11E10E1845DE1CAC9D5A78A__C25F06CB567F042FD641E3A318DD5327B55615BE.
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_11E10E1845DE1CAC9D5A78A__C25F06CB567F042FD641E3A318DD5327B55615BE to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__DE2A17E86EF73148266DC124DAD20F1D6E0B9D53.
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__DE2A17E86EF73148266DC124DAD20F1D6E0B9D53 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__2EFB496C42A8466E197C0C18F96A69167311A11B.
+[2022.06.23-10.23.36:284][310]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__2EFB496C42A8466E197C0C18F96A69167311A11B to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.36:592][312]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__68973963775942BA1B9BA1F02161EED93CD2FD1C.
+[2022.06.23-10.23.36:592][312]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__68973963775942BA1B9BA1F02161EED93CD2FD1C to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.36:592][312]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__172B4583F2F8A568B16709690CFCFFD83ECD4BD7.
+[2022.06.23-10.23.36:592][312]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__172B4583F2F8A568B16709690CFCFFD83ECD4BD7 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.23.36:592][312]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__AAD9E58A42A055ACD7BC2478D3CF814CD28B898D.
+[2022.06.23-10.23.36:592][312]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_9B8B6C2C4F8A8408BD5F5DA__AAD9E58A42A055ACD7BC2478D3CF814CD28B898D to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.25.50:143][848]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.25.50:152][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.25.50:152][848]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:25:50)
+[2022.06.23-10.25.50:152][848]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.25.50:162][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008987s)
+[2022.06.23-10.25.50:163][848]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.25.50:163][848]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2022.06.23-10.25.50:163][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.010723s)
+[2022.06.23-10.25.50:172][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.06.23-10.25.50:173][848]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.06.23-10.25.50:173][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.25.50:173][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.25.50:173][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.25.50:173][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.25.50:173][848]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.25.50:173][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.25.50:173][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.25.50:173][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.25.50:174][848]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.25.50:174][848]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.25.50:174][848]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.25.50:174][848]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.25.50:181][848]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.25.50:181][848]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.25.50:193][848]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.25.50:193][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.25.50:193][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.25.50:194][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.25.50:194][848]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.25.50:194][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.25.50:194][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.25.50:196][848]LogInit: FAudioDevice initialized.
+[2022.06.23-10.25.50:196][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.25.50:196][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.25.50:196][848]LogAudio: Display: Audio Device (ID: 8) registered with world 'LevelLighting'.
+[2022.06.23-10.25.50:254][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.25.50:254][848]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.25.50:258][848]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.25.50
+[2022.06.23-10.25.50:259][848]LogWorld: Bringing up level for play took: 0.004056
+[2022.06.23-10.25.50:259][848]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.06.23-10.25.50:265][848]PIE: Server logged in
+[2022.06.23-10.25.50:267][848]PIE: Play in editor total start time 0,115 seconds.
+[2022.06.23-10.25.56:170][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.25.56:170][369]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.25.56:170][369]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.25.56:179][369]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.25.56:180][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.25.56:186][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.25.56:199][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.25.56:207][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.25.56:208][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.25.56:212][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.06.23-10.25.56:275][371]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.06.23-10.26.01:954][981]MapCheck: New page: Map Check
+[2022.06.23-10.26.01:966][981]LightingResults: New page: Lighting Build - 23.06.2022, 14:26:01
+[2022.06.23-10.26.01:972][981]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.23-10.26.01:975][981]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.23-10.26.01:975][981]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.23-10.26.01:976][981]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.23-10.26.01:976][981]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15180
+[2022.06.23-10.26.06:532][981]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.06.23-10.26.06:532][981]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.23-10.26.06:532][981]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.23-10.26.06:532][981]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.23-10.26.06:532][981]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.23-10.26.06:532][981]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.23-10.26.06:638][981]LogEditorBuildUtils: Build time 0:04
+[2022.06.23-10.26.06:649][981]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.23-10.26.06:649][981]LogShaderCompilers: Display: Total job queries 70, among them cache hits 8 (11.43%)
+[2022.06.23-10.26.06:649][981]LogShaderCompilers: Display: Tracking 23 distinct input hashes that result in 18 distinct outputs (78.26%)
+[2022.06.23-10.26.06:649][981]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.06.23-10.26.06:649][981]LogShaderCompilers: Display: ================================================
+[2022.06.23-10.26.06:701][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.06.23-10.26.31:803][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.06.23-10.26.31:843][ 56]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/LevelLighting_Auto2CBFA0B9749692811F8AA80A94F84645B.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/Scenes/LevelLighting_Auto2.umap'
+[2022.06.23-10.26.31:845][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/LevelLighting' took 0.066
+[2022.06.23-10.26.31:845][ 56]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.066
+[2022.06.23-10.26.56:399][129]Job is a success!
+[2022.06.23-10.26.56:865][130]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2022.06.23-10.26.56:865][130]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.06.23-10.26.56:865][130]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.06.23-10.26.56:865][130]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.23-10.26.56:865][130]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2022.06.23-10.26.56:865][130]LogVolumetricLightmapImport:          1: 5.9% covering 1.6% of volume
+[2022.06.23-10.26.56:865][130]LogVolumetricLightmapImport:          2: 88.2% covering 0.4% of volume
+[2022.06.23-10.26.56:865][130]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.23-10.26.56:865][130]LogVolumetricLightmapImport:          LevelLighting 			 17 bricks 	 100.0% (Persistent Level)
+[2022.06.23-10.26.57:339][130]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.06.23-10.26.57:339][130]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.06.23-10.26.57:339][130]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.23-10.26.57:339][130]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.23-10.26.57:339][130]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.06.23-10.26.57:339][130]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2022.06.23-10.26.57:339][130]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.06.23-10.26.57:339][130]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.23-10.26.57:339][130]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.06.23-10.26.57:366][130]LogStaticLightingSystem: LevelLighting_BuiltData storing lightmap data for 86 meshes in 2 LightmapResourceClusters (43.0 Meshes per cluster).
+[2022.06.23-10.26.57:377][130]Lightmass on DESKTOP-TOD4VR3: 49.7 sec total, 334 ms importing, 36 ms setup, 2.31 sec photons, 46.9 sec processing, 0 ms extra exporting [86/86 mappings]. Threads: 3:07 min total, 2:12 min processing.
+[2022.06.23-10.26.57:379][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.06.23-10.26.57:387][130]LogStaticLightingSystem: Illumination: 55.1 sec (437 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.06.23-10.26.57:388][130]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.06.23-10.26.57:388][130]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.06.23-10.26.57:567][130]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__A2038B0D175CF5EAD925A337C994E0B7ADF5DC95.
+[2022.06.23-10.26.57:567][130]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__A2038B0D175CF5EAD925A337C994E0B7ADF5DC95 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.57:567][130]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__7716F360349B83E0121DB06B0A5EDB2FA69CBC95.
+[2022.06.23-10.26.57:567][130]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__7716F360349B83E0121DB06B0A5EDB2FA69CBC95 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.57:568][130]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__AC2BDABDFD8E6FE8794473DD48FFE10D295027E4.
+[2022.06.23-10.26.57:568][130]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__AC2BDABDFD8E6FE8794473DD48FFE10D295027E4 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.57:568][130]DumpUnbuiltLightIteractions
+[2022.06.23-10.26.57:568][130]Lights with unbuilt interactions: 0
+[2022.06.23-10.26.57:568][130]
+[2022.06.23-10.26.57:568][130]Primitives with unbuilt interactions: 0
+[2022.06.23-10.26.57:595][130]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__16FB5337C1E772A3E23A7AD139F4F1A9D3CF24BC.
+[2022.06.23-10.26.57:595][130]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__16FB5337C1E772A3E23A7AD139F4F1A9D3CF24BC to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.57:595][130]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__FC2B372B4777821694282EDA2949D212A43226E4.
+[2022.06.23-10.26.57:595][130]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5FEA26A54824F633EFD4__FC2B372B4777821694282EDA2949D212A43226E4 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.57:601][130]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__FB72DDFFF5A84C35CBD1E30A4CEF67E2CDF1EBF2.
+[2022.06.23-10.26.57:601][130]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__FB72DDFFF5A84C35CBD1E30A4CEF67E2CDF1EBF2 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.57:682][131]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.23-10.26.57:682][131]MapCheck: New page: LevelLighting - 23.06.2022, 14:26:57
+[2022.06.23-10.26.57:683][131]MapCheck: Warning: SM_BookShelf_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.26.57:683][131]MapCheck: Warning: SM_Table_23 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.26.57:683][131]MapCheck: Warning: BP_Chessfield_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.26.57:683][131]MapCheck: Warning: Lock_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.26.57:684][131]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 1,212ms to complete.
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__7D44B897AC91CC4FF6F543F35AC44F6C8AE29713.
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__7D44B897AC91CC4FF6F543F35AC44F6C8AE29713 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__BA31A587649F3B0D224731BB9E9567424B9A9AC4.
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__BA31A587649F3B0D224731BB9E9567424B9A9AC4 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__64A25AD514BA1E22B7A18D5C660F45BACF443BAF.
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__64A25AD514BA1E22B7A18D5C660F45BACF443BAF to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__9A866014C4A241ADC5841EAFF89EC6819B2DA880.
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_7C1F16934B9A5DECAD7C__9A866014C4A241ADC5841EAFF89EC6819B2DA880 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5A80E6324F5545F20C0E__C8AE87FC44AD2E1BB3073149F8AEB3FAF3CB87D5.
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_5A80E6324F5545F20C0E__C8AE87FC44AD2E1BB3073149F8AEB3FAF3CB87D5 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8955C52242BFE1731D77__6D76AFBCE4D466F8B10454875F91C4D3C66BF06E.
+[2022.06.23-10.26.58:066][132]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_8955C52242BFE1731D77__6D76AFBCE4D466F8B10454875F91C4D3C66BF06E to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:398][133]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_567638B047FEF66D8D31BCB__0C087CCE586D52FF2DDE363E73B17623D55707F3.
+[2022.06.23-10.26.58:398][133]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_567638B047FEF66D8D31BCB__0C087CCE586D52FF2DDE363E73B17623D55707F3 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:398][133]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__0410E6D17031A06BB3EB6A284A63A16FA2F7C464.
+[2022.06.23-10.26.58:398][133]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__0410E6D17031A06BB3EB6A284A63A16FA2F7C464 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:398][133]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__2A244A3F002635B4332D0BDD446977E5039796A5.
+[2022.06.23-10.26.58:398][133]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__2A244A3F002635B4332D0BDD446977E5039796A5 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:704][135]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__29331B07FE6A0F783A6F6AD027FDC6E8B879B49F.
+[2022.06.23-10.26.58:704][135]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__29331B07FE6A0F783A6F6AD027FDC6E8B879B49F to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:704][135]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__37696AD5E2A226824178E165A9BF48AD600CDAC2.
+[2022.06.23-10.26.58:704][135]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__37696AD5E2A226824178E165A9BF48AD600CDAC2 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.26.58:704][135]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__599A5B1546CD04F5D2E37979FC669CBD78569337.
+[2022.06.23-10.26.58:704][135]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_37B0E7604146466D3829A59__599A5B1546CD04F5D2E37979FC669CBD78569337 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.33.15:468][383]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.33.15:477][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.33.15:477][383]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:33:15)
+[2022.06.23-10.33.15:477][383]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.33.15:486][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008808s)
+[2022.06.23-10.33.15:487][383]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.33.15:487][383]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2022.06.23-10.33.15:487][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.010351s)
+[2022.06.23-10.33.15:497][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.06.23-10.33.15:498][383]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.06.23-10.33.15:498][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.33.15:498][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.33.15:498][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.33.15:498][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.33.15:498][383]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.33.15:498][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.33.15:498][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.33.15:498][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.33.15:499][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.33.15:499][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.33.15:499][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.33.15:499][383]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.33.15:505][383]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.33.15:505][383]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.33.15:518][383]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.33.15:518][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.33.15:518][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.33.15:518][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.33.15:519][383]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.33.15:519][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.33.15:519][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.33.15:520][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.33.15:520][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.33.15:520][383]LogInit: FAudioDevice initialized.
+[2022.06.23-10.33.15:520][383]LogAudio: Display: Audio Device (ID: 9) registered with world 'LevelLighting'.
+[2022.06.23-10.33.15:563][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.33.15:563][383]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.33.15:568][383]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.33.15
+[2022.06.23-10.33.15:568][383]LogWorld: Bringing up level for play took: 0.003971
+[2022.06.23-10.33.15:568][383]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.06.23-10.33.15:573][383]PIE: Server logged in
+[2022.06.23-10.33.15:575][383]PIE: Play in editor total start time 0,099 seconds.
+[2022.06.23-10.33.42:081][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.33.42:081][782]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.33.42:081][782]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.33.42:090][782]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.33.42:090][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.33.42:098][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.33.42:111][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.33.42:119][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.33.42:120][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.33.42:125][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.06.23-10.33.42:164][785]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.06.23-10.33.45:854][188]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.06.23-10.33.46:701][275]Cmd: DELETE
+[2022.06.23-10.33.46:701][275]Cmd: ACTOR DELETE
+[2022.06.23-10.33.46:705][275]LogEditorActor: Deleted Actor: SkyLight
+[2022.06.23-10.33.46:713][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.23-10.33.46:714][275]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.06.23-10.33.49:561][609]Cmd: TRANSACTION UNDO
+[2022.06.23-10.33.49:561][609]LogEditorTransaction: Undo Delete Actors
+[2022.06.23-10.33.53:418][ 20]Cmd: DELETE
+[2022.06.23-10.33.53:418][ 20]Cmd: ACTOR DELETE
+[2022.06.23-10.33.53:423][ 20]LogEditorActor: Deleted Actor: SkyLight
+[2022.06.23-10.33.53:430][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.06.23-10.33.53:432][ 20]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.06.23-10.33.56:116][333]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.33.56:126][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.33.56:126][333]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:33:56)
+[2022.06.23-10.33.56:126][333]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.33.56:136][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009649s)
+[2022.06.23-10.33.56:137][333]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.33.56:137][333]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2022.06.23-10.33.56:137][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.011125s)
+[2022.06.23-10.33.56:146][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.06.23-10.33.56:147][333]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.06.23-10.33.56:147][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.33.56:147][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.33.56:147][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.33.56:147][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.33.56:147][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.33.56:147][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.33.56:147][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.33.56:147][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.33.56:148][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.33.56:148][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.33.56:148][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.33.56:148][333]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.33.56:154][333]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.33.56:154][333]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.33.56:169][333]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.33.56:169][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.33.56:169][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.33.56:169][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.33.56:169][333]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.33.56:169][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.33.56:169][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.33.56:171][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.33.56:171][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.33.56:171][333]LogInit: FAudioDevice initialized.
+[2022.06.23-10.33.56:171][333]LogAudio: Display: Audio Device (ID: 10) registered with world 'LevelLighting'.
+[2022.06.23-10.33.56:230][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.33.56:230][333]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.33.56:234][333]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.33.56
+[2022.06.23-10.33.56:234][333]LogWorld: Bringing up level for play took: 0.003957
+[2022.06.23-10.33.56:235][333]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.06.23-10.33.56:239][333]PIE: Server logged in
+[2022.06.23-10.33.56:241][333]PIE: Play in editor total start time 0,116 seconds.
+[2022.06.23-10.34.00:571][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.34.00:571][738]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.34.00:571][738]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.34.00:578][738]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.34.00:579][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.34.00:591][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.34.00:593][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.34.00:601][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.34.00:602][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.34.00:606][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.06.23-10.34.00:672][742]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.06.23-10.34.01:845][882]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.06.23-10.36.50:473][863]MapCheck: New page: Map Check
+[2022.06.23-10.36.50:484][863]LightingResults: New page: Lighting Build - 23.06.2022, 14:36:50
+[2022.06.23-10.36.50:492][863]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.23-10.36.50:494][863]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.23-10.36.50:494][863]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.23-10.36.50:495][863]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.23-10.36.50:496][863]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15180
+[2022.06.23-10.36.55:050][863]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.06.23-10.36.55:050][863]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.23-10.36.55:050][863]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.23-10.36.55:050][863]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.23-10.36.55:050][863]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.23-10.36.55:050][863]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.23-10.36.55:112][863]LogEditorBuildUtils: Build time 0:04
+[2022.06.23-10.36.55:122][863]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.23-10.36.55:122][863]LogShaderCompilers: Display: Total job queries 70, among them cache hits 8 (11.43%)
+[2022.06.23-10.36.55:122][863]LogShaderCompilers: Display: Tracking 23 distinct input hashes that result in 18 distinct outputs (78.26%)
+[2022.06.23-10.36.55:122][863]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.06.23-10.36.55:122][863]LogShaderCompilers: Display: ================================================
+[2022.06.23-10.36.55:183][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.06.23-10.37.15:248][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.06.23-10.37.15:288][922]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/LevelLighting_Auto38C8476B047A649C2980B62BAA180D806.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/Scenes/LevelLighting_Auto3.umap'
+[2022.06.23-10.37.15:289][922]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/LevelLighting' took 0.048
+[2022.06.23-10.37.15:289][922]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2022.06.23-10.37.56:661][ 61]Job is a success!
+[2022.06.23-10.37.56:954][ 62]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2022.06.23-10.37.56:954][ 62]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.06.23-10.37.56:954][ 62]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2022.06.23-10.37.56:954][ 62]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.23-10.37.56:955][ 62]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2022.06.23-10.37.56:955][ 62]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2022.06.23-10.37.56:955][ 62]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2022.06.23-10.37.56:955][ 62]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.23-10.37.56:955][ 62]LogVolumetricLightmapImport:          LevelLighting 			 20 bricks 	 100.0% (Persistent Level)
+[2022.06.23-10.37.57:329][ 62]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.06.23-10.37.57:329][ 62]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.06.23-10.37.57:330][ 62]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.23-10.37.57:330][ 62]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.23-10.37.57:330][ 62]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2022.06.23-10.37.57:330][ 62]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2022.06.23-10.37.57:342][ 62]LogStaticLightingSystem: LevelLighting_BuiltData storing lightmap data for 86 meshes in 2 LightmapResourceClusters (43.0 Meshes per cluster).
+[2022.06.23-10.37.57:358][ 62]Lightmass on DESKTOP-TOD4VR3: 59.8 sec total, 281 ms importing, 72 ms setup, 2.27 sec photons, 57.1 sec processing, 0 ms extra exporting [86/86 mappings]. Threads: 3:48 min total, 2:45 min processing.
+[2022.06.23-10.37.57:360][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.06.23-10.37.57:368][ 62]LogStaticLightingSystem: Illumination: 1:06 min (328 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.06.23-10.37.57:368][ 62]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.06.23-10.37.57:368][ 62]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__648937DF8819CA1DE12811BE72E9DAC983525545.
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__648937DF8819CA1DE12811BE72E9DAC983525545 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__28E5323CD3737815EB4610EB410D11E6A7C9F1B2.
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__28E5323CD3737815EB4610EB410D11E6A7C9F1B2 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__42319B0F5627D2502D893AA5B44B33C6768D34AD.
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__42319B0F5627D2502D893AA5B44B33C6768D34AD to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__90AD66606FC882AB7F5D751115C25783B7F3CCF0.
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__90AD66606FC882AB7F5D751115C25783B7F3CCF0 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__41CEF29C29C85A0BB8ABD0C147EBED4E9F034D70.
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__41CEF29C29C85A0BB8ABD0C147EBED4E9F034D70 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__73E0971517E97A0CA4BAAADFDB4FA013B5743919.
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_88719F88401515D702DC__73E0971517E97A0CA4BAAADFDB4FA013B5743919 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__08808B41CA0ECC56D6FAD93960BFAB99368A820C.
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__08808B41CA0ECC56D6FAD93960BFAB99368A820C to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__8029B3B80DF36EC8459011FD4963E18293AF8972.
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__8029B3B80DF36EC8459011FD4963E18293AF8972 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__75E6D21686DD7EA4AD30EEF69252B6983AA7F092.
+[2022.06.23-10.37.58:095][ 62]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__75E6D21686DD7EA4AD30EEF69252B6983AA7F092 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:095][ 62]DumpUnbuiltLightIteractions
+[2022.06.23-10.37.58:095][ 62]Lights with unbuilt interactions: 0
+[2022.06.23-10.37.58:095][ 62]
+[2022.06.23-10.37.58:095][ 62]Primitives with unbuilt interactions: 0
+[2022.06.23-10.37.58:138][ 63]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__A673C5C940A4235BA7E4F9F9901C5F790A5A6827.
+[2022.06.23-10.37.58:138][ 63]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_1A5DC8B94C2665C1B91F9E9__A673C5C940A4235BA7E4F9F9901C5F790A5A6827 to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:138][ 63]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.23-10.37.58:138][ 63]MapCheck: New page: LevelLighting - 23.06.2022, 14:37:58
+[2022.06.23-10.37.58:139][ 63]MapCheck: Warning: SM_BookShelf_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.37.58:139][ 63]MapCheck: Warning: SM_Table_23 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.37.58:139][ 63]MapCheck: Warning: BP_Chessfield_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.37.58:139][ 63]MapCheck: Warning: Lock_2 Static mesh actor has NULL StaticMesh property 
+[2022.06.23-10.37.58:139][ 63]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 1,157ms to complete.
+[2022.06.23-10.37.58:141][ 63]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_C18EC9BA48E3D248ACD4__889DF411CF8ABA34E75106A7ACA7C98EDC3A8A2C.
+[2022.06.23-10.37.58:141][ 63]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_AutoDXT_11_C18EC9BA48E3D248ACD4__889DF411CF8ABA34E75106A7ACA7C98EDC3A8A2C to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.37.58:141][ 63]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_7A113F4249A1CA610A4CA48__7871418E6479B2F15DA4D7E9EC0E515814F0EA9F.
+[2022.06.23-10.37.58:141][ 63]LogDerivedDataCache: Display: Failed to write TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_7A113F4249A1CA610A4CA48__7871418E6479B2F15DA4D7E9EC0E515814F0EA9F to HierarchicalDerivedDataBackend. Error: 0 (Der Vorgang wurde erfolgreich beendet.)
+[2022.06.23-10.38.05:465][151]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.06.23-10.38.05:473][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.38.05:473][151]PIE: New page: PIE session: LevelLighting (23.06.2022, 14:38:05)
+[2022.06.23-10.38.05:473][151]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.38.05:482][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008631s)
+[2022.06.23-10.38.05:483][151]LogAIModule: Creating AISystem for world LevelLighting
+[2022.06.23-10.38.05:484][151]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2022.06.23-10.38.05:484][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/LevelLighting.LevelLighting to /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting (0.010197s)
+[2022.06.23-10.38.05:492][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.06.23-10.38.05:493][151]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.06.23-10.38.05:493][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.38.05:493][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.38.05:493][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.38.05:493][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.38.05:493][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.38.05:493][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.38.05:493][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.38.05:493][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.38.05:494][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.38.05:494][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.38.05:494][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.38.05:494][151]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.38.05:499][151]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.38.05:499][151]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.38.05:512][151]LogAudioMixer: Display: Using Audio Device Kopfhörer (Razer Audio Controller - Chat)
+[2022.06.23-10.38.05:512][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.38.05:512][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.38.05:512][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.38.05:513][151]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.38.05:513][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.38.05:513][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.38.05:514][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.38.05:514][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.38.05:514][151]LogInit: FAudioDevice initialized.
+[2022.06.23-10.38.05:514][151]LogAudio: Display: Audio Device (ID: 11) registered with world 'LevelLighting'.
+[2022.06.23-10.38.05:557][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.38.05:557][151]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.06.23-10.38.05:562][151]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_LevelLighting.LevelLighting up for play (max tick rate 0) at 2022.06.23-12.38.05
+[2022.06.23-10.38.05:562][151]LogWorld: Bringing up level for play took: 0.004220
+[2022.06.23-10.38.05:563][151]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.06.23-10.38.05:567][151]PIE: Server logged in
+[2022.06.23-10.38.05:569][151]PIE: Play in editor total start time 0,098 seconds.
+[2022.06.23-10.38.34:800][949]LogCharacterMovement: BP_MyPlayerController_C_0 is stuck and failed to move! Velocity: X=-4.86 Y=22.25 Z=0.00 Location: X=567.25 Y=-49.18 Z=90.14 Normal: X=0.00 Y=-0.91 Z=0.41 PenetrationDepth:25.924 Actor:SM_Chair4_20 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2022.06.23-10.38.41:482][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.38.41:482][583]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_LevelLighting
+[2022.06.23-10.38.41:482][583]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.23-10.38.41:493][583]LogWorld: UWorld::CleanupWorld for LevelLighting, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.38.41:494][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.38.41:504][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.38.41:516][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.38.41:524][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.38.41:525][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.38.41:529][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.06.23-10.38.41:563][584]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.06.23-10.38.45:516][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.06.23-10.38.45:549][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.06.23-10.38.45:588][ 50]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/LevelLighting2F39F83F442268A46747C3A725968858.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Scenes/LevelLighting.umap'
+[2022.06.23-10.38.45:600][ 50]LogFileHelpers: Saving map 'LevelLighting' took 0.058
+[2022.06.23-10.38.45:600][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/LevelLighting_BuiltData" FILE="../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Scenes/LevelLighting_BuiltData.uasset" SILENT=true
+[2022.06.23-10.38.45:695][ 50]LogSavePackage: Moving '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Saved/LevelLighting_BuiltData9E6F7E7C43BD52A61E4F71B37E69DAC6.tmp' to '../../../../../../Users/Kaio-Sama/Desktop/EscapeRoom/EscapeRoom/Content/Scenes/LevelLighting_BuiltData.uasset'
+[2022.06.23-10.38.45:730][ 50]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.23-10.38.45:731][ 50]LogContentValidation: Display: Validating World /Game/Scenes/LevelLighting.LevelLighting
+[2022.06.23-10.38.45:731][ 50]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/LevelLighting_BuiltData.LevelLighting_BuiltData
