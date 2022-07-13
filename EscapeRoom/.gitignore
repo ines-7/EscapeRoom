@@ -64,7 +64,7 @@ WwiseProject/*_WwiseProject.*.wsettings
 WwiseProject/**/*.akd
 
 # build stuff (unsure?)
-# Assets/Wwise/Deployment/Plugins/Windows/**/*.meta
+Assets/Wwise/Deployment/Plugins/Windows/**/*.meta
 
 # WWise Picker (editor)
 # from https://www.audiokinetic.com/library/edge/?source=Unity&id=unity__troubleshooting.html
@@ -78,7 +78,7 @@ Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset*
 #    then don't ignore Assets/Wwise/Editor/ProjectData.meta. If AkWwiseProjectData.asset is the only item in there,
 #    then, it's OK to ignore this file.
 # 
-# Assets/Wwise/Editor/ProjectData.meta
+Assets/Wwise/Editor/ProjectData.meta
 
 ## --------------- ##
 ## End WWise Stuff ##
