@@ -63,11 +63,11 @@ WwiseProject/*_WwiseProject.*.validationcache
 WwiseProject/*_WwiseProject.*.wsettings
 WwiseProject/**/*.akd
 # (unsure about the next one)
-*.bak
+#*.bak
 
 # build stuff (unsure?)
 # Assets/Wwise/Deployment/Plugins/Windows/**/*.meta
-# WWiseProject/Plugins/Wwise/ThirdParty/**/*.lib
+WWiseProject/Plugins/Wwise/ThirdParty/**/*.lib
 
 # WWise Picker (editor)
 # from https://www.audiokinetic.com/library/edge/?source=Unity&id=unity__troubleshooting.html
