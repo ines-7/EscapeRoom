@@ -57,13 +57,17 @@ Build/*
 ## ---------------- ##
 
 # project stuff
-WWiseProject/.cache/
-WWiseProject/*.prof
-WwiseProject/*_WwiseProject.*.validationcache
+# WWiseProject/.cache/
+# WWiseProject/*.prof
+# WwiseProject/*_WwiseProject.*.validationcache
 # WwiseProject/*_WwiseProject.*.wsettings
-WwiseProject/**/*.akd
+# WwiseProject/**/*.akd
 # (unsure about the next one)
 #*.bak
+*_WwiseProject.cache
+*.akd
+*.prof
+*.validationcache
 
 # build stuff (unsure?)
 # Assets/Wwise/Deployment/Plugins/Windows/**/*.meta
