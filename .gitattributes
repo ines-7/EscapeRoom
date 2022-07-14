@@ -4,6 +4,9 @@
 # Default to auto-normalized line endings.
 * text=auto
 
+# Wegen Soundbibliotheken
+*.lib lfs
+
 # Image
 *.jpg lfs
 *.jpeg lfs
