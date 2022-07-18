@@ -1,0 +1,2 @@
+EscapeRoom/Intermediate/CachedAssetRegistry.bin
+EscapeRoom/Saved/AutoScreenshot.png
