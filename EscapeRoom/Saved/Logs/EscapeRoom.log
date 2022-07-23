@@ -2403,3 +2403,237 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.23-12.22.28:952][139]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_MainMenu.WB_MainMenu
 [2022.07.23-12.25.48:959][940]BlueprintLog: New page: Compile WB_MainMenu
 [2022.07.23-12.25.49:029][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.07.23-12.30.02:582][ 11]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.23-12.30.13:815][682]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBlueprint/WB_Settings.WB_Settings
+[2022.07.23-12.31.21:012][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.07.23-12.31.21:013][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/MainMenu' took 0.036
+[2022.07.23-12.31.21:014][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WidgetBlueprint/WB_Settings] ([2] browsable assets)...
+[2022.07.23-12.31.21:014][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBlueprint/WB_Settings]
+[2022.07.23-12.31.21:026][678]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Settings_Auto316D0AE3C4CD622EAE377C2A03C30A1A6.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Autosaves/Game/WidgetBlueprint/WB_Settings_Auto3.uasset'
+[2022.07.23-12.31.21:027][678]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.07.23-12.31.26:627][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_Settings" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Settings.uasset" SILENT=true
+[2022.07.23-12.31.26:642][ 12]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Settings26CC6BAB4D50076DDDCBC88BEBB201D8.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Settings.uasset'
+[2022.07.23-12.31.26:655][ 12]AssetCheck: New page: Asset Save: WB_Settings
+[2022.07.23-12.31.26:655][ 12]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Settings.WB_Settings
+[2022.07.23-12.33.41:289][531]BlueprintLog: New page: Compile WB_Settings
+[2022.07.23-12.33.41:367][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.07.23-12.34.33:515][640]LogEditorTransaction: Undo Add Widget
+[2022.07.23-12.35.17:948][294]BlueprintLog: New page: Compile WB_Settings
+[2022.07.23-12.35.18:014][294]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.07.23-12.36.31:698][684]BlueprintLog: New page: Compile WB_Settings
+[2022.07.23-12.36.31:768][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.07.23-12.38.16:591][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_Settings" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Settings.uasset" SILENT=true
+[2022.07.23-12.38.16:605][956]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Settings3C1023304BC608BC92D388B902FC002B.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Settings.uasset'
+[2022.07.23-12.38.16:633][956]AssetCheck: New page: Asset Save: WB_Settings
+[2022.07.23-12.38.16:634][956]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Settings.WB_Settings
+[2022.07.23-12.41.49:469][716]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.23-12.41.49:476][716]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.23-12.41.49:476][716]LogAudioMixer: Display: 1: FrontRight
+[2022.07.23-12.48.52:298][780]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.23-12.48.52:334][780]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.23-12.48.52:334][780]LogAudioMixer: Display: 1: FrontRight
+[2022.07.23-12.48.52:424][781]LogHttp: Warning: 0000028D70E4F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5E9FEDD-4516-E1A1-A44F-B4B6E4770A39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6186e257406f2c07248939947d540911%7C61493400d23445d1ac33b71c489e1710%7C68a66605-355e-4484-9871-c1e89fb0173c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.07.23-12.48.52:424][781]LogHttp: Warning: 0000028D70E4F900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.07.23-12.48.52:424][781]LogHttp: Warning: 0000028D70E4F900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x28cdf647eb0 [can pipeline])
+[2022.07.23-12.48.52:424][781]LogHttp: Warning: 0000028D70E4F900: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.07.23-12.48.52:424][781]LogHttp: Warning: 0000028D70E4F900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (67.202.6.102) port 443 (#0))
+[2022.07.23-12.48.52:424][781]LogHttp: Warning: 0000028D70E4F900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.07.23-12.48.52:425][781]LogHttp: Warning: 0000028D70E4F900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.07.23-12.48.52:425][781]LogHttp: Warning: 0000028D70E4F900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.07.23-12.48.52:425][781]LogHttp: Warning: 0000028D70E4F900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.07.23-12.48.52:425][781]LogHttp: Warning: 0000028D70E4F900: libcurl info message cache 7 (Closing connection 0)
+[2022.07.23-12.48.52:425][781]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5E9FEDD-4516-E1A1-A44F-B4B6E4770A39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6186e257406f2c07248939947d540911%7C61493400d23445d1ac33b71c489e1710%7C68a66605-355e-4484-9871-c1e89fb0173c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.07.23-12.48.59:496][205]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.23-12.48.59:522][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.23-12.48.59:522][205]PIE: New page: PIE session: MainMenu (23.07.2022, 16:48:59)
+[2022.07.23-12.48.59:522][205]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2022.07.23-12.48.59:523][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000991s)
+[2022.07.23-12.48.59:524][205]LogAIModule: Creating AISystem for world MainMenu
+[2022.07.23-12.48.59:524][205]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2022.07.23-12.48.59:524][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.002067s)
+[2022.07.23-12.48.59:561][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.07.23-12.48.59:562][205]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.23-12.48.59:562][205]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.23-12.48.59:562][205]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.23-12.48.59:562][205]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.23-12.48.59:563][205]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.07.23-12.48.59:563][205]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.23-12.48.59:563][205]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-12.48.59:564][205]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.23-12.48.59:564][205]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.23-12.48.59:564][205]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.23-12.48.59:564][205]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.07.23-12.48.59:564][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.23-12.48.59:564][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.23-12.48.59:564][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.23-12.48.59:564][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.23-12.48.59:564][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.23-12.48.59:564][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.23-12.48.59:564][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.23-12.48.59:564][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.23-12.48.59:565][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.23-12.48.59:565][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.23-12.48.59:565][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.23-12.48.59:565][205]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.23-12.48.59:568][205]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.23-12.48.59:568][205]LogAudioMixer: Display: 1: FrontRight
+[2022.07.23-12.48.59:578][205]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek(R) Audio)
+[2022.07.23-12.48.59:579][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.23-12.48.59:579][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.23-12.48.59:579][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.23-12.48.59:579][205]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.23-12.48.59:579][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.23-12.48.59:579][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.23-12.48.59:580][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.23-12.48.59:580][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.23-12.48.59:580][205]LogInit: FAudioDevice initialized.
+[2022.07.23-12.48.59:580][205]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu'.
+[2022.07.23-12.48.59:601][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.23-12.48.59:601][205]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.07.23-12.48.59:601][205]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.07.23-14.48.59
+[2022.07.23-12.48.59:601][205]LogWorld: Bringing up level for play took: 0.000330
+[2022.07.23-12.48.59:602][205]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.07.23-12.48.59:603][205]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.07.23-12.48.59:607][205]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.23-12.48.59:607][205]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.07.23-12.48.59:610][205]PIE: Server logged in
+[2022.07.23-12.48.59:611][205]PIE: Play in editor total start time 0,09 seconds.
+[2022.07.23-12.49.01:549][310]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.07.23-12.49.01:549][310]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.07.23-12.49.01:550][310]LogNet: Browse: /Game/Scenes/Level
+[2022.07.23-12.49.01:550][310]LogLoad: LoadMap: /Game/Scenes/Level
+[2022.07.23-12.49.01:550][310]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2022.07.23-12.49.01:551][310]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.07.23-12.49.01:551][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-12.49.01:579][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.23-12.49.01:583][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.07.23-12.49.01:620][310]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level'.
+[2022.07.23-12.49.01:621][310]LogAIModule: Creating AISystem for world Level
+[2022.07.23-12.49.01:621][310]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.07.23-12.49.01:641][310]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2022.07.23-14.49.01
+[2022.07.23-12.49.01:642][310]LogWorld: Bringing up level for play took: 0.019843
+[2022.07.23-12.49.01:645][310]LogLoad: Took 0.095128 seconds to LoadMap(/Game/Scenes/Level)
+[2022.07.23-12.49.03:417][413]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.23-12.49.03:417][413]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.23-12.49.03:417][413]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.07.23-12.49.23:303][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.23-12.49.23:304][605]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Level
+[2022.07.23-12.49.23:304][605]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.23-12.49.23:310][605]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.07.23-12.49.23:311][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-12.49.23:322][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.23-12.49.23:328][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-12.49.23:361][605]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.23-12.49.23:361][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.23-12.49.23:362][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.23-12.49.23:369][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.07.23-12.49.23:419][607]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.07.23-12.51.45:946][464]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.23-12.51.45:954][464]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.23-12.51.45:954][464]LogAudioMixer: Display: 1: FrontRight
+[2022.07.23-13.29.37:540][467]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.23-13.29.37:574][467]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.23-13.29.37:574][467]LogAudioMixer: Display: 1: FrontRight
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5E9FEDD-4516-E1A1-A44F-B4B6E4770A39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6186e257406f2c07248939947d540911%7C61493400d23445d1ac33b71c489e1710%7C68a66605-355e-4484-9871-c1e89fb0173c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x28cdf644b80 [can pipeline])
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.233.94.38) port 443 (#1))
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 7 (Closing connection 1)
+[2022.07.23-13.29.38:368][471]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5E9FEDD-4516-E1A1-A44F-B4B6E4770A39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6186e257406f2c07248939947d540911%7C61493400d23445d1ac33b71c489e1710%7C68a66605-355e-4484-9871-c1e89fb0173c&AppEnvironment=datacollector-binary&UploadType=eteventstream
