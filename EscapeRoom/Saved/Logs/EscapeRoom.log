@@ -2637,3 +2637,555 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2022.07.23-13.29.38:035][470]LogHttp: Warning: 0000028D46B93200: libcurl info message cache 7 (Closing connection 1)
 [2022.07.23-13.29.38:368][471]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5E9FEDD-4516-E1A1-A44F-B4B6E4770A39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6186e257406f2c07248939947d540911%7C61493400d23445d1ac33b71c489e1710%7C68a66605-355e-4484-9871-c1e89fb0173c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.07.23-13.31.35:728][260]BlueprintLog: New page: Compile WB_Inventory
+[2022.07.23-13.31.35:800][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.07.23-13.31.47:902][668]BlueprintLog: New page: Compile WB_Inventory
+[2022.07.23-13.31.47:970][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.07.23-13.31.53:649][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/WB_Inventory" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Inventory.uasset" SILENT=true
+[2022.07.23-13.31.53:730][313]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_InventoryEC2753934DE3B0DF18C776B3BD1079C5.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Inventory.uasset'
+[2022.07.23-13.31.53:747][313]AssetCheck: New page: Asset Save: WB_Inventory
+[2022.07.23-13.31.53:747][313]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Inventory.WB_Inventory
+[2022.07.23-13.31.56:395][626]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.23-13.31.56:419][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.23-13.31.56:419][626]PIE: New page: PIE session: MainMenu (23.07.2022, 17:31:56)
+[2022.07.23-13.31.56:419][626]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2022.07.23-13.31.56:420][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000774s)
+[2022.07.23-13.31.56:421][626]LogAIModule: Creating AISystem for world MainMenu
+[2022.07.23-13.31.56:421][626]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2022.07.23-13.31.56:421][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001750s)
+[2022.07.23-13.31.56:456][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.07.23-13.31.56:457][626]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.23-13.31.56:457][626]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.23-13.31.56:457][626]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.23-13.31.56:457][626]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.23-13.31.56:458][626]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.07.23-13.31.56:458][626]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.23-13.31.56:458][626]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.23-13.31.56:458][626]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.23-13.31.56:459][626]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.07.23-13.31.56:459][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.23-13.31.56:459][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.23-13.31.56:459][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.23-13.31.56:459][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.23-13.31.56:459][626]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.23-13.31.56:459][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.23-13.31.56:459][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.23-13.31.56:459][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.23-13.31.56:459][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.23-13.31.56:459][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.23-13.31.56:459][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.23-13.31.56:459][626]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.23-13.31.56:461][626]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.23-13.31.56:461][626]LogAudioMixer: Display: 1: FrontRight
+[2022.07.23-13.31.56:472][626]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek(R) Audio)
+[2022.07.23-13.31.56:472][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.23-13.31.56:472][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.23-13.31.56:472][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.23-13.31.56:473][626]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.23-13.31.56:473][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.23-13.31.56:473][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.23-13.31.56:474][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.23-13.31.56:474][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.23-13.31.56:474][626]LogInit: FAudioDevice initialized.
+[2022.07.23-13.31.56:474][626]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMenu'.
+[2022.07.23-13.31.56:498][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.23-13.31.56:498][626]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.07.23-13.31.56:499][626]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.07.23-15.31.56
+[2022.07.23-13.31.56:500][626]LogWorld: Bringing up level for play took: 0.000359
+[2022.07.23-13.31.56:500][626]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.07.23-13.31.56:502][626]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.07.23-13.31.56:505][626]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.23-13.31.56:505][626]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.07.23-13.31.56:509][626]PIE: Server logged in
+[2022.07.23-13.31.56:510][626]PIE: Play in editor total start time 0,091 seconds.
+[2022.07.23-13.31.57:856][781]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.07.23-13.31.57:856][781]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.07.23-13.31.57:858][781]LogNet: Browse: /Game/Scenes/Level
+[2022.07.23-13.31.57:858][781]LogLoad: LoadMap: /Game/Scenes/Level
+[2022.07.23-13.31.57:858][781]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2022.07.23-13.31.57:858][781]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.07.23-13.31.57:859][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.31.57:911][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.23-13.31.57:916][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.07.23-13.31.57:950][781]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level'.
+[2022.07.23-13.31.57:950][781]LogAIModule: Creating AISystem for world Level
+[2022.07.23-13.31.57:951][781]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.07.23-13.31.57:970][781]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.07.23-15.31.57
+[2022.07.23-13.31.57:971][781]LogWorld: Bringing up level for play took: 0.019175
+[2022.07.23-13.31.57:974][781]LogLoad: Took 0.116231 seconds to LoadMap(/Game/Scenes/Level)
+[2022.07.23-13.32.05:205][396]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.23-13.32.05:205][396]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.23-13.32.05:205][396]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.07.23-13.32.24:599][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.23-13.32.24:600][ 37]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Level
+[2022.07.23-13.32.24:600][ 37]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.23-13.32.24:624][ 37]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.07.23-13.32.24:626][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.32.24:635][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.23-13.32.24:642][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.32.24:673][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.23-13.32.24:673][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.23-13.32.24:674][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.23-13.32.24:681][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.07.23-13.32.24:713][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.07.23-13.32.39:984][820]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/BP_Bishop.BP_Bishop
+[2022.07.23-13.33.04:405][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Bishop" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/Items/BP_Bishop.uasset" SILENT=true
+[2022.07.23-13.33.04:414][638]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/BP_BishopE95395234C762205925B34AFE54899E6.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/Items/BP_Bishop.uasset'
+[2022.07.23-13.33.04:428][638]AssetCheck: New page: Asset Save: BP_Bishop
+[2022.07.23-13.33.04:428][638]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Bishop.BP_Bishop
+[2022.07.23-13.33.07:418][978]BlueprintLog: New page: Compile BP_Bishop
+[2022.07.23-13.33.07:483][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.07.23-13.33.08:459][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/BP_Bishop" FILE="D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/Items/BP_Bishop.uasset" SILENT=true
+[2022.07.23-13.33.08:467][ 87]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/BP_Bishop64D86029444838D2F8D666A103CBFCA8.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/Items/BP_Bishop.uasset'
+[2022.07.23-13.33.08:480][ 87]AssetCheck: New page: Asset Save: BP_Bishop
+[2022.07.23-13.33.08:480][ 87]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Bishop.BP_Bishop
+[2022.07.23-13.33.22:910][791]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.23-13.33.22:934][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.23-13.33.22:934][791]PIE: New page: PIE session: MainMenu (23.07.2022, 17:33:22)
+[2022.07.23-13.33.22:934][791]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2022.07.23-13.33.22:935][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000779s)
+[2022.07.23-13.33.22:935][791]LogAIModule: Creating AISystem for world MainMenu
+[2022.07.23-13.33.22:936][791]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2022.07.23-13.33.22:936][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001719s)
+[2022.07.23-13.33.22:968][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.07.23-13.33.22:969][791]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.23-13.33.22:969][791]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.23-13.33.22:969][791]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.23-13.33.22:969][791]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.23-13.33.22:970][791]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.07.23-13.33.22:970][791]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.23-13.33.22:970][791]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.23-13.33.22:970][791]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.23-13.33.22:971][791]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.07.23-13.33.22:971][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.23-13.33.22:971][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.23-13.33.22:971][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.23-13.33.22:971][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.23-13.33.22:971][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.23-13.33.22:971][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.23-13.33.22:971][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.23-13.33.22:971][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.23-13.33.22:971][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.23-13.33.22:971][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.23-13.33.22:971][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.23-13.33.22:971][791]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.23-13.33.22:974][791]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.23-13.33.22:974][791]LogAudioMixer: Display: 1: FrontRight
+[2022.07.23-13.33.22:985][791]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek(R) Audio)
+[2022.07.23-13.33.22:985][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.23-13.33.22:985][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.23-13.33.22:985][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.23-13.33.22:985][791]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.23-13.33.22:985][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.23-13.33.22:985][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.23-13.33.22:986][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.23-13.33.22:986][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.23-13.33.22:986][791]LogInit: FAudioDevice initialized.
+[2022.07.23-13.33.22:986][791]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMenu'.
+[2022.07.23-13.33.23:017][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.23-13.33.23:018][791]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.07.23-13.33.23:020][791]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.07.23-15.33.23
+[2022.07.23-13.33.23:021][791]LogWorld: Bringing up level for play took: 0.001159
+[2022.07.23-13.33.23:021][791]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.07.23-13.33.23:024][791]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.07.23-13.33.23:028][791]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.23-13.33.23:028][791]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.07.23-13.33.23:031][791]PIE: Server logged in
+[2022.07.23-13.33.23:032][791]PIE: Play in editor total start time 0,099 seconds.
+[2022.07.23-13.33.24:260][918]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.07.23-13.33.24:260][918]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.07.23-13.33.24:261][918]LogNet: Browse: /Game/Scenes/Level
+[2022.07.23-13.33.24:261][918]LogLoad: LoadMap: /Game/Scenes/Level
+[2022.07.23-13.33.24:261][918]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2022.07.23-13.33.24:261][918]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.07.23-13.33.24:261][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.33.24:342][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.23-13.33.24:346][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.07.23-13.33.24:382][918]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level'.
+[2022.07.23-13.33.24:382][918]LogAIModule: Creating AISystem for world Level
+[2022.07.23-13.33.24:383][918]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.07.23-13.33.24:402][918]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.07.23-15.33.24
+[2022.07.23-13.33.24:402][918]LogWorld: Bringing up level for play took: 0.018843
+[2022.07.23-13.33.24:406][918]LogLoad: Took 0.145185 seconds to LoadMap(/Game/Scenes/Level)
+[2022.07.23-13.33.30:365][441]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.23-13.33.30:365][441]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.23-13.33.30:365][441]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.07.23-13.33.37:695][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.23-13.33.37:696][ 80]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Level
+[2022.07.23-13.33.37:696][ 80]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.23-13.33.37:718][ 80]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.07.23-13.33.37:720][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.33.37:730][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.23-13.33.37:737][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.33.37:771][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.23-13.33.37:771][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.23-13.33.37:772][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.23-13.33.37:778][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.07.23-13.33.37:810][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.07.23-13.33.42:550][641]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.07.23-13.33.42:550][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.33.46:582][114]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.23-13.33.46:605][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.23-13.33.46:605][114]PIE: New page: PIE session: MainMenu (23.07.2022, 17:33:46)
+[2022.07.23-13.33.46:605][114]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2022.07.23-13.33.46:606][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000762s)
+[2022.07.23-13.33.46:607][114]LogAIModule: Creating AISystem for world MainMenu
+[2022.07.23-13.33.46:607][114]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2022.07.23-13.33.46:607][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001688s)
+[2022.07.23-13.33.46:638][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.07.23-13.33.46:639][114]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.23-13.33.46:639][114]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.23-13.33.46:639][114]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.23-13.33.46:639][114]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.07.23-13.33.46:640][114]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.23-13.33.46:640][114]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.23-13.33.46:640][114]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.23-13.33.46:640][114]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.07.23-13.33.46:640][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.23-13.33.46:640][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.23-13.33.46:640][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.23-13.33.46:640][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.23-13.33.46:640][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.23-13.33.46:640][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.23-13.33.46:640][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.23-13.33.46:640][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.23-13.33.46:641][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.23-13.33.46:641][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.23-13.33.46:641][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.23-13.33.46:641][114]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.23-13.33.46:644][114]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.23-13.33.46:644][114]LogAudioMixer: Display: 1: FrontRight
+[2022.07.23-13.33.46:653][114]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek(R) Audio)
+[2022.07.23-13.33.46:653][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.23-13.33.46:653][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.23-13.33.46:653][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.23-13.33.46:653][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.23-13.33.46:653][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.23-13.33.46:653][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.23-13.33.46:654][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.23-13.33.46:654][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.23-13.33.46:654][114]LogInit: FAudioDevice initialized.
+[2022.07.23-13.33.46:654][114]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2022.07.23-13.33.46:672][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.23-13.33.46:672][114]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.07.23-13.33.46:673][114]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.07.23-15.33.46
+[2022.07.23-13.33.46:673][114]LogWorld: Bringing up level for play took: 0.000507
+[2022.07.23-13.33.46:674][114]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.07.23-13.33.46:675][114]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.07.23-13.33.46:678][114]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.23-13.33.46:678][114]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.07.23-13.33.46:682][114]PIE: Server logged in
+[2022.07.23-13.33.46:683][114]PIE: Play in editor total start time 0,078 seconds.
+[2022.07.23-13.33.47:800][231]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.07.23-13.33.47:800][231]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.07.23-13.33.47:803][231]LogNet: Browse: /Game/Scenes/Level
+[2022.07.23-13.33.47:804][231]LogLoad: LoadMap: /Game/Scenes/Level
+[2022.07.23-13.33.47:804][231]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2022.07.23-13.33.47:804][231]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.07.23-13.33.47:804][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.33.47:856][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.23-13.33.47:860][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.07.23-13.33.47:894][231]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level'.
+[2022.07.23-13.33.47:895][231]LogAIModule: Creating AISystem for world Level
+[2022.07.23-13.33.47:895][231]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.07.23-13.33.47:915][231]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.07.23-15.33.47
+[2022.07.23-13.33.47:915][231]LogWorld: Bringing up level for play took: 0.018706
+[2022.07.23-13.33.47:918][231]LogLoad: Took 0.114916 seconds to LoadMap(/Game/Scenes/Level)
+[2022.07.23-13.33.48:798][304]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.07.23-13.33.48:798][304]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.23-13.33.48:798][304]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.07.23-13.33.57:345][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.23-13.33.57:346][ 52]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Level
+[2022.07.23-13.33.57:346][ 52]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.23-13.33.57:409][ 52]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.07.23-13.33.57:411][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.33.57:418][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.23-13.33.57:424][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.23-13.33.57:456][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.23-13.33.57:456][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.23-13.33.57:457][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.23-13.33.57:464][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.07.23-13.33.57:495][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_28
