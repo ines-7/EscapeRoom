@@ -1156,3 +1156,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.26-07.30.48:129][631]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_IngameMenu361B5FB04227152B353858A86BB3893B.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_IngameMenu.uasset'
 [2022.07.26-07.30.48:180][631]AssetCheck: New page: Asset Save: WB_IngameMenu
 [2022.07.26-07.30.48:180][631]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_IngameMenu.WB_IngameMenu
+[2022.07.26-07.38.12:485][184]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBlueprint/WB_Audio_Settings.WB_Audio_Settings
+[2022.07.26-07.38.37:224][ 44]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetBlueprint/WB_Graphic_Settings.WB_Graphic_Settings
+[2022.07.26-07.38.59:765][652]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.26-07.39.05:701][330]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.26-07.39.12:838][172]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.26-07.39.23:717][445]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.26-07.39.31:737][385]BlueprintLog: New page: Compile WB_Audio_Settings
+[2022.07.26-07.39.31:844][385]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.07.26-07.39.32:510][446]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Audio_Settings20A1F22F4836718B55E69AAF81E73814.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Audio_Settings.uasset'
+[2022.07.26-07.39.32:524][446]AssetCheck: New page: Asset Save: WB_Audio_Settings
+[2022.07.26-07.39.32:524][446]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Audio_Settings.WB_Audio_Settings
+[2022.07.26-07.39.35:054][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.07.26-07.39.35:184][741]LogSavePackage: Moving 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Saved/WB_Graphic_SettingsB2E5F011438283296DB28EA9126D2CBC.tmp' to 'D:/Uni/Projekte_Formativ_Summativ/CMN6204/SpecialisedProject/EscapeRoom/Content/WidgetBlueprint/WB_Graphic_Settings.uasset'
+[2022.07.26-07.39.35:196][741]AssetCheck: New page: Asset Save: WB_Graphic_Settings
+[2022.07.26-07.39.35:196][741]LogContentValidation: Display: Validating WidgetBlueprint /Game/WidgetBlueprint/WB_Graphic_Settings.WB_Graphic_Settings
