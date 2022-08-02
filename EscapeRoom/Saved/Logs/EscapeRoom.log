@@ -7263,3 +7263,1138 @@ BP_Chessfield
 [2022.08.02-09.49.12:927][ 75]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level7D7510B54E64FF9F5E85D4A2ECE37C57.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
 [2022.08.02-09.49.12:976][ 75]AssetCheck: New page: Asset Save: Level
 [2022.08.02-09.49.12:976][ 75]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-09.49.36:081][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_171)
+[2022.08.02-09.49.52:420][910]Cmd: EDIT COPY
+[2022.08.02-09.49.52:901][958]Cmd: EDIT PASTE
+[2022.08.02-09.50.02:855][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_189)
+[2022.08.02-09.50.06:475][308]Cmd: TRANSACTION UNDO
+[2022.08.02-09.50.06:476][308]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.50.06:908][320]Cmd: TRANSACTION UNDO
+[2022.08.02-09.50.06:908][320]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.50.29:230][571]Cmd: EDIT COPY
+[2022.08.02-09.50.29:603][593]Cmd: EDIT PASTE
+[2022.08.02-09.50.39:062][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor11)
+[2022.08.02-09.50.49:741][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_191)
+[2022.08.02-09.50.52:367][ 10]Cmd: TRANSACTION UNDO
+[2022.08.02-09.50.52:367][ 10]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.50.52:640][ 17]Cmd: TRANSACTION UNDO
+[2022.08.02-09.50.52:640][ 17]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.50.52:927][ 27]Cmd: TRANSACTION UNDO
+[2022.08.02-09.50.52:927][ 27]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.50.53:237][ 58]Cmd: TRANSACTION UNDO
+[2022.08.02-09.50.53:237][ 58]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.50.53:456][ 81]Cmd: TRANSACTION UNDO
+[2022.08.02-09.50.53:456][ 81]LogEditorTransaction: Undo Paste
+[2022.08.02-09.50.53:693][101]Cmd: TRANSACTION UNDO
+[2022.08.02-09.50.53:693][101]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.50.54:438][178]Cmd: TRANSACTION UNDO
+[2022.08.02-09.50.54:438][178]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.51.02:693][  4]Cmd: TRANSACTION UNDO
+[2022.08.02-09.51.02:693][  4]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.51.22:554][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bookcase_v36)
+[2022.08.02-09.51.23:238][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_21)
+[2022.08.02-09.51.28:401][576]LogActorFactory: Actor Factory created SM_MERGED_SM_book_1
+[2022.08.02-09.51.29:462][675]LogActorFactory: Actor Factory created SM_MERGED_SM_book_1
+[2022.08.02-09.51.29:998][718]Cmd: DELETE
+[2022.08.02-09.51.29:998][718]Cmd: ACTOR DELETE
+[2022.08.02-09.51.30:009][718]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-09.51.30:028][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.02-09.51.30:044][718]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.08.02-09.51.30:428][753]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_book_471
+[2022.08.02-09.51.32:257][958]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_book_471
+[2022.08.02-09.51.32:732][  5]Cmd: DELETE
+[2022.08.02-09.51.32:732][  5]Cmd: ACTOR DELETE
+[2022.08.02-09.51.32:743][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-09.51.32:763][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.08.02-09.51.32:764][  5]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.08.02-09.51.33:206][ 40]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_183
+[2022.08.02-09.51.35:321][282]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_183
+[2022.08.02-09.51.36:303][385]Cmd: DELETE
+[2022.08.02-09.51.36:303][385]Cmd: ACTOR DELETE
+[2022.08.02-09.51.36:312][385]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-09.51.36:330][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.02-09.51.36:331][385]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.08.02-09.51.37:652][522]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_book_11
+[2022.08.02-09.51.39:046][671]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_book_11
+[2022.08.02-09.51.49:716][793]Cmd: EDIT COPY
+[2022.08.02-09.51.49:991][824]Cmd: EDIT PASTE
+[2022.08.02-09.51.53:701][215]Cmd: EDIT COPY
+[2022.08.02-09.51.54:011][247]Cmd: EDIT PASTE
+[2022.08.02-09.52.00:574][946]Cmd: EDIT COPY
+[2022.08.02-09.52.00:854][974]Cmd: EDIT PASTE
+[2022.08.02-09.52.08:074][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_22)
+[2022.08.02-09.52.08:859][824]Cmd: EDIT COPY
+[2022.08.02-09.52.09:177][842]Cmd: EDIT PASTE
+[2022.08.02-09.52.19:511][932]Cmd: EDIT COPY
+[2022.08.02-09.52.19:779][963]Cmd: EDIT PASTE
+[2022.08.02-09.52.26:221][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_24)
+[2022.08.02-09.52.26:794][721]Cmd: EDIT COPY
+[2022.08.02-09.52.27:091][745]Cmd: EDIT PASTE
+[2022.08.02-09.52.29:594][ 10]Cmd: EDIT COPY
+[2022.08.02-09.52.29:865][ 33]Cmd: EDIT PASTE
+[2022.08.02-09.52.35:492][622]Cmd: EDIT COPY
+[2022.08.02-09.52.35:769][652]Cmd: EDIT PASTE
+[2022.08.02-09.52.42:837][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_19)
+[2022.08.02-09.52.43:581][444]Cmd: EDIT COPY
+[2022.08.02-09.52.43:847][474]Cmd: EDIT PASTE
+[2022.08.02-09.52.45:204][619]Cmd: TRANSACTION UNDO
+[2022.08.02-09.52.45:204][619]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.52.49:286][ 17]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_29)
+[2022.08.02-09.52.52:325][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_182)
+[2022.08.02-09.53.12:350][187]Cmd: EDIT COPY
+[2022.08.02-09.53.12:782][217]Cmd: EDIT PASTE
+[2022.08.02-09.53.20:194][902]Cmd: TRANSACTION UNDO
+[2022.08.02-09.53.20:194][902]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.53.20:460][907]Cmd: TRANSACTION UNDO
+[2022.08.02-09.53.20:460][907]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.53.22:520][105]Cmd: TRANSACTION UNDO
+[2022.08.02-09.53.22:520][105]LogEditorTransaction: Undo Paste
+[2022.08.02-09.53.27:504][546]Cmd: EDIT COPY
+[2022.08.02-09.53.27:827][568]Cmd: EDIT PASTE
+[2022.08.02-09.53.51:933][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_38)
+[2022.08.02-09.54.23:458][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.54.28:393][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-09.54.33:298][529]Cmd: DELETE
+[2022.08.02-09.54.33:298][529]Cmd: ACTOR DELETE
+[2022.08.02-09.54.33:307][529]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-09.54.33:325][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.02-09.54.33:350][529]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.08.02-09.54.36:158][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.54.38:805][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid17)
+[2022.08.02-09.54.39:323][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.54.41:728][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.54.42:720][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.54.46:071][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.54.47:743][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid17)
+[2022.08.02-09.54.48:225][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.54.48:744][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.54.54:576][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-09.54.58:725][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.55.01:796][458]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.01:796][458]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.04:311][697]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.04:311][697]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.12:366][412]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.12:366][412]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.15:898][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.55.16:925][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.55.22:187][198]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.22:187][198]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.29:922][  1]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.29:922][  1]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.31:601][145]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.31:601][145]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.31:910][181]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.31:910][181]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.32:116][197]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.32:116][197]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.32:444][230]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.32:444][230]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.32:733][260]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.32:733][260]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.33:008][288]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.33:008][288]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.33:245][313]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.33:245][313]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.33:490][338]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.33:490][338]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.33:724][364]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.33:724][364]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.33:945][385]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.33:945][385]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.34:208][413]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.34:208][413]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.34:460][440]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.34:460][440]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.34:748][469]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.34:748][469]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-09.55.34:993][495]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.34:993][495]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.35:236][519]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.35:236][519]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.35:470][544]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.35:470][544]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.35:676][565]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.35:676][565]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.35:898][586]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.35:898][586]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.36:097][606]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.36:097][606]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.36:315][628]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.36:315][628]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.36:523][651]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.36:523][651]LogEditorTransaction: Undo Delete Actors
+[2022.08.02-09.55.36:720][668]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.36:721][668]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.36:950][691]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.36:950][691]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.37:192][713]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.37:192][713]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.37:460][743]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.37:460][743]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.37:701][771]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.37:701][771]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.38:212][822]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.38:212][822]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-09.55.38:429][844]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.38:429][844]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.38:670][869]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.38:670][869]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.38:892][892]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.38:892][892]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.39:130][917]Cmd: TRANSACTION UNDO
+[2022.08.02-09.55.39:130][917]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.55.39:670][978]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.55.43:634][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.55.52:510][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.55.55:034][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-09.56.00:849][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_left2)
+[2022.08.02-09.56.01:827][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-09.56.02:760][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-09.56.04:361][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid15)
+[2022.08.02-09.56.06:654][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-09.56.10:181][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_left2)
+[2022.08.02-09.56.11:816][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid15)
+[2022.08.02-09.56.12:226][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-09.56.12:627][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_left2)
+[2022.08.02-09.56.13:163][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-09.56.15:158][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid15)
+[2022.08.02-09.56.18:432][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-09.56.19:279][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-09.56.20:162][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.56.23:357][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-09.56.27:214][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-09.56.29:865][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.56.33:169][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.56.34:817][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.56.35:200][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.56.37:491][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.56.40:952][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid86)
+[2022.08.02-09.56.41:632][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-09.56.49:570][186]Cmd: TRANSACTION UNDO
+[2022.08.02-09.56.49:570][186]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-09.56.53:253][557]Cmd: TRANSACTION UNDO
+[2022.08.02-09.56.53:253][557]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.56.54:812][690]Cmd: TRANSACTION UNDO
+[2022.08.02-09.56.54:812][690]LogEditorTransaction: Undo Move Actors
+[2022.08.02-09.56.56:497][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid86)
+[2022.08.02-09.56.57:258][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-09.57.00:578][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-09.57.02:271][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-09.57.12:512][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-09.57.15:230][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-09.57.17:850][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-09.57.22:277][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-09.57.25:588][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-09.57.28:735][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid86)
+[2022.08.02-09.57.31:146][644]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere4)
+[2022.08.02-09.57.36:640][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-09.57.43:387][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-09.57.43:772][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_B2_2_in_4)
+[2022.08.02-09.57.46:216][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-09.57.49:588][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid86)
+[2022.08.02-09.57.50:140][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-09.57.52:602][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_B2_2_in_4)
+[2022.08.02-09.58.01:699][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-09.58.02:470][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-09.58.02:919][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.58.03:736][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-09.58.05:909][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.58.06:512][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-09.58.11:197][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_B2_2_in_2)
+[2022.08.02-09.58.23:590][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.58.24:137][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.58.24:606][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-09.58.25:336][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.58.25:838][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-09.58.26:221][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.58.26:747][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-09.58.27:070][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-09.58.27:479][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid15)
+[2022.08.02-09.58.27:866][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-09.58.33:140][208]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-09.58.37:974][750]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-09.59.04:011][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-09.59.04:458][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_left2)
+[2022.08.02-09.59.07:318][824]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-09.59.12:090][361]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-09.59.25:572][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid28)
+[2022.08.02-09.59.29:043][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_590)
+[2022.08.02-09.59.29:877][305]Cmd: EDIT COPY
+[2022.08.02-09.59.30:184][337]Cmd: EDIT PASTE
+[2022.08.02-09.59.43:365][813]Cmd: DELETE
+[2022.08.02-09.59.43:366][813]Cmd: ACTOR DELETE
+[2022.08.02-09.59.43:374][813]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-09.59.43:394][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.02-09.59.43:430][813]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2022.08.02-09.59.44:196][883]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-09.59.45:291][  5]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-09.59.46:208][113]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-09.59.49:145][459]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-10.00.02:781][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid13)
+[2022.08.02-10.00.03:640][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid12)
+[2022.08.02-10.00.04:446][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid11)
+[2022.08.02-10.00.05:043][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.00.05:841][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-10.00.08:337][418]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.00.11:731][793]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.00.26:660][347]Cmd: DELETE
+[2022.08.02-10.00.26:661][347]Cmd: ACTOR DELETE
+[2022.08.02-10.00.26:670][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.00.26:689][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.02-10.00.26:696][347]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.08.02-10.00.26:972][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71)
+[2022.08.02-10.00.27:093][390]Cmd: DELETE
+[2022.08.02-10.00.27:093][390]Cmd: ACTOR DELETE
+[2022.08.02-10.00.27:103][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.00.27:120][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.08.02-10.00.27:120][390]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.08.02-10.00.27:800][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_607)
+[2022.08.02-10.00.27:995][489]Cmd: DELETE
+[2022.08.02-10.00.27:995][489]Cmd: ACTOR DELETE
+[2022.08.02-10.00.28:004][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.00.28:020][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.02-10.00.28:021][489]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.08.02-10.00.29:717][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_590)
+[2022.08.02-10.00.29:929][689]Cmd: DELETE
+[2022.08.02-10.00.29:929][689]Cmd: ACTOR DELETE
+[2022.08.02-10.00.29:939][689]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.00.29:955][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.02-10.00.29:956][689]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.08.02-10.00.34:932][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid28)
+[2022.08.02-10.00.35:328][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid27)
+[2022.08.02-10.00.37:026][469]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.00.38:413][606]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.01.33:370][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner5)
+[2022.08.02-10.01.39:985][414]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96
+[2022.08.02-10.01.44:269][887]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96
+[2022.08.02-10.02.02:512][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_98)
+[2022.08.02-10.02.06:638][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid21)
+[2022.08.02-10.02.07:488][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid23)
+[2022.08.02-10.02.07:869][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid21)
+[2022.08.02-10.02.08:266][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid20)
+[2022.08.02-10.02.09:125][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid21)
+[2022.08.02-10.02.09:446][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid22)
+[2022.08.02-10.02.09:820][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid22)
+[2022.08.02-10.02.10:216][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid23)
+[2022.08.02-10.02.13:017][986]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-10.02.13:833][ 67]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-10.02.20:557][819]Cmd: DELETE
+[2022.08.02-10.02.20:558][819]Cmd: ACTOR DELETE
+[2022.08.02-10.02.20:566][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.02.20:586][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.08.02-10.02.20:601][819]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.08.02-10.02.24:973][319]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.02.25:944][428]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.03.01:366][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-10.03.11:175][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_608)
+[2022.08.02-10.03.29:661][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_B2_2_in_7)
+[2022.08.02-10.03.35:942][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.03.35:959][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.02-10.03.36:098][124]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level4992A2174621F86088097AB7D7EC302D.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.03.36:150][124]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.03.36:150][124]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.03.50:772][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-10.04.07:245][634]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.04.08:459][749]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.05.02:164][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-10.05.09:103][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_317)
+[2022.08.02-10.05.13:152][780]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.05.14:209][883]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.05.24:264][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-10.05.25:201][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_318)
+[2022.08.02-10.05.48:045][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_317)
+[2022.08.02-10.06.09:861][ 27]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.06.10:862][122]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.06.46:534][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid86)
+[2022.08.02-10.06.47:052][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid85)
+[2022.08.02-10.06.47:434][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid84)
+[2022.08.02-10.06.47:793][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid83)
+[2022.08.02-10.06.48:326][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid82)
+[2022.08.02-10.06.48:791][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid84)
+[2022.08.02-10.06.49:431][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_590)
+[2022.08.02-10.07.28:362][518]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.07.29:552][632]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.07.48:337][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid88)
+[2022.08.02-10.07.48:775][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_pillar3)
+[2022.08.02-10.07.49:405][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid88)
+[2022.08.02-10.07.50:262][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid78)
+[2022.08.02-10.07.52:663][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_590)
+[2022.08.02-10.07.55:611][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_pillar3)
+[2022.08.02-10.07.56:276][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_pillar3)
+[2022.08.02-10.07.56:999][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid88)
+[2022.08.02-10.07.57:824][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid78)
+[2022.08.02-10.07.58:302][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid88)
+[2022.08.02-10.08.01:642][ 37]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56
+[2022.08.02-10.08.02:958][153]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56
+[2022.08.02-10.08.20:441][ 23]Cmd: EDIT COPY
+[2022.08.02-10.08.20:777][ 61]Cmd: EDIT PASTE
+[2022.08.02-10.08.28:948][929]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_64
+[2022.08.02-10.08.33:343][425]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_64
+[2022.08.02-10.08.45:136][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_B2_2_in_14)
+[2022.08.02-10.08.54:306][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-10.08.58:408][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_317)
+[2022.08.02-10.08.59:379][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-10.09.07:213][941]Cmd: TRANSACTION UNDO
+[2022.08.02-10.09.07:213][941]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.09.07:842][965]Cmd: TRANSACTION UNDO
+[2022.08.02-10.09.07:842][965]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.09.08:391][ 19]Cmd: TRANSACTION UNDO
+[2022.08.02-10.09.08:392][ 19]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.09.08:890][ 73]Cmd: TRANSACTION UNDO
+[2022.08.02-10.09.08:891][ 73]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.09.09:876][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-10.09.11:722][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_B2_2_in_2)
+[2022.08.02-10.09.13:499][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-10.09.24:673][724]Cmd: DELETE
+[2022.08.02-10.09.24:673][724]Cmd: ACTOR DELETE
+[2022.08.02-10.09.24:682][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.09.24:702][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.08.02-10.09.24:740][724]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.08.02-10.09.25:116][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_317)
+[2022.08.02-10.09.25:254][774]Cmd: DELETE
+[2022.08.02-10.09.25:254][774]Cmd: ACTOR DELETE
+[2022.08.02-10.09.25:262][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.09.25:280][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.08.02-10.09.25:280][774]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.08.02-10.09.46:263][705]LogTexture: Display: Building textures: T_foliage_O (OODLE_AutoDXT, 2048X2048)
+[2022.08.02-10.09.46:263][705]LogTexture: Display: Building textures: T_foliage_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.08.02-10.09.46:263][705]LogTexture: Display: Building textures: T_foliage_BC (OODLE_AutoDXT, 2048X2048)
+[2022.08.02-10.09.46:263][705]LogTexture: Display: Building textures: T_foliage_N (OODLE_BC5, 2048X2048)
+[2022.08.02-10.09.46:263][705]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.02-10.09.46:263][705]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.02-10.09.46:263][705]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.02-10.09.46:263][705]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.02-10.09.46:263][705]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.08.02-10.09.46:263][705]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.08.02-10.09.46:263][705]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.08.02-10.09.46:263][705]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.08.02-10.09.46:263][705]LogMaterial: Display: Missing cached shadermap for M_foliage in PCD3D_SM5, Default, SM5 (DDC key hash: 6A958FF02F83F0FE85F8F979C0A34F26ACEE478B), compiling. 
+[2022.08.02-10.09.46:443][705]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2022.08.02-10.09.46:471][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2022.08.02-10.09.46:471][705]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2022.08.02-10.09.46:471][705]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2022.08.02-10.09.46:471][705]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.08.02-10.09.46:471][705]LogShaderCompilers: Display: Started 38 'Local' shader compile jobs with 'Low' priority
+[2022.08.02-10.09.46:471][705]LogStaticMesh: Building static mesh SM_fern_big...
+[2022.08.02-10.09.46:516][705]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/environment/foliage/SM_fern_big.SM_fern_big
+[2022.08.02-10.09.47:312][787]LogActorFactory: Actor Factory created SM_fern_big
+[2022.08.02-10.09.47:534][806]LogActorFactory: Actor Factory created SM_fern_big
+[2022.08.02-10.09.49:028][907]Cmd: DELETE
+[2022.08.02-10.09.49:028][907]Cmd: ACTOR DELETE
+[2022.08.02-10.09.49:047][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.09.49:079][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.08.02-10.09.49:092][907]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2022.08.02-10.09.53:911][174]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.02-10.09.53:911][174]LogShaderCompilers: Display: Total job queries 38, among them cache hits 0 (0.00%)
+[2022.08.02-10.09.53:911][174]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 7 distinct outputs (87.50%)
+[2022.08.02-10.09.53:911][174]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.02-10.09.53:911][174]LogShaderCompilers: Display: ================================================
+[2022.08.02-10.09.55:990][279]LogActorFactory: Actor Factory created SM_bc_round_corner
+[2022.08.02-10.09.56:822][368]LogActorFactory: Actor Factory created SM_bc_round_corner
+[2022.08.02-10.10.00:459][753]Cmd: DELETE
+[2022.08.02-10.10.00:459][753]Cmd: ACTOR DELETE
+[2022.08.02-10.10.00:468][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.10.00:487][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.02-10.10.00:489][753]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.08.02-10.10.00:880][790]LogActorFactory: Actor Factory created SM_bc_corner
+[2022.08.02-10.10.01:360][844]LogActorFactory: Actor Factory created SM_bc_corner
+[2022.08.02-10.10.44:280][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-10.10.46:446][772]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere4)
+[2022.08.02-10.10.48:459][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-10.10.56:083][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ceiling_straight_ceiling)
+[2022.08.02-10.10.57:118][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner8)
+[2022.08.02-10.11.05:892][978]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.05:892][978]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.09:372][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_B2_2_in_2)
+[2022.08.02-10.11.11:725][602]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.11:726][602]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.11:974][608]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.11:974][608]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.12:157][612]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.12:157][612]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.11.12:344][623]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.12:344][623]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.11.12:540][643]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.12:540][643]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.12:742][665]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.12:742][665]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.12:945][687]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.12:945][687]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.11.13:145][706]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.13:145][706]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.11.13:336][724]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.13:337][724]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.11.13:527][744]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.13:527][744]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.11.13:717][766]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.13:717][766]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.11.13:915][789]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.13:915][789]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.11.14:104][811]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.14:104][811]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.11.14:305][834]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.14:305][834]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.14:481][851]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.14:481][851]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.14:678][874]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.14:678][874]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.14:893][899]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.14:893][899]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.15:076][920]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.15:076][920]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.11.15:284][944]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.15:284][944]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.11.15:507][967]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.15:507][967]LogEditorTransaction: Undo Rotate Actors
+[2022.08.02-10.11.15:693][985]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.15:693][985]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.11.15:908][  8]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.15:908][  8]LogEditorTransaction: Undo Delete Actors
+[2022.08.02-10.11.16:398][ 61]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.16:398][ 61]LogEditorTransaction: Undo Rotate Actors
+[2022.08.02-10.11.16:762][100]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.16:762][100]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.11.17:032][130]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.17:032][130]LogEditorTransaction: Undo Delete Actors
+[2022.08.02-10.11.17:399][167]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.17:399][167]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.11.17:731][205]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.17:731][205]LogEditorTransaction: Undo Delete Actors
+[2022.08.02-10.11.18:206][254]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.18:206][254]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.11.18:570][296]Cmd: TRANSACTION UNDO
+[2022.08.02-10.11.18:570][296]LogEditorTransaction: Undo Delete Actors
+[2022.08.02-10.11.21:176][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.11.34:175][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.11.34:193][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.08.02-10.11.34:336][ 59]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/LevelC049274F48815625777FB9A7C6D5CD76.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.11.34:390][ 59]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.11.34:390][ 59]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.12.09:696][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-10.12.10:128][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.12.10:671][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-10.12.11:104][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.12.11:494][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-10.12.12:394][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-10.12.13:106][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid30)
+[2022.08.02-10.12.13:877][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid29)
+[2022.08.02-10.12.14:685][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid28)
+[2022.08.02-10.12.15:104][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid29)
+[2022.08.02-10.12.15:522][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_left2)
+[2022.08.02-10.12.16:295][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_left2)
+[2022.08.02-10.12.17:028][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-10.12.18:218][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid15)
+[2022.08.02-10.12.19:147][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-10.12.19:490][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_left2)
+[2022.08.02-10.12.21:150][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.12.21:594][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid11)
+[2022.08.02-10.12.22:085][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid12)
+[2022.08.02-10.12.22:502][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid13)
+[2022.08.02-10.12.22:988][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid13)
+[2022.08.02-10.12.23:380][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid8)
+[2022.08.02-10.12.24:849][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.12.25:194][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid11)
+[2022.08.02-10.12.25:612][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid12)
+[2022.08.02-10.12.26:024][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid13)
+[2022.08.02-10.12.30:373][695]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.12.31:684][824]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.12.32:132][873]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.12.32:281][887]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.12.33:030][967]Cmd: TRANSACTION UNDO
+[2022.08.02-10.12.33:030][967]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.12.33:667][995]Cmd: TRANSACTION UNDO
+[2022.08.02-10.12.33:667][995]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.12.35:213][132]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.12.35:789][186]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.12.48:087][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_609)
+[2022.08.02-10.12.48:637][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-10.12.50:134][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.12.51:492][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.12.51:860][829]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.12.52:302][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-10.13.00:303][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.13.05:104][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-10.13.15:353][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_609)
+[2022.08.02-10.13.17:144][559]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.17:144][559]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.13.17:375][564]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.17:375][564]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.13.17:672][572]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.17:672][572]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.13.18:112][616]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.18:112][616]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.13.20:156][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.13.23:554][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner10)
+[2022.08.02-10.13.47:329][756]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.47:329][756]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.13.47:624][765]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.47:624][765]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.13.47:874][775]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.47:875][775]LogEditorTransaction: Undo Rotate Actors
+[2022.08.02-10.13.48:168][806]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.48:168][806]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.13.48:461][835]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.48:461][835]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.13.48:758][863]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.48:758][863]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.13.49:137][900]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.49:137][900]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.13.49:516][940]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.49:516][940]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.13.49:839][975]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.49:839][975]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.13.50:161][  9]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.50:161][  9]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.13.50:509][ 46]Cmd: TRANSACTION UNDO
+[2022.08.02-10.13.50:509][ 46]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.13.56:567][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.08.02-10.14.02:201][321]Cmd: TRANSACTION UNDO
+[2022.08.02-10.14.02:201][321]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.14.02:676][334]Cmd: TRANSACTION UNDO
+[2022.08.02-10.14.02:676][334]LogEditorTransaction: Undo Scale Actors
+[2022.08.02-10.14.08:537][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_B2_2_in_4)
+[2022.08.02-10.14.10:010][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_609)
+[2022.08.02-10.14.18:940][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid8)
+[2022.08.02-10.14.19:381][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_right4)
+[2022.08.02-10.14.20:462][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid9)
+[2022.08.02-10.14.20:997][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid8)
+[2022.08.02-10.14.21:487][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_right4)
+[2022.08.02-10.14.21:830][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid9)
+[2022.08.02-10.14.22:211][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid28)
+[2022.08.02-10.14.23:687][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid29)
+[2022.08.02-10.14.25:690][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_609)
+[2022.08.02-10.14.27:118][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-10.14.27:503][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.14.27:917][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.14.28:348][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-10.14.29:004][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-10.14.29:476][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.14.29:840][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-10.14.30:239][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid15)
+[2022.08.02-10.14.32:410][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_609)
+[2022.08.02-10.14.34:229][609]Cmd: EDIT COPY
+[2022.08.02-10.14.34:532][632]Cmd: EDIT PASTE
+[2022.08.02-10.14.46:657][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-10.15.01:902][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_318)
+[2022.08.02-10.15.02:718][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_590)
+[2022.08.02-10.15.09:783][398]Cmd: EDIT COPY
+[2022.08.02-10.15.10:111][422]Cmd: EDIT PASTE
+[2022.08.02-10.15.49:512][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_593)
+[2022.08.02-10.15.53:980][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_592)
+[2022.08.02-10.15.59:532][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_319)
+[2022.08.02-10.16.06:067][226]Cmd: DELETE
+[2022.08.02-10.16.06:068][226]Cmd: ACTOR DELETE
+[2022.08.02-10.16.06:081][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.16.06:100][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.08.02-10.16.06:132][226]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2022.08.02-10.16.06:886][298]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.16.08:680][505]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.16.22:274][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-10.16.23:479][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_592)
+[2022.08.02-10.16.24:055][211]Cmd: DELETE
+[2022.08.02-10.16.24:055][211]Cmd: ACTOR DELETE
+[2022.08.02-10.16.24:067][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.16.24:085][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.08.02-10.16.24:089][211]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.08.02-10.16.24:410][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_319)
+[2022.08.02-10.16.24:521][258]Cmd: DELETE
+[2022.08.02-10.16.24:521][258]Cmd: ACTOR DELETE
+[2022.08.02-10.16.24:533][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.16.24:550][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.02-10.16.24:551][258]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.08.02-10.16.27:480][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_593)
+[2022.08.02-10.16.29:312][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid84)
+[2022.08.02-10.16.29:677][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid85)
+[2022.08.02-10.16.30:101][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid86)
+[2022.08.02-10.16.33:046][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_593)
+[2022.08.02-10.16.42:833][219]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96
+[2022.08.02-10.16.43:688][302]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96
+[2022.08.02-10.16.44:197][347]Cmd: DELETE
+[2022.08.02-10.16.44:197][347]Cmd: ACTOR DELETE
+[2022.08.02-10.16.44:211][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.16.44:230][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.08.02-10.16.44:234][347]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.08.02-10.16.44:646][382]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.16.45:871][525]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.16.52:627][273]Cmd: DELETE
+[2022.08.02-10.16.52:627][273]Cmd: ACTOR DELETE
+[2022.08.02-10.16.52:641][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.16.52:658][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.08.02-10.16.52:661][273]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.08.02-10.16.53:665][364]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-10.16.54:382][440]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-10.17.23:400][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid12)
+[2022.08.02-10.17.23:767][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid7)
+[2022.08.02-10.17.24:817][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_right3)
+[2022.08.02-10.17.25:756][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid7)
+[2022.08.02-10.17.26:154][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid13)
+[2022.08.02-10.17.26:566][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid12)
+[2022.08.02-10.17.26:993][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid11)
+[2022.08.02-10.17.27:813][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.17.28:790][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-10.17.30:229][197]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96
+[2022.08.02-10.17.30:832][256]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96
+[2022.08.02-10.17.31:804][342]Cmd: DELETE
+[2022.08.02-10.17.31:804][342]Cmd: ACTOR DELETE
+[2022.08.02-10.17.31:819][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.17.31:838][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.08.02-10.17.31:845][342]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.08.02-10.17.32:383][392]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.17.36:394][861]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.17.37:107][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-10.17.38:312][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_592)
+[2022.08.02-10.17.51:693][459]Cmd: DELETE
+[2022.08.02-10.17.51:693][459]Cmd: ACTOR DELETE
+[2022.08.02-10.17.51:706][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.17.51:724][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.08.02-10.17.51:727][459]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.08.02-10.17.52:122][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.17.53:060][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid11)
+[2022.08.02-10.17.53:486][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid12)
+[2022.08.02-10.17.54:910][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.17.55:431][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid11)
+[2022.08.02-10.17.55:845][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid12)
+[2022.08.02-10.17.56:251][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid13)
+[2022.08.02-10.17.57:505][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.17.57:965][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-10.17.58:419][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.18.03:761][706]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.18.07:359][ 93]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.18.35:793][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_right3)
+[2022.08.02-10.18.46:294][156]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_136
+[2022.08.02-10.18.47:433][262]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_136
+[2022.08.02-10.18.47:865][307]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_136
+[2022.08.02-10.18.53:964][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_137)
+[2022.08.02-10.19.03:821][ 38]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.19.08:548][569]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.19.15:691][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_611)
+[2022.08.02-10.19.25:416][338]Cmd: EDIT COPY
+[2022.08.02-10.19.25:717][355]Cmd: EDIT PASTE
+[2022.08.02-10.19.35:114][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_138)
+[2022.08.02-10.19.37:805][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner6)
+[2022.08.02-10.19.39:416][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.20.01:229][856]Cmd: EDIT COPY
+[2022.08.02-10.20.01:591][878]Cmd: EDIT PASTE
+[2022.08.02-10.20.04:487][118]Cmd: TRANSACTION UNDO
+[2022.08.02-10.20.04:487][118]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.20.06:300][259]Cmd: TRANSACTION UNDO
+[2022.08.02-10.20.06:300][259]LogEditorTransaction: Undo Paste
+[2022.08.02-10.20.09:378][492]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-10.20.09:978][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_612)
+[2022.08.02-10.20.10:449][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.20.10:812][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.20.11:222][676]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_MERGED_SM_bc_mid16)
+[2022.08.02-10.20.11:766][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid18)
+[2022.08.02-10.20.13:431][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_39)
+[2022.08.02-10.20.13:900][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_185)
+[2022.08.02-10.20.32:202][547]Cmd: EDIT COPY
+[2022.08.02-10.20.32:558][574]Cmd: EDIT PASTE
+[2022.08.02-10.20.38:295][100]Cmd: TRANSACTION UNDO
+[2022.08.02-10.20.38:295][100]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.20.50:809][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_straight_railing_v8)
+[2022.08.02-10.21.07:770][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_607)
+[2022.08.02-10.21.17:212][144]Cmd: EDIT COPY
+[2022.08.02-10.21.17:489][163]Cmd: EDIT PASTE
+[2022.08.02-10.21.52:523][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_614)
+[2022.08.02-10.21.54:154][150]Cmd: TRANSACTION UNDO
+[2022.08.02-10.21.54:154][150]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.21.55:066][209]Cmd: TRANSACTION UNDO
+[2022.08.02-10.21.55:066][209]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.22.01:439][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_613)
+[2022.08.02-10.22.02:615][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner5)
+[2022.08.02-10.22.03:159][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_613)
+[2022.08.02-10.22.06:351][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_613)
+[2022.08.02-10.22.06:949][463]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 9
+[2022.08.02-10.22.07:748][557]Cmd: DELETE
+[2022.08.02-10.22.07:748][557]Cmd: ACTOR DELETE
+[2022.08.02-10.22.07:762][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.22.07:781][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.08.02-10.22.07:815][557]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.08.02-10.22.09:808][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_99)
+[2022.08.02-10.22.14:216][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner5)
+[2022.08.02-10.22.15:118][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_99)
+[2022.08.02-10.22.21:394][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner5)
+[2022.08.02-10.22.27:915][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid22)
+[2022.08.02-10.22.28:204][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid21)
+[2022.08.02-10.22.28:550][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid20)
+[2022.08.02-10.22.28:854][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner6)
+[2022.08.02-10.22.29:764][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid20)
+[2022.08.02-10.22.30:100][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid21)
+[2022.08.02-10.22.30:471][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid22)
+[2022.08.02-10.22.32:746][113]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56
+[2022.08.02-10.22.35:202][362]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56
+[2022.08.02-10.22.51:674][162]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.22.52:826][277]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.23.07:721][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid20)
+[2022.08.02-10.23.09:528][ 78]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.23.10:711][197]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.23.14:176][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_524)
+[2022.08.02-10.23.30:859][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner6)
+[2022.08.02-10.23.33:892][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner6)
+[2022.08.02-10.23.34:460][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_138)
+[2022.08.02-10.23.36:306][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner6)
+[2022.08.02-10.23.37:984][154]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.23.38:924][246]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.24.03:642][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid19)
+[2022.08.02-10.24.13:608][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.24.13:626][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.08.02-10.24.13:774][ 24]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level47B466184550DBE3313A5984FD728932.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.24.13:828][ 24]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.24.13:828][ 24]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.24.17:138][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_straight_wall_trim12)
+[2022.08.02-10.24.32:334][ 89]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.24.34:191][289]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.24.52:791][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_99)
+[2022.08.02-10.24.59:069][ 51]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.25.01:058][261]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.25.21:866][580]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-10.25.22:766][663]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-10.25.52:411][898]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96
+[2022.08.02-10.25.54:180][ 79]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96
+[2022.08.02-10.26.13:963][145]Cmd: TRANSACTION UNDO
+[2022.08.02-10.26.13:964][145]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.27.05:983][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_round_corner3)
+[2022.08.02-10.27.06:383][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid44)
+[2022.08.02-10.27.06:911][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid43)
+[2022.08.02-10.27.07:496][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bookcase_v1)
+[2022.08.02-10.27.08:263][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid42)
+[2022.08.02-10.27.08:786][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid43)
+[2022.08.02-10.27.09:085][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid44)
+[2022.08.02-10.27.36:133][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_100)
+[2022.08.02-10.27.38:138][ 52]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_559
+[2022.08.02-10.27.43:123][556]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_559
+[2022.08.02-10.28.32:528][ 30]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.28.34:710][257]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.28.58:348][854]Cmd: EDIT COPY
+[2022.08.02-10.28.58:637][875]Cmd: EDIT PASTE
+[2022.08.02-10.29.03:855][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_65)
+[2022.08.02-10.29.06:195][705]Cmd: EDIT COPY
+[2022.08.02-10.29.06:458][721]Cmd: EDIT PASTE
+[2022.08.02-10.29.16:570][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere4)
+[2022.08.02-10.29.28:076][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.29.28:097][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.08.02-10.29.28:268][ 82]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level05E2DE594A23D14BD84839BFAC9DC878.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.29.28:326][ 82]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.29.28:326][ 82]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.29.33:221][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_24)
+[2022.08.02-10.29.38:492][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.29.38:509][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.02-10.29.38:643][177]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level8F56A173460DF544B70D3DBFD513335D.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.29.38:701][177]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.29.38:701][177]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.29.53:078][384]LogActorFactory: Actor Factory created SM_MERGED_SM_book_1
+[2022.08.02-10.29.54:661][538]LogActorFactory: Actor Factory created SM_MERGED_SM_book_1
+[2022.08.02-10.30.01:965][303]Cmd: EDIT COPY
+[2022.08.02-10.30.02:311][344]Cmd: EDIT PASTE
+[2022.08.02-10.30.09:184][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_30)
+[2022.08.02-10.30.13:162][468]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_183
+[2022.08.02-10.30.15:396][703]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_183
+[2022.08.02-10.30.16:964][856]Cmd: EDIT COPY
+[2022.08.02-10.30.17:235][883]Cmd: EDIT PASTE
+[2022.08.02-10.30.21:463][338]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_book_171
+[2022.08.02-10.30.26:144][820]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_book_171
+[2022.08.02-10.30.26:936][904]Cmd: EDIT COPY
+[2022.08.02-10.30.27:204][931]Cmd: EDIT PASTE
+[2022.08.02-10.30.35:806][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_198)
+[2022.08.02-10.30.36:160][905]Cmd: EDIT COPY
+[2022.08.02-10.30.36:723][967]Cmd: EDIT PASTE
+[2022.08.02-10.30.51:596][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_31)
+[2022.08.02-10.30.55:234][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_191)
+[2022.08.02-10.30.59:327][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_199)
+[2022.08.02-10.31.05:160][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_190)
+[2022.08.02-10.31.25:579][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_31)
+[2022.08.02-10.31.27:212][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_book_191)
+[2022.08.02-10.31.27:730][384]Cmd: EDIT COPY
+[2022.08.02-10.31.27:991][411]Cmd: EDIT PASTE
+[2022.08.02-10.31.54:012][227]Cmd: EDIT COPY
+[2022.08.02-10.31.54:336][241]Cmd: EDIT PASTE
+[2022.08.02-10.32.24:147][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_198)
+[2022.08.02-10.32.27:525][705]Cmd: EDIT COPY
+[2022.08.02-10.32.27:819][738]Cmd: EDIT PASTE
+[2022.08.02-10.32.55:732][599]Cmd: EDIT COPY
+[2022.08.02-10.32.56:212][640]Cmd: EDIT PASTE
+[2022.08.02-10.33.09:760][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_198)
+[2022.08.02-10.33.14:145][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_206)
+[2022.08.02-10.33.17:605][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_208)
+[2022.08.02-10.33.30:988][303]Cmd: EDIT COPY
+[2022.08.02-10.33.31:263][336]Cmd: EDIT PASTE
+[2022.08.02-10.33.42:705][582]Cmd: DELETE
+[2022.08.02-10.33.42:705][582]Cmd: ACTOR DELETE
+[2022.08.02-10.33.42:722][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.33.42:722][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.33.42:722][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.33.42:741][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.08.02-10.33.42:776][582]LogEditorActor: Deleted 3 Actors (0.072 secs)
+[2022.08.02-10.33.43:931][715]Cmd: TRANSACTION UNDO
+[2022.08.02-10.33.43:931][715]LogEditorTransaction: Undo Delete Actors
+[2022.08.02-10.33.44:827][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_214)
+[2022.08.02-10.33.45:073][794]Cmd: DELETE
+[2022.08.02-10.33.45:073][794]Cmd: ACTOR DELETE
+[2022.08.02-10.33.45:087][794]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.33.45:103][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.02-10.33.45:104][794]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.08.02-10.34.05:389][692]Cmd: EDIT COPY
+[2022.08.02-10.34.05:700][716]Cmd: EDIT PASTE
+[2022.08.02-10.34.13:605][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bookcase_v30)
+[2022.08.02-10.34.14:505][538]Cmd: TRANSACTION UNDO
+[2022.08.02-10.34.14:505][538]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.02-10.34.26:325][669]Cmd: EDIT COPY
+[2022.08.02-10.34.26:632][697]Cmd: EDIT PASTE
+[2022.08.02-10.34.50:256][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere4)
+[2022.08.02-10.34.55:789][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid8)
+[2022.08.02-10.34.56:176][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_right4)
+[2022.08.02-10.34.56:656][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid9)
+[2022.08.02-10.34.57:152][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid28)
+[2022.08.02-10.34.57:712][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid29)
+[2022.08.02-10.34.58:449][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_left2)
+[2022.08.02-10.34.58:962][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid30)
+[2022.08.02-10.34.59:470][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid14)
+[2022.08.02-10.35.00:996][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid8)
+[2022.08.02-10.35.05:832][587]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_136
+[2022.08.02-10.35.10:762][131]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_136
+[2022.08.02-10.35.12:087][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_right4)
+[2022.08.02-10.35.14:880][570]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.35.17:065][814]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.35.22:410][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_540)
+[2022.08.02-10.35.22:823][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_609)
+[2022.08.02-10.35.24:630][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_540)
+[2022.08.02-10.35.27:046][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid9)
+[2022.08.02-10.35.27:713][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_right4)
+[2022.08.02-10.35.28:579][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_right4)
+[2022.08.02-10.35.29:045][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_right4)
+[2022.08.02-10.35.29:580][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_139)
+[2022.08.02-10.35.33:023][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid9)
+[2022.08.02-10.35.35:930][755]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56
+[2022.08.02-10.35.36:898][865]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56
+[2022.08.02-10.35.38:031][977]Cmd: TRANSACTION UNDO
+[2022.08.02-10.35.38:031][977]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.35.38:594][990]Cmd: TRANSACTION UNDO
+[2022.08.02-10.35.38:594][990]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.35.39:477][ 58]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56
+[2022.08.02-10.35.45:632][742]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56
+[2022.08.02-10.35.51:945][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid28)
+[2022.08.02-10.35.55:382][735]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.35.59:525][201]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.36.00:482][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid29)
+[2022.08.02-10.36.12:245][519]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.36.15:886][926]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.36.19:399][292]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.36.22:077][570]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.36.23:930][780]Cmd: TRANSACTION UNDO
+[2022.08.02-10.36.23:930][780]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.36.30:147][390]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.36.32:541][658]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.36.32:939][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid30)
+[2022.08.02-10.36.34:256][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid29)
+[2022.08.02-10.36.39:121][345]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.36.39:783][419]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.36.41:754][631]Cmd: TRANSACTION UNDO
+[2022.08.02-10.36.41:754][631]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.36.43:121][742]Cmd: TRANSACTION UNDO
+[2022.08.02-10.36.43:122][742]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.36.47:260][123]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.36.49:186][330]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.36.49:428][351]Cmd: TRANSACTION UNDO
+[2022.08.02-10.36.49:428][351]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.36.51:531][498]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_577
+[2022.08.02-10.36.52:333][587]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_577
+[2022.08.02-10.36.52:594][610]Cmd: TRANSACTION UNDO
+[2022.08.02-10.36.52:594][610]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.36.53:185][631]Cmd: TRANSACTION UNDO
+[2022.08.02-10.36.53:185][631]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.36.53:815][674]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_577
+[2022.08.02-10.36.54:400][739]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_577
+[2022.08.02-10.36.54:739][773]Cmd: TRANSACTION UNDO
+[2022.08.02-10.36.54:739][773]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.36.55:260][824]Cmd: TRANSACTION UNDO
+[2022.08.02-10.36.55:260][824]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.36.55:839][867]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_577
+[2022.08.02-10.36.56:332][919]LogActorFactory: Actor Factory created SM_MERGED_SM_MERGED_SM_MERGED_SM_book_577
+[2022.08.02-10.36.57:128][  1]Cmd: TRANSACTION UNDO
+[2022.08.02-10.36.57:128][  1]LogEditorTransaction: Undo Create Actors
+[2022.08.02-10.37.01:500][442]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_bc_mid29)
+[2022.08.02-10.37.02:217][518]Cmd: TRANSACTION UNDO
+[2022.08.02-10.37.02:217][518]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2022.08.02-10.37.04:030][674]Cmd: TRANSACTION UNDO
+[2022.08.02-10.37.04:030][674]LogEditorTransaction: Undo Move Actors
+[2022.08.02-10.37.25:521][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_541)
+[2022.08.02-10.37.29:068][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_mid30)
+[2022.08.02-10.37.37:193][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_525)
+[2022.08.02-10.37.37:934][403]Cmd: EDIT COPY
+[2022.08.02-10.37.38:222][436]Cmd: EDIT PASTE
+[2022.08.02-10.37.42:013][862]Cmd: DELETE
+[2022.08.02-10.37.42:013][862]Cmd: ACTOR DELETE
+[2022.08.02-10.37.42:029][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.37.42:048][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.08.02-10.37.42:077][862]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2022.08.02-10.37.42:988][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_70)
+[2022.08.02-10.37.43:519][ 27]Cmd: EDIT COPY
+[2022.08.02-10.37.43:813][ 57]Cmd: EDIT PASTE
+[2022.08.02-10.37.53:993][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.37.54:012][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.08.02-10.37.54:160][134]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level9974DF17405D2A8D6A6D0883DB3FB4B8.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.37.54:215][134]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.37.54:215][134]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.37.57:307][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71)
+[2022.08.02-10.37.57:672][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-10.38.01:601][892]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.38.03:161][ 53]LogActorFactory: Actor Factory created SM_MERGED_SM_book_315
+[2022.08.02-10.38.19:048][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-10.38.19:695][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bc_corner7)
+[2022.08.02-10.38.20:093][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_321)
+[2022.08.02-10.38.29:392][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.38.29:410][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.08.02-10.38.29:561][895]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level9F507A684EAD4FA58B0173B7C458A592.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.38.29:614][895]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.38.29:614][895]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.38.38:858][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.38.38:874][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.08.02-10.38.39:028][814]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level186BEB464A08166688DA61BBE7AE0155.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.38.39:077][814]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.38.39:077][814]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.38.40:972][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_bc_mid8)
+[2022.08.02-10.38.45:110][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.38.45:126][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.02-10.38.45:276][402]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/LevelF9780917498FDCB44426D5A351901667.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.38.45:331][402]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.38.45:331][402]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.38.55:897][387]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.38.57:410][534]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.39.00:047][774]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.39.01:014][873]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.39.04:092][152]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.39.04:819][217]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.39.08:514][560]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.39.08:875][594]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.39.13:238][990]LogActorFactory: Actor Factory created SM_TableLamp
+[2022.08.02-10.39.14:523][122]LogActorFactory: Actor Factory created SM_TableLamp
+[2022.08.02-10.39.18:709][532]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.39.19:195][577]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.39.24:031][999]LogActorFactory: Actor Factory created SM_TableLamp
+[2022.08.02-10.39.24:798][ 77]LogActorFactory: Actor Factory created SM_TableLamp
+[2022.08.02-10.40.04:296][652]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.40.05:776][795]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.40.16:587][922]Cmd: EDIT COPY
+[2022.08.02-10.40.16:917][956]Cmd: EDIT PASTE
+[2022.08.02-10.40.23:280][640]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.40.24:547][763]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.40.34:785][859]Cmd: EDIT COPY
+[2022.08.02-10.40.35:091][885]Cmd: EDIT PASTE
+[2022.08.02-10.40.37:962][180]Cmd: EDIT COPY
+[2022.08.02-10.40.38:211][199]Cmd: EDIT PASTE
+[2022.08.02-10.40.47:607][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp4)
+[2022.08.02-10.40.55:174][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp3)
+[2022.08.02-10.41.03:061][751]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.41.04:114][855]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.41.21:208][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floorlamp_stand3)
+[2022.08.02-10.41.21:554][732]Cmd: DELETE
+[2022.08.02-10.41.21:555][732]Cmd: ACTOR DELETE
+[2022.08.02-10.41.21:569][732]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.02-10.41.21:589][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.08.02-10.41.21:611][732]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2022.08.02-10.41.30:027][553]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.41.30:627][617]LogActorFactory: Actor Factory created SM_floorlamp_stand
+[2022.08.02-10.41.43:463][816]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.41.44:910][962]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.41.54:207][921]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.41.54:983][995]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.42.10:786][677]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.42.11:932][786]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.42.26:512][315]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.42.27:585][423]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.42.35:501][236]Cmd: EDIT COPY
+[2022.08.02-10.42.35:769][259]Cmd: EDIT PASTE
+[2022.08.02-10.42.41:314][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floorlamp_stand5)
+[2022.08.02-10.42.47:986][562]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.42.49:073][674]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.42.50:329][781]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.42.52:492][ 19]LogActorFactory: Actor Factory created SM_Lamp
+[2022.08.02-10.42.54:554][204]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere4)
+[2022.08.02-10.43.06:410][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.43.06:429][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.08.02-10.43.06:592][459]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/LevelEC2B617446874C93E497EEB5D4890B17.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.43.06:641][459]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.43.06:641][459]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.44.07:144][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.02-10.44.07:161][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.02-10.44.07:322][736]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/LevelBAB2560E440EA51A2C8CC78E153EF005.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.02-10.44.07:373][736]AssetCheck: New page: Asset Save: Level
+[2022.08.02-10.44.07:373][736]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.02-10.44.10:781][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.02-10.44.10:895][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SM1ECAF00B4B5FF47EC763F29D3199D32C.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_514.uasset'
+[2022.08.02-10.44.11:003][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SMB67C674C486BE4F178809DAAEC920505.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522.uasset'
+[2022.08.02-10.44.11:089][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SMF20AD1C041D39FA011FAC28264970EF6.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537.uasset'
+[2022.08.02-10.44.11:164][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SMB5B209CD47C9CE19893B65ABC56B522D.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_577.uasset'
+[2022.08.02-10.44.11:172][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_book_3" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_3.uasset" SILENT=true
+[2022.08.02-10.44.11:237][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_book_31A1E4CF3459319595FAED5959CC61543.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_3.uasset'
+[2022.08.02-10.44.11:245][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_book_4" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_4.uasset" SILENT=true
+[2022.08.02-10.44.11:255][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_book_4F48533C64E9EF434DE480096D43D8EAB.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_4.uasset'
+[2022.08.02-10.44.11:263][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_book_6" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_6.uasset" SILENT=true
+[2022.08.02-10.44.11:274][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_book_670C12AB84D769F4DA09706B5612E91CE.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_6.uasset'
+[2022.08.02-10.44.11:281][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_book_2" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_2.uasset" SILENT=true
+[2022.08.02-10.44.11:291][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_book_293A29B14404E41918282E8B94B22F7D1.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_2.uasset'
+[2022.08.02-10.44.11:315][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_book_93E3403B54B3717762E9BE2A7351AC8C2.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/SM_MERGED_SM_book_9.uasset'
+[2022.08.02-10.44.11:331][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_book_5" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_5.uasset" SILENT=true
+[2022.08.02-10.44.11:350][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_book_5F0D6CFE647C40650C2C5EC976B094CF9.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/SM_book_5.uasset'
+[2022.08.02-10.44.11:382][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_30D451707F4957D775448EF7BE0A47068D.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_30.uasset'
+[2022.08.02-10.44.11:414][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_1748958A14541E8109502C39A824E627445.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_174.uasset'
+[2022.08.02-10.44.11:443][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_4713C41F3CA46D59BEEE86AC4B286035FAF.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_471.uasset'
+[2022.08.02-10.44.11:488][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_117BADB24242AE14CB1CB3219153705DD6.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_11.uasset'
+[2022.08.02-10.44.11:521][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_465ED74F7D648BD3481E0B405B0FC0E8007.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_465.uasset'
+[2022.08.02-10.44.11:554][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_5137A34D2FC414B874363E83B8D9BC86F92.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_513.uasset'
+[2022.08.02-10.44.11:587][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_2518D1899C549F352EFFD3C6799026FAD16.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_251.uasset'
+[2022.08.02-10.44.11:683][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SMD6DFDC0E4EDCEE2DD3D8D6AA751C980B.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56.uasset'
+[2022.08.02-10.44.11:946][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SM67C63F2B4AD1954790EB288C4F87FC64.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71.uasset'
+[2022.08.02-10.44.12:170][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SMC67E3BB049B7F04788E216A9D8DC8CCF.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606.uasset'
+[2022.08.02-10.44.12:392][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SM1EDF0D73441DFF2CA335168434563D00.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589.uasset'
+[2022.08.02-10.44.12:627][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SMB38A787B4226A812C9D27E958AE8617A.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96.uasset'
+[2022.08.02-10.44.12:675][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SMFB27C6C1407D11D13F5FEE91B44CA4E4.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_136.uasset'
+[2022.08.02-10.44.12:732][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_1718BD22287414904ABC22B13B69703C9E3.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_171.uasset'
+[2022.08.02-10.44.12:782][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SM08DFDA0E4FA053C850588F8E65A686C5.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_183.uasset'
+[2022.08.02-10.44.12:813][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_45645973B714D1485ADC6122F91B9258E4B.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_456.uasset'
+[2022.08.02-10.44.12:866][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_book_175C4EED94712018AF406BB98100D4C41.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_book_1.uasset'
+[2022.08.02-10.44.12:945][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SM47D7274047D4062993B79DBD1A6AEB31.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_559.uasset'
+[2022.08.02-10.44.13:029][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MovableBookshelf14F5EDC54E00D173357F40B858E6ECB3.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/SM_MovableBookshelf.uasset'
+[2022.08.02-10.44.13:056][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_book_501A9FA021C48DCCEFDD554A09E4159A585.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_book_501.uasset'
+[2022.08.02-10.44.13:086][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_1980ADFF3844485256396FFB0852F9302C7.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_198.uasset'
+[2022.08.02-10.44.13:114][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_22100E52B1C4203579EAEC22A851351A48E.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_221.uasset'
+[2022.08.02-10.44.13:147][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_book_444A25C4CC24B683179198122BEA5E3BB59.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_444.uasset'
+[2022.08.02-10.44.13:370][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_MERGED_SM_MERGED_SMCE32B1C94CC5B56A2E000C92941BEC7C.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_64.uasset'
+[2022.08.02-10.44.13:396][103]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/SM_MERGED_SM_book_4769314C7D4418AD0A6C8172A8212C40BC4.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Assets/MergedBooks/SM_MERGED_SM_book_476.uasset'
+[2022.08.02-10.44.13:420][103]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_198.SM_MERGED_SM_MERGED_SM_book_198
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_book_501.SM_MERGED_SM_book_501
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_book_1.SM_MERGED_SM_book_1
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_183.SM_MERGED_SM_MERGED_SM_MERGED_SM_book_183
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_171.SM_MERGED_SM_MERGED_SM_book_171
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_456.SM_MERGED_SM_MERGED_SM_book_456
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_136.SM_MERGED_SM_MERGED_SM_MERGED_SM_book_136
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96.SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_96
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71.SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_71
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56.SM_MERGED_SM_MERGED_SM_MERGED_SM_book_56
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589.SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_589
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606.SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_606
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_251.SM_MERGED_SM_MERGED_SM_book_251
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_513.SM_MERGED_SM_MERGED_SM_book_513
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_465.SM_MERGED_SM_MERGED_SM_book_465
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_174.SM_MERGED_SM_MERGED_SM_book_174
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_514.SM_MERGED_SM_MERGED_SM_MERGED_SM_book_514
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522.SM_MERGED_SM_MERGED_SM_MERGED_SM_book_522
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537.SM_MERGED_SM_MERGED_SM_MERGED_SM_book_537
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_577.SM_MERGED_SM_MERGED_SM_MERGED_SM_book_577
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_book_3.SM_book_3
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_book_4.SM_book_4
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_book_6.SM_book_6
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_30.SM_MERGED_SM_MERGED_SM_book_30
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_11.SM_MERGED_SM_MERGED_SM_book_11
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_471.SM_MERGED_SM_MERGED_SM_book_471
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_book_5.SM_book_5
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/SM_MERGED_SM_book_9.SM_MERGED_SM_book_9
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_book_2.SM_book_2
+[2022.08.02-10.44.13:420][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/SM_MovableBookshelf.SM_MovableBookshelf
+[2022.08.02-10.44.13:422][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_book_559.SM_MERGED_SM_MERGED_SM_MERGED_SM_book_559
+[2022.08.02-10.44.13:422][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_221.SM_MERGED_SM_MERGED_SM_book_221
+[2022.08.02-10.44.13:422][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Long/SM_MERGED_SM_MERGED_SM_book_444.SM_MERGED_SM_MERGED_SM_book_444
+[2022.08.02-10.44.13:422][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/Full/SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_64.SM_MERGED_SM_MERGED_SM_MERGED_SM_MERGED_SM_book_64
+[2022.08.02-10.44.13:422][103]LogContentValidation: Display: Validating StaticMesh /Game/Assets/MergedBooks/SM_MERGED_SM_book_476.SM_MERGED_SM_book_476
