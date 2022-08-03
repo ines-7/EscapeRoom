@@ -1992,3 +1992,80 @@ BP_Chessfield
 [2022.08.03-10.15.10:525][340]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Coin4.BP_Coin4
 [2022.08.03-10.15.10:525][340]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Coin3.BP_Coin3
 [2022.08.03-10.15.10:525][340]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Coin2.BP_Coin2
+[2022.08.03-10.15.33:444][456]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_bc_vertical_column8)
+[2022.08.03-10.15.44:121][284]Cmd: TRANSACTION UNDO
+[2022.08.03-10.15.44:121][284]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2022.08.03-10.15.45:993][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_MERGED_SM_MERGED_SM_book_517)
+[2022.08.03-10.15.47:129][481]Cmd: TRANSACTION UNDO
+[2022.08.03-10.15.47:129][481]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.03-10.15.55:158][964]LogActorFactory: Actor Factory created SM_MovableBookshelf
+[2022.08.03-10.15.57:960][147]LogActorFactory: Actor Factory created SM_MovableBookshelf
+[2022.08.03-10.15.59:602][267]Cmd: DELETE
+[2022.08.03-10.15.59:602][267]Cmd: ACTOR DELETE
+[2022.08.03-10.15.59:615][267]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-10.15.59:640][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.08.03-10.15.59:643][267]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.08.03-10.16.05:632][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.03-10.16.07:007][694]LogSlate: Window 'Save Content' being destroyed
+[2022.08.03-10.16.07:792][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.08.03-10.16.08:692][758]LogSlate: Window 'Save Content' being destroyed
+[2022.08.03-10.16.08:725][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.03-10.16.08:743][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.03-10.16.08:916][758]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/LevelA206383F40A8A2A060F99E9B1FAF3788.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.03-10.16.08:954][758]LogFileHelpers: Saving map 'Level' took 0.230
+[2022.08.03-10.16.09:155][758]LogLinker: Warning: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_BC': Can't find file.
+[2022.08.03-10.16.09:155][758]LogLinker: Warning: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_BC': Can't find file.
+[2022.08.03-10.16.09:156][758]LogLinker: Warning: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_N': Can't find file.
+[2022.08.03-10.16.09:156][758]LogLinker: Warning: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_N': Can't find file.
+[2022.08.03-10.16.09:156][758]LogLinker: Warning: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_BC': Can't find file.
+[2022.08.03-10.16.09:156][758]LogLinker: Warning: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_N': Can't find file.
+[2022.08.03-10.16.09:516][758]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/LevelWith2.LevelWith2
+[2022.08.03-10.16.09:516][758]Cmd: MAP LOAD FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/LevelWith2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.03-10.16.09:516][758]LightingResults: New page: Lighting Build
+[2022.08.03-10.16.09:517][758]LoadErrors: New page: Loading map: LevelWith2.umap
+[2022.08.03-10.16.09:557][758]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-10.16.09:557][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-10.16.09:558][758]MapCheck: New page: Map Check
+[2022.08.03-10.16.09:558][758]LightingResults: New page: Lighting Build
+[2022.08.03-10.16.09:578][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-10.16.09:591][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.08.03-10.16.09:593][758]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelWith2'.
+[2022.08.03-10.16.09:641][758]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.03-10.16.09:641][758]LogAIModule: Creating AISystem for world LevelWith2
+[2022.08.03-10.16.09:669][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.03-10.16.09:702][758]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.03-10.16.09:703][758]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,795ms to complete.
+[2022.08.03-10.16.09:703][758]LogFileHelpers: Loading map 'LevelWith2' took 0.188
+[2022.08.03-10.16.09:747][758]AssetCheck: New page: Asset Save: Level
+[2022.08.03-10.16.09:747][758]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.03-10.16.13:021][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MovableBookshelf)
+[2022.08.03-10.16.13:759][ 44]Cmd: EDIT COPY
+[2022.08.03-10.16.14:861][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.03-10.16.14:888][120]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Level.Level
+[2022.08.03-10.16.14:888][120]Cmd: MAP LOAD FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.03-10.16.14:888][120]LightingResults: New page: Lighting Build
+[2022.08.03-10.16.14:888][120]LoadErrors: New page: Loading map: Level.umap
+[2022.08.03-10.16.14:937][120]LogWorld: UWorld::CleanupWorld for LevelWith2, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-10.16.14:937][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-10.16.14:937][120]MapCheck: New page: Map Check
+[2022.08.03-10.16.14:937][120]LightingResults: New page: Lighting Build
+[2022.08.03-10.16.14:957][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-10.16.14:961][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.08.03-10.16.14:963][120]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level'.
+[2022.08.03-10.16.15:001][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.03-10.16.15:001][120]LogAIModule: Creating AISystem for world Level
+[2022.08.03-10.16.15:029][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.08.03-10.16.15:063][120]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.03-10.16.15:064][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,191ms to complete.
+[2022.08.03-10.16.15:064][120]LogFileHelpers: Loading map 'Level' took 0.176
+[2022.08.03-10.16.16:503][202]Cmd: EDIT PASTE
+[2022.08.03-10.16.17:639][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.03-10.16.17:659][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.08.03-10.16.17:826][282]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level271801A346536EC3A70C9AA8CE323780.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.03-10.16.17:879][282]AssetCheck: New page: Asset Save: Level
+[2022.08.03-10.16.17:879][282]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.03-10.16.19:423][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.03-10.16.19:441][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.08.03-10.16.19:607][411]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level389D1D834965C0EEA376EF9531A948E9.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.03-10.16.19:657][411]AssetCheck: New page: Asset Save: Level
+[2022.08.03-10.16.19:657][411]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
