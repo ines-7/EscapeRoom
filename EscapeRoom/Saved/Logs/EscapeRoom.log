@@ -920,3 +920,271 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.04-08.45.02:478][182]LogSavePackage: Moving '../../../../../../Users/kraem/Desktop/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/MainMenuD14AC64740B93AAB0151A0A047F828D0.tmp' to '../../../../../../Users/kraem/Desktop/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/MainMenu.umap'
 [2022.08.04-08.45.02:574][182]AssetCheck: New page: Asset Save: MainMenu
 [2022.08.04-08.45.02:574][182]LogContentValidation: Display: Validating World /Game/Scenes/MainMenu.MainMenu
+[2022.08.04-08.45.31:037][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.08.04-08.45.31:169][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_BC': Can't find file.
+[2022.08.04-08.45.31:169][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_BC': Can't find file.
+[2022.08.04-08.45.31:170][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_N': Can't find file.
+[2022.08.04-08.45.31:170][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_N': Can't find file.
+[2022.08.04-08.45.31:170][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_BC': Can't find file.
+[2022.08.04-08.45.31:170][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_N': Can't find file.
+[2022.08.04-08.45.31:542][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_BC': Can't find file.
+[2022.08.04-08.45.31:542][727]LoadErrors: Failed to load /Game/Textures/Pawn_texture/T_Pawn_BC.T_Pawn_BC Referenced by M_Pawn
+[2022.08.04-08.45.31:542][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_N': Can't find file.
+[2022.08.04-08.45.31:543][727]LoadErrors: Failed to load /Game/Textures/Pawn_texture/T_Pawn_N.T_Pawn_N Referenced by M_Pawn
+[2022.08.04-08.45.31:543][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_BC': Can't find file.
+[2022.08.04-08.45.31:543][727]LoadErrors: Failed to load /Game/Textures/Pawn_texture/T_Pawn_BC.T_Pawn_BC Referenced by MaterialExpressionTextureSample_0
+[2022.08.04-08.45.31:543][727]LogLinker: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to load '/Game/Textures/Pawn_texture/T_Pawn_N': Can't find file.
+[2022.08.04-08.45.31:543][727]LoadErrors: Failed to load /Game/Textures/Pawn_texture/T_Pawn_N.T_Pawn_N Referenced by MaterialExpressionTextureSample_2
+[2022.08.04-08.45.31:890][727]LogMaterial: Display: Missing cached shadermap for M_Pawn in PCD3D_SM5, Default, SM5 (DDC key hash: E98204CBE017A7DE41492CC96FCE273E3372D32C), compiling. 
+[2022.08.04-08.45.31:891][727]LogMaterial: Warning: [AssetLog] C:\Users\kraem\Desktop\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\Materials\M_Pawn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.08.04-08.45.31:891][727]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.08.04-08.45.31:973][727]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Level.Level
+[2022.08.04-08.45.31:973][727]Cmd: MAP LOAD FILE="../../../../../../Users/kraem/Desktop/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.04-08.45.31:973][727]LightingResults: New page: Lighting Build
+[2022.08.04-08.45.31:973][727]LoadErrors: New page: Loading map: Level.umap
+[2022.08.04-08.45.31:977][727]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-08.45.31:977][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-08.45.31:977][727]MapCheck: New page: Map Check
+[2022.08.04-08.45.31:977][727]LightingResults: New page: Lighting Build
+[2022.08.04-08.45.31:986][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.04-08.45.31:989][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.08.04-08.45.31:989][727]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level'.
+[2022.08.04-08.45.32:019][727]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.04-08.45.32:019][727]LogAIModule: Creating AISystem for world Level
+[2022.08.04-08.45.32:030][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.08.04-08.45.32:059][727]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.04-08.45.32:059][727]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,15ms to complete.
+[2022.08.04-08.45.32:059][727]LogFileHelpers: Loading map 'Level' took 0.087
+[2022.08.04-08.45.32:305][729]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 1 (Frame:1).
+[2022.08.04-08.45.38:179][390]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere4)
+[2022.08.04-08.45.39:154][501]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog)
+[2022.08.04-08.45.40:874][705]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere4)
+[2022.08.04-08.45.41:392][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_476)
+[2022.08.04-08.45.44:294][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_476)
+[2022.08.04-08.45.48:440][557]EditorErrors: New page: Actor attachment
+[2022.08.04-08.46.03:466][175]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere4)
+[2022.08.04-08.46.04:068][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_SM_book_476)
+[2022.08.04-08.46.13:388][176]EditorErrors: New page: Actor attachment
+[2022.08.04-08.46.16:130][443]Cmd: TRANSACTION UNDO
+[2022.08.04-08.46.16:130][443]LogEditorTransaction: Undo Attach actors
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7D1F61A-48C7-C4DF-6A3C-6D88FD769435%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1aaf071e42a5e3fcf736869db82e2e0d%7Cd338eebddfea4431b5178a833448182e%7C81d1bfb8-544b-4b10-a90a-68a7529932fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x21d712ffeb0 [can pipeline])
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.202.204.68) port 443 (#0))
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: 0000021DD500A400: libcurl info message cache 7 (Closing connection 0)
+[2022.08.04-08.47.08:673][620]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7D1F61A-48C7-C4DF-6A3C-6D88FD769435%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1aaf071e42a5e3fcf736869db82e2e0d%7Cd338eebddfea4431b5178a833448182e%7C81d1bfb8-544b-4b10-a90a-68a7529932fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-08.48.57:285][179]Cmd: DELETE
+[2022.08.04-08.48.57:285][179]Cmd: ACTOR DELETE
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:296][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.48.57:301][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.08.04-08.48.57:304][179]LogEditorActor: Deleted 10 Actors (0.019 secs)
+[2022.08.04-08.49.25:931][137]Cmd: DELETE
+[2022.08.04-08.49.25:931][137]Cmd: ACTOR DELETE
+[2022.08.04-08.49.25:939][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.08.04-08.49.25:941][137]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7D1F61A-48C7-C4DF-6A3C-6D88FD769435%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1aaf071e42a5e3fcf736869db82e2e0d%7Cd338eebddfea4431b5178a833448182e%7C81d1bfb8-544b-4b10-a90a-68a7529932fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x21d712ffa90 [can pipeline])
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.173.8.190) port 443 (#1))
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: 0000021DCB846B00: libcurl info message cache 7 (Closing connection 1)
+[2022.08.04-08.51.13:881][736]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7D1F61A-48C7-C4DF-6A3C-6D88FD769435%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1aaf071e42a5e3fcf736869db82e2e0d%7Cd338eebddfea4431b5178a833448182e%7C81d1bfb8-544b-4b10-a90a-68a7529932fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-08.53.02:600][ 57]Cmd: DELETE
+[2022.08.04-08.53.02:600][ 57]Cmd: ACTOR DELETE
+[2022.08.04-08.53.02:610][ 57]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.04-08.53.02:615][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.08.04-08.53.02:617][ 57]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.08.04-08.53.42:005][136]EditorErrors: New page: Actor attachment
+[2022.08.04-08.53.44:461][421]Cmd: TRANSACTION UNDO
+[2022.08.04-08.53.44:462][421]LogEditorTransaction: Undo Attach actors
+[2022.08.04-08.53.47:540][663]Cmd: TRANSACTION UNDO
+[2022.08.04-08.53.47:540][663]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.04-08.53.52:405][133]Cmd: TRANSACTION UNDO
+[2022.08.04-08.53.52:405][133]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.04-08.53.58:796][781]EditorErrors: New page: Actor attachment
+[2022.08.04-08.54.00:260][903]Cmd: TRANSACTION UNDO
+[2022.08.04-08.54.00:260][903]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.04-08.54.04:700][293]Cmd: TRANSACTION UNDO
+[2022.08.04-08.54.04:700][293]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.04-08.54.04:967][300]Cmd: TRANSACTION UNDO
+[2022.08.04-08.54.04:967][300]LogEditorTransaction: Undo Attach actors
+[2022.08.04-08.54.06:520][442]Cmd: TRANSACTION UNDO
+[2022.08.04-08.54.06:520][442]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7D1F61A-48C7-C4DF-6A3C-6D88FD769435%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1aaf071e42a5e3fcf736869db82e2e0d%7Cd338eebddfea4431b5178a833448182e%7C81d1bfb8-544b-4b10-a90a-68a7529932fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x21d712ff580 [can pipeline])
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.23.221.255) port 443 (#2))
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: 0000021DB3E73900: libcurl info message cache 7 (Closing connection 2)
+[2022.08.04-08.54.28:471][584]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7D1F61A-48C7-C4DF-6A3C-6D88FD769435%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1aaf071e42a5e3fcf736869db82e2e0d%7Cd338eebddfea4431b5178a833448182e%7C81d1bfb8-544b-4b10-a90a-68a7529932fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-08.54.47:191][546]Cmd: POLY SELECT ADJACENT COPLANARS
+[2022.08.04-08.54.53:984][350]Cmd: DELETE
+[2022.08.04-08.54.53:984][350]Cmd: ACTOR DELETE
+[2022.08.04-08.54.53:992][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.08.04-08.54.53:996][350]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2022.08.04-08.54.55:125][486]Cmd: TRANSACTION UNDO
+[2022.08.04-08.54.55:125][486]LogEditorTransaction: Undo Delete Actors
+[2022.08.04-08.54.55:561][499]Cmd: TRANSACTION UNDO
+[2022.08.04-08.54.55:561][499]LogEditorTransaction: Undo Rename Folder
+[2022.08.04-08.55.05:642][642]Cmd: DELETE
+[2022.08.04-08.55.05:642][642]Cmd: ACTOR DELETE
+[2022.08.04-08.55.05:650][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.08.04-08.55.05:651][642]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2022.08.04-08.55.59:887][319]Cmd: TRANSACTION UNDO
+[2022.08.04-08.55.59:887][319]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.04-08.57.33:673][684]Cmd: TRANSACTION UNDO
+[2022.08.04-08.57.33:674][684]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.04-08.57.40:363][323]EditorErrors: New page: Actor attachment
+[2022.08.04-08.57.42:179][506]Cmd: TRANSACTION UNDO
+[2022.08.04-08.57.42:179][506]LogEditorTransaction: Undo Attach actors
+[2022.08.04-08.57.42:556][517]Cmd: TRANSACTION UNDO
+[2022.08.04-08.57.42:556][517]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.04-08.57.43:488][611]Cmd: TRANSACTION UNDO
+[2022.08.04-08.57.43:488][611]LogEditorTransaction: Undo Clicking on Actors
+[2022.08.04-08.58.19:484][540]EditorErrors: New page: Actor attachment
+[2022.08.04-08.59.25:876][787]LogEditorViewport: Clicking on Actor (LMB): BP_StairDoor_C (BP_StairDoor)
+[2022.08.04-08.59.39:620][197]Cmd: DELETE
+[2022.08.04-08.59.39:620][197]Cmd: ACTOR DELETE
+[2022.08.04-08.59.39:628][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.08.04-08.59.39:631][197]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2022.08.04-08.59.45:906][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.08.04-08.59.46:054][936]LogSavePackage: Moving '../../../../../../Users/kraem/Desktop/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level3058E3924272BB95F7046FB7E43B7C45.tmp' to '../../../../../../Users/kraem/Desktop/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.04-08.59.46:102][936]AssetCheck: New page: Asset Save: Level
+[2022.08.04-08.59.46:102][936]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.04-09.00.14:060][496]LogSlate: Took 0.000519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.04-09.00.14:706][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.08.04-09.00.14:781][517]LogSlate: Window 'EscapeRoom - Unreal Editor' being destroyed
+[2022.08.04-09.00.14:879][518]Cmd: QUIT_EDITOR
+[2022.08.04-09.00.14:879][518]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.08.04-09.00.14:881][518]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.08.04-09.00.14:883][518]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.08.04-09.00.14:883][518]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.08.04-09.00.14:883][518]LogAudio: Display: Audio Device unregistered from world 'Level'.
+[2022.08.04-09.00.14:883][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-09.00.14:884][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-09.00.14:886][518]LogAudio: Display: Audio Device Manager Shutdown
+[2022.08.04-09.00.14:889][518]LogExit: Preparing to exit.
+[2022.08.04-09.00.15:471][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.08.04-09.00.15:586][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:586][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:586][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.08.04-09.00.15:587][518]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-09.00.15:592][518]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.08.04-09.00.15:604][518]LogExit: Editor shut down
+[2022.08.04-09.00.15:605][518]LogExit: Transaction tracking system shut down
+[2022.08.04-09.00.15:871][518]LogExit: Object subsystem successfully closed.
+[2022.08.04-09.00.15:887][518]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.04-09.00.15:887][518]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.04-09.00.15:887][518]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.04-09.00.15:887][518]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.04-09.00.15:887][518]LogShaderCompilers: Display: ================================================
+[2022.08.04-09.00.15:901][518]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (848)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module OpenXRInput (838)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module GooglePADEditor (836)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (834)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (832)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2022.08.04-09.00.15:918][518]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module PlanarCut (824)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (822)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (820)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (812)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (810)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module SequenceRecorder (809)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (796)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (794)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module CharacterAI (792)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (790)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (788)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (786)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module TextureAlignMode (784)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module BspMode (782)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module GeometryMode (780)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.08.04-09.00.15:919][518]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.08.04-09.00.15:920][518]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
