@@ -3655,3 +3655,1040 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.04-10.17.01:254][ 80]AssetCheck: New page: Asset Save: multiple assets
 [2022.08.04-10.17.01:254][ 80]LogContentValidation: Display: Validating Blueprint /Game/Items/BP_Coin4.BP_Coin4
 [2022.08.04-10.17.01:254][ 80]LogContentValidation: Display: Validating Blueprint /Game/MysteryBlueprintsAndWidgets/BP/BP2/BP_Libre.BP_Libre
+[2022.08.04-10.17.14:659][273]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.04-10.17.14:686][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.04-10.17.14:686][273]PIE: New page: PIE session: PlayerController (04.08.2022, 14:17:14)
+[2022.08.04-10.17.14:686][273]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.17.14:694][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007279s)
+[2022.08.04-10.17.14:695][273]LogAIModule: Creating AISystem for world PlayerController
+[2022.08.04-10.17.14:695][273]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2022.08.04-10.17.14:695][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/PlayerController.PlayerController to /Game/Scenes/UEDPIE_0_PlayerController.PlayerController (0.008683s)
+[2022.08.04-10.17.14:717][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.04-10.17.14:718][273]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.04-10.17.14:718][273]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.04-10.17.14:718][273]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.04-10.17.14:718][273]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.04-10.17.14:719][273]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.04-10.17.14:719][273]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.08.04-10.17.14:720][273]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.04-10.17.14:720][273]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.04-10.17.14:720][273]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.04-10.17.14:721][273]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.08.04-10.17.14:721][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.04-10.17.14:721][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.04-10.17.14:721][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.04-10.17.14:721][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.04-10.17.14:721][273]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.04-10.17.14:721][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.04-10.17.14:721][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.04-10.17.14:721][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.04-10.17.14:722][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.04-10.17.14:722][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.04-10.17.14:722][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.04-10.17.14:722][273]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.04-10.17.14:725][273]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.04-10.17.14:726][273]LogAudioMixer: Display: 1: FrontRight
+[2022.08.04-10.17.14:754][273]LogAudioMixer: Display: Using Audio Device Lautsprecher (Razer Nari Essential)
+[2022.08.04-10.17.14:754][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.04-10.17.14:754][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.04-10.17.14:754][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.04-10.17.14:754][273]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.04-10.17.14:754][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.04-10.17.14:754][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.04-10.17.14:755][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.04-10.17.14:755][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.04-10.17.14:755][273]LogInit: FAudioDevice initialized.
+[2022.08.04-10.17.14:755][273]LogAudio: Display: Audio Device (ID: 18) registered with world 'PlayerController'.
+[2022.08.04-10.17.14:813][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.17.14:813][273]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.08.04-10.17.14:817][273]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_PlayerController.PlayerController up for play (max tick rate 0) at 2022.08.04-12.17.14
+[2022.08.04-10.17.14:818][273]LogWorld: Bringing up level for play took: 0.004368
+[2022.08.04-10.17.14:818][273]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.08.04-10.17.14:828][273]PIE: Server logged in
+[2022.08.04-10.17.14:830][273]PIE: Play in editor total start time 0,145 seconds.
+[2022.08.04-10.17.34:169][808]LogHttp: Warning: 000002763DEE6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.17.34:169][808]LogHttp: Warning: 000002763DEE6B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.17.34:169][808]LogHttp: Warning: 000002763DEE6B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.17.34:169][808]LogHttp: Warning: 000002763DEE6B00: libcurl info message cache 1 (Closing connection 14)
+[2022.08.04-10.17.34:169][808]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.18.34:193][153]LogHttp: Warning: 00000277423A6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.18.34:193][153]LogHttp: Warning: 00000277423A6B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.18.34:193][153]LogHttp: Warning: 00000277423A6B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.18.34:193][153]LogHttp: Warning: 00000277423A6B00: libcurl info message cache 1 (Closing connection 15)
+[2022.08.04-10.18.34:203][154]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.19.34:204][498]LogHttp: Warning: 00000276D518CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.19.34:204][498]LogHttp: Warning: 00000276D518CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.19.34:204][498]LogHttp: Warning: 00000276D518CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.19.34:204][498]LogHttp: Warning: 00000276D518CF00: libcurl info message cache 1 (Closing connection 16)
+[2022.08.04-10.19.34:204][498]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.20.10:939][728]LogBlueprintUserMessages: [BP_Libre_2] Waage ist Fertig
+[2022.08.04-10.20.13:984][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.20.13:984][981]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.20.13:985][981]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.04-10.20.13:988][981]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-10.20.13:989][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.20.14:001][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.04-10.20.14:012][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.20.14:037][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.04-10.20.14:037][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.20.14:038][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.20.14:048][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.08.04-10.20.14:097][982]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.08.04-10.20.15:234][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.04-10.20.15:254][ 72]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerControllerA66EE2904DF6AF115FC2B99D2C11BAF3.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.20.15:303][ 72]AssetCheck: New page: Asset Save: PlayerController
+[2022.08.04-10.20.15:303][ 72]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.20.19:049][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.08.04-10.20.19:071][424]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerController1DBD3BBB4CA08220F4ED70870D23A826.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.20.19:115][424]AssetCheck: New page: Asset Save: PlayerController
+[2022.08.04-10.20.19:115][424]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.20.32:771][663]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.08.04-10.20.34:177][783]LogHttp: Warning: 00000277023EC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.20.34:177][783]LogHttp: Warning: 00000277023EC800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.20.34:177][783]LogHttp: Warning: 00000277023EC800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.20.34:177][783]LogHttp: Warning: 00000277023EC800: libcurl info message cache 1 (Closing connection 17)
+[2022.08.04-10.20.34:185][784]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.20.34:203][786]LogEditorViewport: Clicking on Actor (LMB): BP_Belljar_C (BP_Belljar)
+[2022.08.04-10.20.35:348][900]LogEditorViewport: Clicking on Actor (LMB): BP_Belljar_C (BP_Belljar)
+[2022.08.04-10.20.35:968][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_Schachtisch6)
+[2022.08.04-10.20.36:319][995]LogEditorViewport: Clicking on Actor (LMB): BP_Coin1_C (BP_Coin1)
+[2022.08.04-10.20.37:780][130]LogEditorViewport: Clicking on Actor (LMB): BP_Libre_C (BP_Libre)
+[2022.08.04-10.20.41:526][453]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.08.04-10.20.44:737][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_onemesh_Schachtisch6)
+[2022.08.04-10.20.52:679][508]LogEditorViewport: Clicking on Actor (LMB): BP_Coin1_C (BP_Coin1)
+[2022.08.04-10.20.58:718][112]LogEditorViewport: Clicking on Actor (LMB): BP_Belljar_C (BP_Belljar)
+[2022.08.04-10.21.28:167][936]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MysteryBlueprintsAndWidgets/BP/BP2/BP_Belljar.BP_Belljar
+[2022.08.04-10.21.34:404][322]LogHttp: Warning: 00000276D2AF3900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.21.34:404][322]LogHttp: Warning: 00000276D2AF3900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.21.34:404][322]LogHttp: Warning: 00000276D2AF3900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.21.34:404][322]LogHttp: Warning: 00000276D2AF3900: libcurl info message cache 1 (Closing connection 18)
+[2022.08.04-10.21.34:404][322]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.22.34:232][928]LogHttp: Warning: 0000027741A87900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.22.34:232][928]LogHttp: Warning: 0000027741A87900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.22.34:232][928]LogHttp: Warning: 0000027741A87900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.22.34:232][928]LogHttp: Warning: 0000027741A87900: libcurl info message cache 1 (Closing connection 19)
+[2022.08.04-10.22.34:232][928]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.22.52:778][ 95]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.22.52:933][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.08.04-10.22.54:789][207]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.22.54:838][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.08.04-10.23.05:446][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.08.04-10.23.06:528][782]LogSlate: Window 'Save Content' being destroyed
+[2022.08.04-10.23.06:570][782]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/BP_Belljar092F0BAD4852114EC82FD28176EFE062.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/MysteryBlueprintsAndWidgets/BP/BP2/BP_Belljar.uasset'
+[2022.08.04-10.23.06:594][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.08.04-10.23.06:615][782]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerController92A549004D940B572837D99D31AACFB6.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.23.06:661][782]LogFileHelpers: Saving map 'PlayerController' took 0.091
+[2022.08.04-10.23.06:768][782]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/Level.Level
+[2022.08.04-10.23.06:768][782]Cmd: MAP LOAD FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.04-10.23.06:769][782]LightingResults: New page: Lighting Build
+[2022.08.04-10.23.06:769][782]LoadErrors: New page: Loading map: Level.umap
+[2022.08.04-10.23.06:771][782]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-10.23.06:771][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.23.06:771][782]MapCheck: New page: Map Check
+[2022.08.04-10.23.06:771][782]LightingResults: New page: Lighting Build
+[2022.08.04-10.23.06:793][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.04-10.23.06:799][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.08.04-10.23.06:800][782]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level'.
+[2022.08.04-10.23.06:843][782]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.04-10.23.06:843][782]LogAIModule: Creating AISystem for world Level
+[2022.08.04-10.23.06:872][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.08.04-10.23.06:907][782]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.04-10.23.06:908][782]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,845ms to complete.
+[2022.08.04-10.23.06:908][782]LogFileHelpers: Loading map 'Level' took 0.140
+[2022.08.04-10.23.06:951][782]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.04-10.23.06:951][782]LogContentValidation: Display: Validating Blueprint /Game/MysteryBlueprintsAndWidgets/BP/BP2/BP_Belljar.BP_Belljar
+[2022.08.04-10.23.06:951][782]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.23.10:928][  0]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePiece3_C (BP_PuzzlePiece3)
+[2022.08.04-10.23.11:768][ 53]Cmd: DELETE
+[2022.08.04-10.23.11:793][ 53]Cmd: ACTOR DELETE
+[2022.08.04-10.23.12:058][ 53]LogEditorActor: Deleted Actor: BP_PuzzlePiece3_C
+[2022.08.04-10.23.12:079][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.08.04-10.23.12:081][ 53]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2022.08.04-10.23.12:089][ 53]LogEditorViewport: Clicking on Actor (LMB): BP_Belljar_C (BP_Belljar)
+[2022.08.04-10.23.13:304][130]LogEditorViewport: Clicking on Actor (LMB): BP_Belljar_C (BP_Belljar)
+[2022.08.04-10.23.16:932][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.04-10.23.16:956][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.08.04-10.23.17:200][344]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Level346DBA7A43F447330321ACA2389FE875.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.04-10.23.17:257][344]AssetCheck: New page: Asset Save: Level
+[2022.08.04-10.23.17:257][344]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.04-10.23.24:117][770]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.04-10.23.29:030][176]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.23.29:078][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.08.04-10.23.31:889][352]LogEditorViewport: Clicking on Actor (LMB): BP_Libre_C (BP_Libre)
+[2022.08.04-10.23.33:447][449]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.23.33:489][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.08.04-10.23.34:181][490]LogHttp: Warning: 0000027742251D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.23.34:181][490]LogHttp: Warning: 0000027742251D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.23.34:181][490]LogHttp: Warning: 0000027742251D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.23.34:181][490]LogHttp: Warning: 0000027742251D00: libcurl info message cache 1 (Closing connection 20)
+[2022.08.04-10.23.34:181][490]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.23.42:737][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.08.04-10.23.43:728][777]LogSlate: Window 'Save Content' being destroyed
+[2022.08.04-10.23.43:770][777]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/BP_Belljar8FAAA3DC43B6440853B6389FD04F49E5.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/MysteryBlueprintsAndWidgets/BP/BP2/BP_Belljar.uasset'
+[2022.08.04-10.23.43:772][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Level" FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.04-10.23.43:799][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.04-10.23.44:015][777]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/LevelC517256C41FBFD3C22209B9EF6904AE1.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/Level.umap'
+[2022.08.04-10.23.44:051][777]LogFileHelpers: Saving map 'Level' took 0.280
+[2022.08.04-10.23.44:086][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.08.04-10.23.44:106][777]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerControllerAFA2391240BE7F6B3C5396AFE3969913.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.23.44:117][777]LogFileHelpers: Saving map 'PlayerController' took 0.065
+[2022.08.04-10.23.44:147][777]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.23.44:147][777]Cmd: MAP LOAD FILE="../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.04-10.23.44:147][777]LightingResults: New page: Lighting Build
+[2022.08.04-10.23.44:147][777]LoadErrors: New page: Loading map: PlayerController.umap
+[2022.08.04-10.23.44:155][777]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-10.23.44:155][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.23.44:156][777]MapCheck: New page: Map Check
+[2022.08.04-10.23.44:156][777]LightingResults: New page: Lighting Build
+[2022.08.04-10.23.44:178][777]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.04-10.23.44:184][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.08.04-10.23.44:189][777]LogAudio: Display: Audio Device (ID: 1) registered with world 'PlayerController'.
+[2022.08.04-10.23.44:204][777]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.04-10.23.44:204][777]LogAIModule: Creating AISystem for world PlayerController
+[2022.08.04-10.23.44:230][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.08.04-10.23.44:266][777]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.04-10.23.44:266][777]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,166ms to complete.
+[2022.08.04-10.23.44:266][777]LogFileHelpers: Loading map 'PlayerController' took 0.119
+[2022.08.04-10.23.44:314][777]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.04-10.23.44:314][777]LogContentValidation: Display: Validating Blueprint /Game/MysteryBlueprintsAndWidgets/BP/BP2/BP_Belljar.BP_Belljar
+[2022.08.04-10.23.44:314][777]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.23.44:314][777]LogContentValidation: Display: Validating World /Game/Scenes/Level.Level
+[2022.08.04-10.23.48:866][118]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MysteryBlueprintsAndWidgets/BP/BP2/BP_Libre.BP_Libre
+[2022.08.04-10.24.06:123][355]LogSlate: Took 0.009752 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.08.04-10.24.19:067][388]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.24.19:124][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.08.04-10.24.34:178][459]LogHttp: Warning: 00000276D0E0DD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.24.34:178][459]LogHttp: Warning: 00000276D0E0DD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.24.34:178][459]LogHttp: Warning: 00000276D0E0DD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.24.34:178][459]LogHttp: Warning: 00000276D0E0DD00: libcurl info message cache 1 (Closing connection 21)
+[2022.08.04-10.24.34:188][460]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.25.08:049][926]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.04-10.25.08:067][926]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.04-10.25.30:365][604]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.25.30:417][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.08.04-10.25.34:208][832]LogHttp: Warning: 00000276D0D40F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.25.34:208][832]LogHttp: Warning: 00000276D0D40F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.25.34:208][832]LogHttp: Warning: 00000276D0D40F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.25.34:208][832]LogHttp: Warning: 00000276D0D40F00: libcurl info message cache 1 (Closing connection 22)
+[2022.08.04-10.25.34:208][832]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.25.37:035][996]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MysteryBlueprintsAndWidgets/BP/BP_Chessfield.BP_Chessfield
+[2022.08.04-10.25.39:195][ 75]BlueprintLog: New page: Compile BP_Chessfield
+[2022.08.04-10.25.39:267][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.08.04-10.26.28:891][455]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.26.28:963][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.08.04-10.26.34:231][687]LogHttp: Warning: 000002775B262B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.26.34:231][687]LogHttp: Warning: 000002775B262B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.26.34:231][687]LogHttp: Warning: 000002775B262B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.26.34:231][687]LogHttp: Warning: 000002775B262B00: libcurl info message cache 1 (Closing connection 23)
+[2022.08.04-10.26.34:247][688]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.26.40:247][989]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.26.40:277][989]LogBlueprint: Error: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\MysteryBlueprintsAndWidgets\BP\BP2\BP_Libre.uasset: [Compiler] This blueprint (self) is not a SolvedInterface_C, therefore ' Target ' must have a connection.
+[2022.08.04-10.26.40:335][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.08.04-10.26.46:048][200]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.08.04-10.26.50:474][393]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.08.04-10.26.50:485][393]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.08.04-10.26.51:698][451]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.26.51:719][451]LogBlueprint: Error: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\MysteryBlueprintsAndWidgets\BP\BP2\BP_Libre.uasset: [Compiler] In use pin  Belljar  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.04-10.26.51:721][451]LogBlueprint: Error: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\MysteryBlueprintsAndWidgets\BP\BP2\BP_Libre.uasset: [Compiler] This blueprint (self) is not a SolvedInterface_C, therefore ' Target ' must have a connection.
+[2022.08.04-10.26.51:730][451]LogClass: Warning: Type mismatch in Belljar of BP_Libre_C - Previous (ObjectProperty) Current(InterfaceProperty) for package:  FObjectReader
+[2022.08.04-10.26.51:777][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.08.04-10.27.03:679][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.08.04-10.27.05:046][ 27]LogSlate: Window 'Save Content' being destroyed
+[2022.08.04-10.27.08:014][163]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MysteryBlueprintsAndWidgets/BP/B1/BP_Lock.BP_Lock
+[2022.08.04-10.27.14:050][427]BlueprintLog: New page: Compile BP_Lock
+[2022.08.04-10.27.14:129][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.08.04-10.27.22:999][881]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.27.23:006][881]LogBlueprint: Error: [AssetLog] D:\Programming\Unreal Projekte\EscapeRoom\EscapeRoom\Content\MysteryBlueprintsAndWidgets\BP\BP2\BP_Libre.uasset: [Compiler] This blueprint (self) is not a SolvedInterface_C, therefore ' Target ' must have a connection.
+[2022.08.04-10.27.23:059][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.08.04-10.27.28:276][152]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.27.28:340][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.08.04-10.27.32:663][374]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.27.32:727][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.08.04-10.27.34:198][452]LogHttp: Warning: 00000276E11CE400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.04-10.27.34:198][452]LogHttp: Warning: 00000276E11CE400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.08.04-10.27.34:198][452]LogHttp: Warning: 00000276E11CE400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.08.04-10.27.34:198][452]LogHttp: Warning: 00000276E11CE400: libcurl info message cache 1 (Closing connection 24)
+[2022.08.04-10.27.34:198][452]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D3723BB-4F08-34CC-0D0C-16A5AA14CC59%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b6555b3946c4ef4c217c7c8a2bab595b%7Cd338eebddfea4431b5178a833448182e%7C34335546-97db-4aab-818c-aead0f6f32f0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.04-10.27.37:981][661]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.27.38:045][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.08.04-10.27.43:841][977]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.27.43:911][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.08.04-10.27.44:819][ 28]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.27.44:882][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.08.04-10.27.56:583][655]LogEditorTransaction: Undo Modify Component(s)
+[2022.08.04-10.29.01:032][114]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.29.01:123][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.08.04-10.29.16:768][ 61]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.29.16:828][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.08.04-10.29.23:579][470]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.29.23:641][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.08.04-10.29.27:535][704]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.29.27:595][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.08.04-10.29.42:474][619]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.29.42:537][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.08.04-10.29.49:334][ 32]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.29.49:393][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.08.04-10.30.19:055][861]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.30.19:129][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.08.04-10.31.12:102][783]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.31.12:160][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.08.04-10.31.15:656][983]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.04-10.31.15:690][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.04-10.31.15:690][983]PIE: New page: PIE session: PlayerController (04.08.2022, 14:31:15)
+[2022.08.04-10.31.15:691][983]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.31.15:697][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005976s)
+[2022.08.04-10.31.15:698][983]LogAIModule: Creating AISystem for world PlayerController
+[2022.08.04-10.31.15:698][983]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2022.08.04-10.31.15:698][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/PlayerController.PlayerController to /Game/Scenes/UEDPIE_0_PlayerController.PlayerController (0.007407s)
+[2022.08.04-10.31.15:729][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.08.04-10.31.15:730][983]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.04-10.31.15:730][983]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.04-10.31.15:730][983]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.04-10.31.15:730][983]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.04-10.31.15:731][983]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.08.04-10.31.15:731][983]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.04-10.31.15:731][983]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.04-10.31.15:731][983]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.04-10.31.15:733][983]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.08.04-10.31.15:733][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.04-10.31.15:733][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.04-10.31.15:733][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.04-10.31.15:733][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.04-10.31.15:733][983]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.04-10.31.15:733][983]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.04-10.31.15:733][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.04-10.31.15:733][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.04-10.31.15:734][983]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.04-10.31.15:734][983]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.04-10.31.15:734][983]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.04-10.31.15:734][983]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.04-10.31.15:738][983]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.04-10.31.15:738][983]LogAudioMixer: Display: 1: FrontRight
+[2022.08.04-10.31.15:766][983]LogAudioMixer: Display: Using Audio Device Lautsprecher (Razer Nari Essential)
+[2022.08.04-10.31.15:766][983]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.04-10.31.15:767][983]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.04-10.31.15:767][983]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.04-10.31.15:767][983]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.04-10.31.15:767][983]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.04-10.31.15:767][983]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.04-10.31.15:768][983]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.04-10.31.15:768][983]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.04-10.31.15:768][983]LogInit: FAudioDevice initialized.
+[2022.08.04-10.31.15:768][983]LogAudio: Display: Audio Device (ID: 19) registered with world 'PlayerController'.
+[2022.08.04-10.31.15:811][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.31.15:812][983]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.08.04-10.31.15:815][983]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_PlayerController.PlayerController up for play (max tick rate 0) at 2022.08.04-12.31.15
+[2022.08.04-10.31.15:816][983]LogWorld: Bringing up level for play took: 0.003431
+[2022.08.04-10.31.15:816][983]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.08.04-10.31.15:823][983]PIE: Server logged in
+[2022.08.04-10.31.15:826][983]PIE: Play in editor total start time 0,137 seconds.
+[2022.08.04-10.31.25:584][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.31.25:584][443]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.31.25:585][443]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.04-10.31.25:592][443]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-10.31.25:595][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.31.25:606][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.04-10.31.25:610][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.31.25:646][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.04-10.31.25:646][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.31.25:648][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.31.25:656][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.08.04-10.31.25:699][444]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.08.04-10.31.26:655][498]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.08.04-10.31.28:272][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.08.04-10.31.28:887][625]LogEditorViewport: Clicking on Actor (LMB): BP_Libre_C (BP_Libre)
+[2022.08.04-10.31.42:536][288]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.31.42:609][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.08.04-10.31.48:180][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.08.04-10.31.48:203][555]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerController6AB0B8FF4A31D4329660CB96F9B396F5.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.31.48:251][555]AssetCheck: New page: Asset Save: PlayerController
+[2022.08.04-10.31.48:252][555]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.31.48:731][580]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.04-10.31.48:778][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.04-10.31.48:779][580]PIE: New page: PIE session: PlayerController (04.08.2022, 14:31:48)
+[2022.08.04-10.31.48:779][580]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.31.48:787][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007900s)
+[2022.08.04-10.31.48:789][580]LogAIModule: Creating AISystem for world PlayerController
+[2022.08.04-10.31.48:789][580]LogPlayLevel: PIE: World Init took: (0.002210s)
+[2022.08.04-10.31.48:789][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/PlayerController.PlayerController to /Game/Scenes/UEDPIE_0_PlayerController.PlayerController (0.010360s)
+[2022.08.04-10.31.48:826][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.08.04-10.31.48:827][580]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.04-10.31.48:827][580]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.04-10.31.48:827][580]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.04-10.31.48:827][580]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.04-10.31.48:827][580]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.04-10.31.48:828][580]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.04-10.31.48:828][580]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.04-10.31.48:829][580]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.08.04-10.31.48:829][580]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.08.04-10.31.48:829][580]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.48:829][580]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.04-10.31.48:829][580]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.04-10.31.48:829][580]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.31.48:829][580]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.04-10.31.48:829][580]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.04-10.31.48:829][580]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.04-10.31.48:830][580]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.08.04-10.31.48:830][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.04-10.31.48:830][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.04-10.31.48:830][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.04-10.31.48:830][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.04-10.31.48:830][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.04-10.31.48:830][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.04-10.31.48:830][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.04-10.31.48:830][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.04-10.31.48:831][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.04-10.31.48:831][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.04-10.31.48:831][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.04-10.31.48:831][580]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.04-10.31.48:834][580]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.04-10.31.48:834][580]LogAudioMixer: Display: 1: FrontRight
+[2022.08.04-10.31.48:863][580]LogAudioMixer: Display: Using Audio Device Lautsprecher (Razer Nari Essential)
+[2022.08.04-10.31.48:863][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.04-10.31.48:863][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.04-10.31.48:863][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.04-10.31.48:864][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.04-10.31.48:864][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.04-10.31.48:864][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.04-10.31.48:865][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.04-10.31.48:865][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.04-10.31.48:865][580]LogInit: FAudioDevice initialized.
+[2022.08.04-10.31.48:865][580]LogAudio: Display: Audio Device (ID: 20) registered with world 'PlayerController'.
+[2022.08.04-10.31.48:910][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.31.48:910][580]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.08.04-10.31.48:914][580]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_PlayerController.PlayerController up for play (max tick rate 0) at 2022.08.04-12.31.48
+[2022.08.04-10.31.48:914][580]LogWorld: Bringing up level for play took: 0.003400
+[2022.08.04-10.31.48:915][580]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.08.04-10.31.48:922][580]PIE: Server logged in
+[2022.08.04-10.31.48:925][580]PIE: Play in editor total start time 0,16 seconds.
+[2022.08.04-10.31.56:918][931]LogBlueprintUserMessages: [BP_Libre_2] Waage ist Fertig
+[2022.08.04-10.32.06:388][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.32.06:388][364]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.32.06:388][364]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.04-10.32.06:394][364]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-10.32.06:395][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.32.06:418][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.04-10.32.06:429][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.32.06:461][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.32.06:463][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.32.06:468][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.04-10.32.06:556][365]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.08.04-10.32.08:146][440]LogEditorViewport: Clicking on Actor (LMB): BP_Belljar_C (BP_Belljar)
+[2022.08.04-10.32.10:827][563]LogEditorViewport: Clicking on Actor (LMB): BP_Belljar_C (BP_Belljar)
+[2022.08.04-10.32.19:648][978]BlueprintLog: New page: Compile BP_Libre
+[2022.08.04-10.32.19:714][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.08.04-10.32.25:049][241]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.32.25:174][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.08.04-10.32.25:764][264]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.04-10.32.25:791][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.04-10.32.25:791][264]PIE: New page: PIE session: PlayerController (04.08.2022, 14:32:25)
+[2022.08.04-10.32.25:791][264]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.32.25:797][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005399s)
+[2022.08.04-10.32.25:797][264]LogAIModule: Creating AISystem for world PlayerController
+[2022.08.04-10.32.25:798][264]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2022.08.04-10.32.25:798][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/PlayerController.PlayerController to /Game/Scenes/UEDPIE_0_PlayerController.PlayerController (0.006524s)
+[2022.08.04-10.32.25:827][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.08.04-10.32.25:828][264]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.04-10.32.25:828][264]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.04-10.32.25:828][264]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.04-10.32.25:828][264]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.04-10.32.25:829][264]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.08.04-10.32.25:829][264]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.04-10.32.25:829][264]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.04-10.32.25:829][264]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.04-10.32.25:830][264]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.08.04-10.32.25:830][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.04-10.32.25:830][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.04-10.32.25:830][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.04-10.32.25:830][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.04-10.32.25:830][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.04-10.32.25:830][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.04-10.32.25:830][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.04-10.32.25:830][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.04-10.32.25:831][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.04-10.32.25:831][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.04-10.32.25:831][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.04-10.32.25:831][264]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.04-10.32.25:834][264]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.04-10.32.25:834][264]LogAudioMixer: Display: 1: FrontRight
+[2022.08.04-10.32.25:861][264]LogAudioMixer: Display: Using Audio Device Lautsprecher (Razer Nari Essential)
+[2022.08.04-10.32.25:861][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.04-10.32.25:861][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.04-10.32.25:861][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.04-10.32.25:862][264]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.04-10.32.25:862][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.04-10.32.25:862][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.04-10.32.25:863][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.04-10.32.25:863][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.04-10.32.25:863][264]LogInit: FAudioDevice initialized.
+[2022.08.04-10.32.25:863][264]LogAudio: Display: Audio Device (ID: 21) registered with world 'PlayerController'.
+[2022.08.04-10.32.25:912][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.32.25:912][264]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.08.04-10.32.25:916][264]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_PlayerController.PlayerController up for play (max tick rate 0) at 2022.08.04-12.32.25
+[2022.08.04-10.32.25:916][264]LogWorld: Bringing up level for play took: 0.003542
+[2022.08.04-10.32.25:916][264]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.08.04-10.32.25:924][264]PIE: Server logged in
+[2022.08.04-10.32.25:927][264]PIE: Play in editor total start time 0,136 seconds.
+[2022.08.04-10.32.54:551][641]LogBlueprintUserMessages: [BP_Libre_2] Waage ist Fertig
+[2022.08.04-10.33.01:314][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.33.01:314][966]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.33.01:315][966]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.04-10.33.01:319][966]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-10.33.01:320][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.33.01:338][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.04-10.33.01:349][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.33.01:378][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.04-10.33.01:379][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.33.01:380][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.33.01:387][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.08.04-10.33.01:461][967]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.08.04-10.33.06:849][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.08.04-10.33.06:869][239]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerController0DA15F614408495B18021BA668693E87.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.33.06:914][239]AssetCheck: New page: Asset Save: PlayerController
+[2022.08.04-10.33.06:914][239]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.33.17:602][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.08.04-10.33.17:623][740]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerController43D0C63E40514B02543A52A7FFB7F7E7.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.33.17:672][740]AssetCheck: New page: Asset Save: PlayerController
+[2022.08.04-10.33.17:672][740]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.33.21:234][903]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.33.21:313][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.08.04-10.33.22:004][930]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.04-10.33.22:030][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.04-10.33.22:030][930]PIE: New page: PIE session: PlayerController (04.08.2022, 14:33:22)
+[2022.08.04-10.33.22:031][930]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.33.22:038][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006899s)
+[2022.08.04-10.33.22:039][930]LogAIModule: Creating AISystem for world PlayerController
+[2022.08.04-10.33.22:039][930]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2022.08.04-10.33.22:039][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/PlayerController.PlayerController to /Game/Scenes/UEDPIE_0_PlayerController.PlayerController (0.008105s)
+[2022.08.04-10.33.22:067][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.08.04-10.33.22:068][930]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.04-10.33.22:068][930]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.04-10.33.22:068][930]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.04-10.33.22:068][930]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.04-10.33.22:068][930]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.04-10.33.22:069][930]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.08.04-10.33.22:069][930]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.04-10.33.22:069][930]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.04-10.33.22:070][930]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/Config/Windows/Scalability.ini]
+[2022.08.04-10.33.22:070][930]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.04-10.33.22:070][930]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.04-10.33.22:070][930]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.04-10.33.22:071][930]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.08.04-10.33.22:071][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.04-10.33.22:071][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.04-10.33.22:071][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.04-10.33.22:071][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.04-10.33.22:071][930]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.04-10.33.22:071][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.04-10.33.22:071][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.04-10.33.22:071][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.04-10.33.22:071][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.04-10.33.22:071][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.04-10.33.22:071][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.04-10.33.22:072][930]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.04-10.33.22:075][930]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.04-10.33.22:075][930]LogAudioMixer: Display: 1: FrontRight
+[2022.08.04-10.33.22:102][930]LogAudioMixer: Display: Using Audio Device Lautsprecher (Razer Nari Essential)
+[2022.08.04-10.33.22:102][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.04-10.33.22:102][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.04-10.33.22:102][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.04-10.33.22:102][930]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.04-10.33.22:102][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.04-10.33.22:102][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.04-10.33.22:103][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.04-10.33.22:103][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.04-10.33.22:103][930]LogInit: FAudioDevice initialized.
+[2022.08.04-10.33.22:103][930]LogAudio: Display: Audio Device (ID: 22) registered with world 'PlayerController'.
+[2022.08.04-10.33.22:161][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.33.22:161][930]LogLoad: Game class is 'PlayerGamemode_C'
+[2022.08.04-10.33.22:164][930]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_PlayerController.PlayerController up for play (max tick rate 0) at 2022.08.04-12.33.22
+[2022.08.04-10.33.22:165][930]LogWorld: Bringing up level for play took: 0.003478
+[2022.08.04-10.33.22:165][930]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.08.04-10.33.22:173][930]PIE: Server logged in
+[2022.08.04-10.33.22:179][930]PIE: Play in editor total start time 0,149 seconds.
+[2022.08.04-10.33.32:592][380]LogBlueprintUserMessages: [BP_Libre_2] Waage ist Fertig
+[2022.08.04-10.33.40:855][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.04-10.33.40:855][752]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_PlayerController
+[2022.08.04-10.33.40:855][752]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.04-10.33.40:861][752]LogWorld: UWorld::CleanupWorld for PlayerController, bSessionEnded=true, bCleanupResources=true
+[2022.08.04-10.33.40:862][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.33.40:885][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.04-10.33.40:899][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.04-10.33.40:935][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.04-10.33.40:935][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.33.40:936][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.04-10.33.40:946][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.08.04-10.33.41:021][753]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.08.04-10.33.42:066][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.08.04-10.33.42:088][794]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerControllerE993E39847D3439A9722DABA1FFEE7B4.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.33.42:134][794]AssetCheck: New page: Asset Save: PlayerController
+[2022.08.04-10.33.42:134][794]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.33.50:015][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.04-10.33.50:041][187]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerControllerC60E5443409D0B45A6B5C69E7933CB27.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.33.50:089][187]AssetCheck: New page: Asset Save: PlayerController
+[2022.08.04-10.33.50:089][187]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.33.53:132][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.08.04-10.33.53:154][325]LogSavePackage: Moving '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Saved/PlayerControllerABC6B8DD459BDF657FD0FF8DB9FEBA43.tmp' to '../../../../../../Programming/Unreal Projekte/EscapeRoom/EscapeRoom/Content/Scenes/PlayerController.umap'
+[2022.08.04-10.33.53:201][325]AssetCheck: New page: Asset Save: PlayerController
+[2022.08.04-10.33.53:202][325]LogContentValidation: Display: Validating World /Game/Scenes/PlayerController.PlayerController
+[2022.08.04-10.33.57:247][509]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.33.57:318][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.08.04-10.33.59:433][601]BlueprintLog: New page: Compile BP_Belljar
+[2022.08.04-10.33.59:505][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
